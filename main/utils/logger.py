@@ -3,7 +3,7 @@ from colorama import init, Fore
 from abc import ABC, abstractmethod
 
 init(autoreset=True)
-
+#PATRON DE DISEÑO
 class Logger(ABC):
 
     @abstractmethod

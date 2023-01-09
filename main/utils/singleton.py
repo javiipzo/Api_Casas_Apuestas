@@ -1,5 +1,5 @@
 
-
+#otro patron
 class SingletonPattern():    
 
     @staticmethod

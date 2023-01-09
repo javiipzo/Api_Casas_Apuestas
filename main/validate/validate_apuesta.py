@@ -9,7 +9,8 @@ validate_cliente = ValidateCliente()
 
 service = ApuestaService()
 
-#Strategy, un decorador mas general o algo ase
+#Strategy, un decorador mas general o algo asi
+#Otro patron de diseño
 class ValidateApuesta():
 
     def __init__(self):

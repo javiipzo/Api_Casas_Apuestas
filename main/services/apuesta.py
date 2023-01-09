@@ -36,7 +36,7 @@ class ApuestaService:
 
     def obtener_apuestas(self):
         return apuesta_repositorio.find_all()
-
+#patron
 class CuotaStrategy(ABC):
     def calcular_cuota(self, cuota):
         """Calcular probabilidad"""

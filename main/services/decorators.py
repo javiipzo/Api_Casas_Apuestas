@@ -2,7 +2,7 @@ from .. import db
 from main.models import EquipoModel, PartidoModel, ClienteModel, CuotaModel
 from functools import wraps
 
-
+#patrones
 def validar_apuesta(equipo_id, monto):
     def decorator(function):
         def wrapper(*args, **kwargs):

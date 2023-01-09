@@ -5,7 +5,6 @@ from main.models import ClienteModel, EquipoModel, PartidoModel
 import csv
 from main.services.cuota import CuotaService
 from main.map import CuotaSchema
-
 cuota_schema = CuotaSchema()
 service_cuota = CuotaService()
 
