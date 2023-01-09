@@ -40,6 +40,8 @@ class ApuestaService:
 class CuotaStrategy(ABC):
     def calcular_cuota(self, cuota):
         """Calcular probabilidad"""
+        probabilidad=(cuota.cuota_local+cuota.cuota_visitante+cuota.cuota_empate)/3
+        return probabilidad
 
 class CuotaLocal(CuotaStrategy):
     def calcular_cuota(self, cuota):
