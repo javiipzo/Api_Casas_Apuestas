@@ -38,10 +38,15 @@ class ApuestaService:
         return apuesta_repositorio.find_all()
 #patron
 class CuotaStrategy(ABC):
-    def calcular_cuota(self, cuota):
+    def calcular_cuota(self, caracter_part): #donde las caracter son [0]=Equipo local [1]=Equipo visitante [2]=Ganador (1=Local, 2=Empate, 3=Visitante)
+        #from modelo_entr import model
+        from sklearn.externals import joblib
+        #o de la siguiente manera
+        model= joblib.load("modelo_entrenado.pkl")
         """Calcular probabilidad"""
-        probabilidad=(cuota.cuota_local+cuota.cuota_visitante+cuota.cuota_empate)/3
+        probabilidad = model.predict_proba(caracter_part)
         return probabilidad
+        
 
 class CuotaLocal(CuotaStrategy):
     def calcular_cuota(self, cuota):
