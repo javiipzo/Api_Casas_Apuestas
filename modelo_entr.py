@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score
 
 # cargar los datos en un dataframe de pandas
 df = pd.read_csv("datos_partidos_historicos.csv") #inexistente de momento
-
+df= df.dropna()
 # seleccionar las características del modelo y la variable objetivo
 X = df[["equipo_local", "equipo_visitante", "cuota_local", "cuota_visitante"]]
 y = df["resultado"] #(1 para victoria local, 2 para empate, 3 para victoria visitante)

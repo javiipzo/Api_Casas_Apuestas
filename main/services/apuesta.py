@@ -38,13 +38,30 @@ class ApuestaService:
         return apuesta_repositorio.find_all()
 #patron
 class CuotaStrategy(ABC):
-    def calcular_cuota(self, caracter_part): #donde las caracter son [0]=Equipo local [1]=Equipo visitante [2]=Ganador (1=Local, 2=Empate, 3=Visitante)
+    def calcular_cuota(self, caracter_part): #donde las caracter son [0]=Equipo local [1]=Equipo visitante [2]=Cuota local [3]=Cuota visitante
         #from modelo_entr import model
         from sklearn.externals import joblib
         #o de la siguiente manera
         model= joblib.load("modelo_entrenado.pkl")
         """Calcular probabilidad"""
         probabilidad = model.predict_proba(caracter_part)
+
+        '''
+        O CON DEEP LEARNING
+
+        import pandas as pd
+        import numpy as np
+        from sklearn.model_selection import train_test_split
+        from sklearn.preprocessing import LabelEncoder
+        from tensorflow.python.keras import Sequential
+        from tensorflow.python.keras.layers import Dense
+        model=keras.models.load_model('red_neur.h5')
+        predictions=model.predict(caracter_part)
+
+        # Procesar la predicción
+        probabilidad = predictions[0][1] if self.__class__.__name__ == "CuotaLocal" else predictions[0][2]
+
+        '''
         return probabilidad
         
 
