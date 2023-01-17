@@ -1,0 +1,5001 @@
+Equipo_Local,Equipo_Visitante,Cuota_Local,Cuota_Visitante,Resultado
+Dortmund,Leipzig,3,97,1
+Club Brugge,Sheriff,82,18,2
+Bayern,LOSC,84,16,2
+Sevilla,Club Brugge,37,63,3
+Sheriff,Benfica,8,92,2
+Bayern,Atlanta,48,52,2
+Wolfsburg,Internazionale,85,15,3
+Juventus,Villareal,83,17,1
+Zenit,Man. City,86,14,1
+Chelsea,Benfica,42,58,2
+Milan,Atletico,57,43,3
+Dortmund,LOSC,1,99,2
+Bensiktas,Atletico,99,1,1
+Sevilla,Ajax,83,17,2
+Villareal,Sheriff,16,84,1
+Chelsea,Milan,99,1,2
+Villareal,Barcelona,13,87,3
+Paris,Benfica,29,71,1
+Paris,Barcelona,70,30,3
+Chelsea,Salzburg,80,20,2
+Chelsea,Juventus,6,94,3
+Paris,Chelsea,11,89,2
+Leipzig,Milan,91,9,1
+Shakhtar Donetsk,Man. City,91,9,2
+Porto,Juventus,41,59,1
+Sheriff,Liverpool,59,41,3
+Liverpool,Atletico,67,33,1
+Juventus,Liverpool,46,54,2
+Young Boys,Ajax,15,85,3
+Juventus,Sporting CP,12,88,3
+Dortmund,Wolfsburg,90,10,1
+Paris,Man. City,50,50,3
+Sporting CP,Sheriff,30,70,3
+Juventus,Wolfsburg,69,31,2
+Atlanta,Bayern,98,2,1
+Wolfsburg,Shakhtar Donetsk,27,73,2
+Porto,Zenit,42,58,2
+Sporting CP,Villareal,87,13,3
+Man. United,Porto,51,49,1
+Internazionale,Paris,58,42,1
+Shakhtar Donetsk,Milan,25,75,2
+Bensiktas,Zenit,45,55,2
+Bensiktas,Paris,38,62,3
+Barcelona,Real Madrid,27,73,3
+Man. City,Internazionale,39,61,2
+Bensiktas,Paris,50,50,1
+Club Brugge,Porto,21,79,2
+Leipzig,Atlanta,80,20,2
+Man. City,Paris,9,91,3
+Ajax,Milan,25,75,3
+Bensiktas,Chelsea,50,50,1
+Paris,Juventus,50,50,3
+Young Boys,Villareal,99,1,3
+Porto,Dynamo,40,60,1
+LOSC,Dynamo,45,55,1
+Benfica,Sheriff,30,70,2
+Malmö,Atlanta,6,94,1
+Internazionale,Atletico,83,17,3
+LOSC,Sheriff,84,16,2
+Man. City,Young Boys,15,85,1
+Barcelona,Real Madrid,46,54,1
+Ajax,Malmö,30,70,2
+Atletico,Man. City,62,38,2
+Porto,Man. City,14,86,3
+Bayern,Zenit,83,17,2
+Leipzig,Benfica,79,21,2
+LOSC,Paris,46,54,3
+Liverpool,Sheriff,65,35,2
+Barcelona,Man. City,93,7,1
+Milan,LOSC,94,6,1
+Benfica,Liverpool,6,94,1
+Milan,LOSC,16,84,1
+Porto,Sporting CP,65,35,1
+Barcelona,Benfica,59,41,3
+Young Boys,Chelsea,61,39,3
+Atletico,Atlanta,90,10,2
+Porto,Paris,45,55,1
+Malmö,Bensiktas,2,98,3
+Villareal,Dortmund,65,35,1
+Zenit,Ajax,90,10,2
+Bayern,Milan,58,42,3
+Club Brugge,LOSC,49,51,2
+Paris,Porto,83,17,3
+Atletico,Young Boys,25,75,1
+Villareal,Atletico,91,9,1
+Atlanta,Malmö,40,60,2
+Young Boys,Liverpool,61,39,2
+Atletico,Chelsea,100,0,3
+Man. United,Paris,74,26,1
+Shakhtar Donetsk,Bayern,16,84,1
+Chelsea,Atlanta,49,51,1
+Benfica,Sporting CP,57,43,1
+Chelsea,Dortmund,52,48,1
+Juventus,Salzburg,1,99,1
+Ajax,Club Brugge,33,67,2
+Bayern,Barcelona,90,10,2
+Barcelona,Sporting CP,71,29,3
+Ajax,Sporting CP,16,84,3
+Man. United,Porto,3,97,2
+Atletico,Man. United,68,32,2
+Shakhtar Donetsk,Internazionale,41,59,1
+Liverpool,Malmö,67,33,2
+Villareal,Sporting CP,49,51,3
+Internazionale,Sheriff,45,55,2
+Malmö,Juventus,34,66,3
+Atlanta,Sheriff,31,69,1
+Young Boys,Sheriff,27,73,2
+Bensiktas,Bayern,12,88,3
+Sporting CP,Atletico,67,33,2
+Man. City,Atletico,69,31,2
+Liverpool,Ajax,88,12,2
+Benfica,Man. United,47,53,3
+Bensiktas,Villareal,29,71,2
+Atletico,Barcelona,68,32,1
+Atlanta,Real Madrid,1,99,2
+Leipzig,Malmö,84,16,2
+Porto,Man. United,25,75,1
+Bayern,Sevilla,85,15,3
+Club Brugge,Internazionale,62,38,2
+Dynamo,Leipzig,23,77,1
+Man. United,Ajax,50,50,3
+Internazionale,Sporting CP,21,79,2
+Sheriff,Young Boys,18,82,2
+Atletico,Atlanta,5,95,3
+Sporting CP,Sevilla,24,76,1
+Bensiktas,Sevilla,75,25,1
+Benfica,Barcelona,19,81,1
+Wolfsburg,Villareal,93,7,2
+Internazionale,Man. City,28,72,1
+Porto,Sporting CP,23,77,3
+Chelsea,Sheriff,15,85,1
+Bensiktas,Dynamo,0,100,3
+Young Boys,Sevilla,40,60,1
+Young Boys,Atletico,18,82,3
+Juventus,Dynamo,70,30,2
+LOSC,Dortmund,34,66,1
+Sporting CP,LOSC,83,17,3
+Dortmund,Paris,1,99,2
+Ajax,Barcelona,21,79,1
+LOSC,Leipzig,42,58,3
+Atletico,Porto,45,55,3
+Ajax,Villareal,3,97,2
+Internazionale,Man. United,1,99,2
+Man. City,Atlanta,30,70,1
+Young Boys,Sporting CP,74,26,2
+Atlanta,Dynamo,2,98,3
+Real Madrid,Paris,69,31,3
+Milan,Sheriff,10,90,2
+LOSC,Club Brugge,92,8,3
+Dortmund,Milan,38,62,1
+Sheriff,Shakhtar Donetsk,95,5,1
+Shakhtar Donetsk,Real Madrid,53,47,3
+Bayern,Atletico,70,30,2
+Bayern,Milan,43,57,2
+Chelsea,Paris,61,39,3
+Atlanta,Shakhtar Donetsk,69,31,1
+Internazionale,Chelsea,65,35,2
+Milan,Dynamo,56,44,3
+Real Madrid,Club Brugge,84,16,1
+Barcelona,Villareal,92,8,1
+Dynamo,Sporting CP,4,96,2
+Atletico,Internazionale,1,99,3
+Sheriff,Wolfsburg,0,100,2
+Leipzig,Man. City,12,88,1
+Sevilla,Bayern,12,88,3
+Bensiktas,LOSC,41,59,1
+Liverpool,Internazionale,68,32,2
+Villareal,Man. United,20,80,1
+Dortmund,Club Brugge,91,9,1
+Sevilla,Bayern,29,71,3
+Real Madrid,Man. United,48,52,1
+Internazionale,Bensiktas,2,98,2
+Dortmund,Sevilla,33,67,3
+Young Boys,Man. United,80,20,2
+Milan,Barcelona,14,86,2
+Atletico,LOSC,91,9,2
+Benfica,Juventus,31,69,1
+Barcelona,Shakhtar Donetsk,63,37,1
+Young Boys,Barcelona,33,67,3
+Bensiktas,Sevilla,11,89,1
+Zenit,Villareal,90,10,3
+Juventus,Man. City,72,28,1
+Wolfsburg,Dortmund,95,5,2
+Club Brugge,Bensiktas,91,9,2
+Sporting CP,Villareal,3,97,1
+Club Brugge,Leipzig,71,29,1
+Juventus,Milan,49,51,3
+Atletico,Man. United,55,45,1
+Benfica,Internazionale,100,0,3
+Sporting CP,LOSC,51,49,1
+Zenit,Sevilla,79,21,1
+Malmö,Bayern,81,19,3
+Leipzig,Sevilla,51,49,3
+Atlanta,Milan,67,33,1
+Paris,Real Madrid,93,7,2
+Man. United,Bensiktas,47,53,1
+Bayern,Juventus,59,41,3
+Sheriff,Atlanta,13,87,2
+Dortmund,Sheriff,35,65,2
+Bensiktas,Salzburg,12,88,1
+Atlanta,Chelsea,82,18,2
+Sevilla,Barcelona,59,41,3
+Liverpool,LOSC,83,17,3
+Zenit,Paris,43,57,1
+Sheriff,Milan,89,11,2
+Internazionale,Real Madrid,65,35,1
+Juventus,LOSC,75,25,1
+Club Brugge,Shakhtar Donetsk,60,40,2
+Juventus,Sevilla,12,88,1
+Paris,Young Boys,14,86,3
+Dynamo,Bensiktas,85,15,1
+Porto,Juventus,83,17,3
+Wolfsburg,Porto,37,63,1
+Malmö,Internazionale,82,18,2
+Chelsea,Real Madrid,40,60,1
+Porto,Internazionale,87,13,1
+Barcelona,Zenit,38,62,2
+Salzburg,Zenit,68,32,1
+Young Boys,Wolfsburg,25,75,3
+Shakhtar Donetsk,Villareal,98,2,3
+LOSC,Chelsea,31,69,2
+Atlanta,Internazionale,54,46,2
+Salzburg,Zenit,2,98,3
+Barcelona,Villareal,36,64,2
+Sevilla,Man. City,8,92,3
+Porto,Villareal,83,17,2
+Malmö,Man. City,81,19,1
+Paris,Bayern,26,74,2
+Dynamo,Milan,13,87,2
+Zenit,Internazionale,37,63,2
+Porto,Man. City,62,38,1
+Man. City,Dortmund,21,79,3
+Internazionale,Benfica,28,72,3
+Ajax,Bayern,83,17,1
+Club Brugge,Milan,44,56,2
+Juventus,Bayern,85,15,3
+Dortmund,LOSC,1,99,1
+Chelsea,Salzburg,14,86,1
+Malmö,Internazionale,89,11,2
+Man. City,Wolfsburg,2,98,1
+Porto,LOSC,32,68,3
+Man. City,Leipzig,92,8,3
+Man. City,Dynamo,72,28,3
+Sporting CP,Chelsea,36,64,3
+Leipzig,Sheriff,37,63,2
+LOSC,Club Brugge,66,34,1
+Real Madrid,Atlanta,11,89,3
+Internazionale,Sevilla,90,10,3
+Ajax,Man. City,67,33,3
+Bayern,Man. City,74,26,2
+Ajax,Barcelona,88,12,3
+Bayern,Shakhtar Donetsk,6,94,2
+Salzburg,Man. United,27,73,3
+Barcelona,Dynamo,25,75,1
+Paris,Dortmund,73,27,1
+Sporting CP,Sheriff,72,28,2
+Bayern,Leipzig,42,58,2
+Milan,Liverpool,28,72,1
+Sheriff,Juventus,62,38,3
+Juventus,Liverpool,96,4,1
+Barcelona,Man. City,77,23,3
+Salzburg,Paris,95,5,2
+Man. City,Malmö,10,90,3
+Paris,Malmö,18,82,2
+Man. City,Sevilla,32,68,2
+Sporting CP,Sevilla,9,91,3
+Man. City,Real Madrid,32,68,1
+Real Madrid,Milan,3,97,1
+Chelsea,Club Brugge,91,9,2
+Liverpool,Atletico,65,35,3
+Juventus,Liverpool,32,68,2
+Liverpool,Chelsea,10,90,2
+Sporting CP,Bayern,12,88,2
+Liverpool,Bensiktas,41,59,3
+Atletico,Milan,45,55,3
+Chelsea,Atlanta,13,87,3
+Liverpool,Malmö,37,63,2
+Atletico,Bayern,30,70,2
+Salzburg,Chelsea,54,46,1
+Milan,Sporting CP,5,95,1
+Paris,Zenit,77,23,3
+Man. City,Atletico,10,90,2
+Leipzig,Zenit,38,62,3
+Benfica,Man. City,38,62,1
+Juventus,Bayern,75,25,2
+Villareal,Sevilla,100,0,1
+Paris,Barcelona,73,27,2
+Internazionale,Dortmund,96,4,1
+LOSC,Wolfsburg,15,85,2
+Ajax,Sheriff,18,82,3
+Man. United,Juventus,59,41,2
+Dynamo,Bensiktas,22,78,3
+Juventus,LOSC,4,96,3
+Dynamo,Man. United,94,6,1
+Ajax,Man. United,83,17,2
+Sevilla,Man. United,57,43,3
+Benfica,Sporting CP,86,14,1
+Barcelona,Porto,59,41,2
+Sevilla,Sporting CP,78,22,1
+Sporting CP,Barcelona,65,35,3
+Salzburg,Sevilla,55,45,1
+Liverpool,Ajax,50,50,2
+Benfica,Ajax,94,6,2
+Real Madrid,Milan,85,15,2
+Ajax,Villareal,61,39,1
+Real Madrid,Villareal,80,20,1
+Man. United,Sevilla,36,64,3
+Villareal,Real Madrid,61,39,2
+Atletico,Atlanta,5,95,1
+Porto,Internazionale,44,56,2
+Villareal,Benfica,96,4,3
+Atletico,Man. United,1,99,2
+Atlanta,Sevilla,0,100,2
+Atlanta,Real Madrid,62,38,2
+Liverpool,Sevilla,51,49,2
+Man. City,Real Madrid,69,31,3
+Sheriff,Zenit,47,53,2
+Sporting CP,Bayern,26,74,2
+Porto,Bensiktas,64,36,1
+Internazionale,LOSC,27,73,2
+Man. City,Malmö,39,61,3
+LOSC,Sevilla,84,16,2
+Chelsea,Paris,76,24,1
+Man. United,Salzburg,15,85,3
+Man. City,Bensiktas,78,22,3
+Wolfsburg,Real Madrid,45,55,1
+Shakhtar Donetsk,Dortmund,65,35,1
+LOSC,Ajax,44,56,1
+Milan,Sporting CP,95,5,3
+Dynamo,Shakhtar Donetsk,25,75,3
+Club Brugge,Dortmund,66,34,2
+Wolfsburg,Man. United,40,60,1
+Barcelona,Paris,41,59,3
+Chelsea,Paris,84,16,1
+Salzburg,Ajax,10,90,2
+Paris,Juventus,26,74,3
+Real Madrid,Internazionale,50,50,1
+Malmö,Ajax,73,27,1
+Bensiktas,Man. City,55,45,2
+Real Madrid,Malmö,71,29,3
+Malmö,Juventus,23,77,3
+Bensiktas,Club Brugge,59,41,2
+Ajax,Salzburg,7,93,1
+Leipzig,Dortmund,82,18,2
+Chelsea,Liverpool,94,6,2
+Sporting CP,Malmö,97,3,1
+Juventus,Dortmund,92,8,2
+Liverpool,LOSC,1,99,1
+Porto,Milan,15,85,2
+Malmö,Juventus,54,46,3
+Milan,LOSC,50,50,2
+Porto,Man. City,26,74,1
+Bayern,Sevilla,80,20,1
+Malmö,Dortmund,100,0,1
+Internazionale,Atlanta,35,65,3
+LOSC,Atlanta,80,20,3
+Benfica,Dortmund,47,53,1
+Young Boys,Dortmund,16,84,2
+Salzburg,Liverpool,17,83,1
+Man. United,Shakhtar Donetsk,62,38,1
+Liverpool,Juventus,75,25,1
+LOSC,Man. City,46,54,1
+Internazionale,Paris,19,81,3
+Ajax,Sheriff,47,53,2
+Benfica,Club Brugge,18,82,2
+Sheriff,Juventus,89,11,1
+Club Brugge,Young Boys,39,61,2
+Internazionale,Milan,75,25,3
+Wolfsburg,LOSC,27,73,2
+Shakhtar Donetsk,Juventus,69,31,3
+Leipzig,Young Boys,76,24,2
+LOSC,Barcelona,84,16,2
+Atletico,Benfica,53,47,3
+Paris,Sporting CP,72,28,3
+Shakhtar Donetsk,Sevilla,25,75,1
+Shakhtar Donetsk,Salzburg,5,95,3
+Club Brugge,Sevilla,18,82,1
+Atlanta,Villareal,23,77,1
+Man. City,Internazionale,50,50,1
+Young Boys,Sporting CP,19,81,1
+Internazionale,Shakhtar Donetsk,58,42,1
+Man. City,Benfica,30,70,1
+Ajax,Salzburg,29,71,2
+Internazionale,Chelsea,76,24,2
+Juventus,Porto,13,87,1
+Bensiktas,Salzburg,35,65,2
+LOSC,Milan,81,19,2
+Salzburg,Real Madrid,3,97,1
+Malmö,Club Brugge,95,5,3
+Barcelona,Wolfsburg,71,29,1
+Paris,Leipzig,69,31,2
+Sevilla,Internazionale,81,19,2
+Man. City,Liverpool,69,31,1
+Juventus,Man. City,25,75,1
+LOSC,Man. City,72,28,2
+Atlanta,Sporting CP,54,46,2
+Shakhtar Donetsk,Salzburg,100,0,3
+Wolfsburg,Barcelona,1,99,2
+Leipzig,Wolfsburg,85,15,2
+Chelsea,Barcelona,32,68,2
+Villareal,Bensiktas,51,49,1
+Liverpool,Dynamo,42,58,1
+Atletico,Sheriff,57,43,2
+Salzburg,Malmö,46,54,1
+Zenit,Bayern,56,44,3
+Internazionale,Real Madrid,96,4,3
+Chelsea,Bensiktas,100,0,1
+Barcelona,Atlanta,85,15,2
+Leipzig,Ajax,40,60,3
+Dynamo,Atlanta,13,87,2
+Wolfsburg,Sevilla,31,69,1
+Man. United,Real Madrid,90,10,2
+Zenit,Villareal,26,74,3
+Malmö,Man. United,27,73,1
+Bensiktas,Dynamo,22,78,2
+Real Madrid,Young Boys,30,70,1
+Shakhtar Donetsk,Atletico,78,22,2
+Ajax,Dynamo,95,5,3
+Sheriff,Atlanta,28,72,3
+Club Brugge,Porto,40,60,2
+Chelsea,Dynamo,90,10,1
+Wolfsburg,Paris,89,11,1
+Chelsea,Juventus,75,25,1
+Club Brugge,Zenit,49,51,1
+Salzburg,Man. United,76,24,3
+Atletico,Porto,57,43,2
+Paris,Malmö,15,85,3
+Liverpool,Dortmund,14,86,2
+Salzburg,Bensiktas,10,90,3
+Young Boys,Sheriff,29,71,2
+Liverpool,Villareal,11,89,2
+Sporting CP,Wolfsburg,41,59,3
+Malmö,Bensiktas,12,88,3
+Real Madrid,Man. City,58,42,2
+Juventus,Real Madrid,100,0,2
+Leipzig,Benfica,31,69,3
+Sevilla,Sporting CP,87,13,1
+Bensiktas,Wolfsburg,1,99,2
+Villareal,Zenit,71,29,1
+Ajax,Zenit,89,11,3
+Young Boys,Bayern,69,31,3
+Young Boys,Porto,93,7,1
+Zenit,Atletico,99,1,3
+Young Boys,Man. United,73,27,2
+Young Boys,Man. City,49,51,2
+Atlanta,Porto,94,6,2
+Villareal,Liverpool,5,95,2
+Man. City,LOSC,63,37,2
+Leipzig,Villareal,97,3,1
+Paris,Atlanta,45,55,3
+Man. City,LOSC,81,19,2
+Atlanta,Chelsea,9,91,3
+Young Boys,Salzburg,15,85,3
+Shakhtar Donetsk,Benfica,2,98,1
+Ajax,Atlanta,34,66,2
+Bayern,Liverpool,100,0,2
+Paris,Malmö,24,76,1
+Bayern,Atletico,63,37,1
+Benfica,Atletico,24,76,2
+Shakhtar Donetsk,Barcelona,41,59,2
+Salzburg,Juventus,90,10,2
+Milan,Dynamo,34,66,3
+Liverpool,Wolfsburg,95,5,2
+Dortmund,Dynamo,64,36,1
+Bensiktas,Ajax,52,48,2
+Juventus,Leipzig,42,58,2
+Young Boys,Atlanta,6,94,2
+Real Madrid,Ajax,64,36,3
+Milan,LOSC,66,34,1
+Sheriff,Milan,54,46,3
+Man. City,Shakhtar Donetsk,52,48,2
+Paris,Malmö,67,33,2
+Bayern,Man. United,34,66,1
+Sevilla,Ajax,25,75,3
+Young Boys,Ajax,45,55,1
+Ajax,Dynamo,67,33,2
+Man. City,Atletico,62,38,3
+LOSC,Porto,49,51,3
+Malmö,Real Madrid,31,69,1
+Juventus,Bayern,92,8,3
+Paris,Atlanta,10,90,3
+Sheriff,Man. City,63,37,3
+Sevilla,Porto,42,58,1
+Sheriff,Chelsea,35,65,1
+Liverpool,Man. United,84,16,3
+Malmö,Sheriff,26,74,1
+Atletico,Man. United,97,3,3
+Villareal,Leipzig,1,99,3
+Young Boys,Juventus,14,86,3
+Juventus,Internazionale,92,8,1
+Juventus,Atlanta,67,33,2
+Sheriff,Porto,90,10,2
+Salzburg,Ajax,41,59,2
+Young Boys,Ajax,35,65,1
+Bayern,Barcelona,69,31,2
+Salzburg,Ajax,12,88,2
+Internazionale,Atletico,81,19,2
+Leipzig,Sporting CP,11,89,2
+Sporting CP,Atlanta,93,7,2
+Shakhtar Donetsk,Dortmund,65,35,1
+Porto,Juventus,42,58,2
+Man. City,Dortmund,32,68,1
+Internazionale,LOSC,46,54,1
+Salzburg,Bayern,29,71,1
+Atlanta,Villareal,98,2,3
+Milan,Porto,18,82,1
+Malmö,Porto,64,36,2
+Shakhtar Donetsk,LOSC,22,78,2
+Dynamo,Atlanta,20,80,3
+Man. City,Malmö,32,68,2
+Chelsea,Man. United,74,26,1
+Internazionale,Paris,42,58,2
+Bayern,LOSC,86,14,1
+Bayern,Salzburg,48,52,1
+Leipzig,Benfica,21,79,2
+Benfica,LOSC,20,80,2
+Man. City,Benfica,57,43,2
+Bensiktas,Bayern,90,10,2
+Leipzig,Porto,44,56,3
+Man. City,Wolfsburg,12,88,1
+Benfica,Sheriff,82,18,3
+Malmö,Internazionale,38,62,3
+Malmö,Villareal,79,21,1
+Man. United,Bensiktas,22,78,2
+Dortmund,Barcelona,13,87,3
+Sheriff,Dynamo,11,89,1
+Zenit,Malmö,11,89,1
+LOSC,Ajax,67,33,1
+Dortmund,Porto,5,95,3
+Club Brugge,Man. United,78,22,2
+Porto,Paris,29,71,3
+Bayern,Sporting CP,20,80,2
+Villareal,Bensiktas,96,4,1
+Shakhtar Donetsk,Bayern,59,41,1
+Atlanta,Ajax,68,32,1
+Paris,Salzburg,78,22,2
+Club Brugge,Atlanta,16,84,2
+Sevilla,Man. United,87,13,1
+Bensiktas,Atlanta,15,85,2
+Benfica,Bayern,41,59,3
+Ajax,Milan,72,28,1
+Sheriff,LOSC,43,57,3
+Benfica,Man. United,10,90,2
+Salzburg,Barcelona,4,96,3
+Malmö,Salzburg,55,45,3
+Leipzig,LOSC,74,26,1
+Salzburg,Porto,10,90,2
+Internazionale,Sheriff,54,46,2
+Real Madrid,Milan,41,59,3
+Man. City,Sevilla,6,94,2
+Leipzig,Porto,5,95,3
+Man. United,Juventus,61,39,3
+Salzburg,Ajax,86,14,1
+Zenit,Dynamo,71,29,2
+Atlanta,Real Madrid,12,88,2
+Juventus,Man. City,63,37,2
+Man. United,Atletico,28,72,3
+Zenit,Club Brugge,79,21,2
+Man. United,Barcelona,2,98,2
+Dynamo,Barcelona,32,68,1
+Young Boys,Paris,89,11,3
+Dortmund,Atletico,97,3,3
+Liverpool,Sheriff,74,26,1
+Villareal,Atlanta,55,45,2
+Salzburg,Porto,10,90,1
+Shakhtar Donetsk,Club Brugge,90,10,2
+Wolfsburg,Bensiktas,80,20,1
+Real Madrid,Dortmund,53,47,2
+Man. United,Zenit,9,91,1
+Zenit,Malmö,30,70,2
+Wolfsburg,Dynamo,83,17,1
+Juventus,Sevilla,94,6,2
+Internazionale,Barcelona,82,18,3
+Man. City,Ajax,100,0,1
+Club Brugge,Porto,63,37,3
+Club Brugge,Atlanta,74,26,1
+Paris,Villareal,12,88,3
+Chelsea,Sporting CP,35,65,1
+Benfica,Man. United,2,98,2
+Porto,Ajax,2,98,2
+Man. City,Zenit,41,59,3
+Zenit,Sheriff,89,11,2
+Salzburg,Sheriff,64,36,3
+Shakhtar Donetsk,Sheriff,93,7,1
+Atletico,Ajax,75,25,3
+Milan,Shakhtar Donetsk,69,31,1
+Dynamo,Juventus,37,63,2
+Paris,Atletico,78,22,3
+Malmö,Wolfsburg,44,56,1
+Villareal,Ajax,72,28,2
+Malmö,Atletico,100,0,2
+Barcelona,Sevilla,70,30,3
+Sheriff,Man. City,86,14,1
+Bayern,Zenit,44,56,1
+Milan,Dynamo,76,24,1
+Zenit,Sporting CP,53,47,1
+Liverpool,Sporting CP,97,3,1
+Real Madrid,Villareal,47,53,1
+Paris,Ajax,31,69,3
+Wolfsburg,Young Boys,88,12,2
+Villareal,Dynamo,15,85,1
+Villareal,Sheriff,82,18,3
+Salzburg,Wolfsburg,89,11,3
+LOSC,Atlanta,45,55,2
+Shakhtar Donetsk,LOSC,68,32,1
+Paris,Zenit,58,42,2
+Atletico,Liverpool,12,88,1
+Juventus,Zenit,94,6,1
+Atlanta,Young Boys,77,23,3
+Benfica,Shakhtar Donetsk,93,7,1
+Sevilla,Porto,86,14,3
+Atlanta,Barcelona,40,60,2
+Shakhtar Donetsk,Liverpool,55,45,2
+Leipzig,Sevilla,12,88,3
+Paris,Sporting CP,79,21,3
+Liverpool,Sevilla,92,8,1
+LOSC,Chelsea,22,78,2
+Atlanta,Bensiktas,26,74,2
+Bensiktas,Milan,74,26,3
+Atlanta,Benfica,7,93,3
+Salzburg,Leipzig,97,3,2
+Zenit,Bayern,32,68,1
+Chelsea,Young Boys,1,99,3
+Leipzig,Salzburg,74,26,1
+Young Boys,Atletico,27,73,2
+Liverpool,Wolfsburg,82,18,2
+Leipzig,Bensiktas,65,35,3
+Dynamo,Man. City,32,68,1
+Atletico,Juventus,3,97,1
+Barcelona,Bensiktas,79,21,1
+Sporting CP,Sheriff,94,6,2
+Benfica,Bensiktas,34,66,3
+Milan,Porto,99,1,1
+Benfica,Club Brugge,60,40,2
+Wolfsburg,Leipzig,59,41,3
+Sevilla,Juventus,26,74,3
+Sevilla,Benfica,44,56,1
+Zenit,Man. City,56,44,3
+Sevilla,Atlanta,42,58,1
+Dynamo,Bayern,95,5,1
+Club Brugge,Bensiktas,0,100,2
+Bayern,Juventus,8,92,3
+Juventus,Paris,79,21,1
+Wolfsburg,Liverpool,6,94,3
+Man. City,Malmö,75,25,2
+Bayern,Juventus,67,33,3
+Atletico,Villareal,81,19,3
+Atletico,Liverpool,46,54,3
+Porto,Bensiktas,2,98,1
+Atlanta,Paris,35,65,1
+Man. City,Dortmund,43,57,2
+Bensiktas,Shakhtar Donetsk,26,74,1
+Real Madrid,Atlanta,96,4,2
+Milan,Leipzig,71,29,3
+Wolfsburg,Malmö,7,93,2
+Liverpool,Man. City,76,24,2
+Paris,Benfica,18,82,2
+Man. City,Milan,78,22,1
+Sevilla,Atletico,64,36,1
+Wolfsburg,Leipzig,22,78,1
+Barcelona,Atletico,83,17,1
+Paris,Porto,28,72,3
+Young Boys,Wolfsburg,65,35,1
+LOSC,Atletico,0,100,2
+Porto,Dortmund,42,58,2
+Atletico,Club Brugge,29,71,1
+Sheriff,Man. City,15,85,3
+Internazionale,Chelsea,39,61,3
+Sheriff,Young Boys,33,67,3
+Bayern,Zenit,54,46,3
+Porto,Juventus,65,35,3
+Bensiktas,Sporting CP,53,47,3
+Ajax,Bayern,2,98,3
+Liverpool,Sheriff,42,58,2
+Man. United,Villareal,48,52,2
+Benfica,Barcelona,21,79,3
+Atletico,Man. United,46,54,3
+Paris,LOSC,67,33,1
+Sporting CP,Milan,15,85,2
+Sevilla,LOSC,67,33,3
+Bayern,Man. United,49,51,3
+Internazionale,Benfica,31,69,2
+Villareal,Chelsea,8,92,2
+Sporting CP,Porto,31,69,1
+Liverpool,Villareal,47,53,1
+Barcelona,Villareal,70,30,3
+Real Madrid,Barcelona,35,65,3
+Wolfsburg,Milan,95,5,1
+Salzburg,Internazionale,22,78,2
+Sporting CP,Milan,92,8,1
+Paris,Liverpool,61,39,1
+Bayern,Man. City,46,54,2
+Porto,Man. United,70,30,2
+Paris,Malmö,9,91,1
+Man. United,Paris,38,62,1
+Club Brugge,Milan,75,25,2
+Internazionale,Porto,89,11,1
+Barcelona,Atlanta,6,94,1
+Dortmund,Shakhtar Donetsk,78,22,1
+Young Boys,Malmö,19,81,3
+Young Boys,Club Brugge,50,50,3
+Atlanta,Club Brugge,17,83,3
+Young Boys,Villareal,2,98,1
+Leipzig,Sporting CP,10,90,2
+Shakhtar Donetsk,Internazionale,27,73,3
+Salzburg,Sheriff,68,32,2
+Dynamo,Juventus,48,52,2
+Sporting CP,Atlanta,41,59,1
+Liverpool,Atletico,29,71,2
+Atlanta,Dortmund,42,58,1
+Benfica,Shakhtar Donetsk,35,65,1
+Man. United,Liverpool,56,44,2
+Benfica,Real Madrid,55,45,1
+Salzburg,Dynamo,65,35,2
+Malmö,Dortmund,87,13,2
+Atlanta,Club Brugge,23,77,2
+Wolfsburg,Liverpool,58,42,2
+Leipzig,Juventus,82,18,3
+Young Boys,Ajax,13,87,2
+Atlanta,Dynamo,42,58,1
+Bayern,Young Boys,82,18,3
+Juventus,Man. United,96,4,2
+Dynamo,Atlanta,53,47,2
+Man. City,Malmö,60,40,1
+Zenit,Ajax,74,26,2
+Man. City,Atlanta,21,79,2
+Leipzig,Bayern,79,21,1
+Dynamo,Malmö,2,98,1
+Porto,Villareal,53,47,1
+Club Brugge,Benfica,70,30,1
+Dynamo,Barcelona,14,86,3
+Paris,Club Brugge,52,48,2
+Atletico,Milan,51,49,3
+Atlanta,LOSC,1,99,1
+Paris,Ajax,22,78,2
+Young Boys,Atlanta,29,71,1
+Ajax,Young Boys,40,60,2
+Real Madrid,Dortmund,76,24,1
+Ajax,Benfica,57,43,3
+Young Boys,Porto,97,3,3
+Man. United,Shakhtar Donetsk,38,62,3
+Dynamo,Leipzig,62,38,3
+Leipzig,Porto,26,74,3
+Chelsea,Leipzig,34,66,1
+Villareal,Man. United,25,75,1
+Man. United,Bensiktas,82,18,3
+Atletico,Dortmund,66,34,2
+Sporting CP,Bensiktas,43,57,2
+Sheriff,Shakhtar Donetsk,6,94,2
+Villareal,Milan,84,16,1
+Sevilla,Man. United,70,30,3
+Man. City,Juventus,1,99,3
+Internazionale,Salzburg,41,59,1
+Barcelona,Dynamo,62,38,1
+Milan,Salzburg,40,60,1
+Chelsea,Leipzig,27,73,3
+Milan,Club Brugge,2,98,3
+Paris,Bensiktas,5,95,1
+Man. City,Internazionale,87,13,2
+Paris,Atletico,47,53,2
+Bensiktas,Young Boys,11,89,2
+Juventus,Sporting CP,8,92,1
+Bayern,Milan,40,60,3
+Sheriff,Young Boys,91,9,1
+Atlanta,Bayern,90,10,1
+Benfica,Sevilla,82,18,2
+Leipzig,Villareal,27,73,2
+Sporting CP,Young Boys,34,66,3
+Bensiktas,Shakhtar Donetsk,57,43,3
+Ajax,Real Madrid,24,76,1
+Salzburg,Atlanta,97,3,1
+Porto,Ajax,97,3,2
+Bensiktas,Ajax,85,15,3
+Sporting CP,Paris,59,41,2
+Sporting CP,Porto,93,7,2
+Dortmund,Wolfsburg,11,89,2
+LOSC,Benfica,4,96,2
+Shakhtar Donetsk,Dortmund,55,45,3
+Milan,Bayern,64,36,2
+Bensiktas,Zenit,89,11,1
+Zenit,Malmö,26,74,2
+Salzburg,Zenit,31,69,2
+Bayern,Chelsea,82,18,3
+Ajax,Zenit,37,63,2
+Dynamo,LOSC,87,13,1
+Bensiktas,Internazionale,9,91,3
+Sheriff,Sporting CP,16,84,1
+Man. United,Milan,77,23,2
+Man. City,Salzburg,12,88,1
+Sporting CP,Chelsea,35,65,2
+Real Madrid,Leipzig,76,24,3
+Man. United,Shakhtar Donetsk,18,82,2
+Bensiktas,Benfica,22,78,2
+Bayern,Wolfsburg,58,42,1
+Paris,LOSC,9,91,3
+LOSC,Paris,83,17,1
+Porto,Malmö,41,59,2
+Shakhtar Donetsk,Juventus,5,95,3
+Ajax,Atlanta,22,78,1
+Shakhtar Donetsk,Internazionale,17,83,2
+Leipzig,Club Brugge,12,88,2
+Dortmund,Man. City,30,70,1
+Porto,Liverpool,81,19,1
+Bayern,LOSC,12,88,2
+Liverpool,Real Madrid,92,8,2
+Shakhtar Donetsk,Milan,46,54,2
+Bayern,Benfica,25,75,2
+Liverpool,Milan,76,24,3
+Shakhtar Donetsk,Benfica,75,25,1
+Man. City,Atlanta,0,100,3
+Porto,Sheriff,90,10,3
+Young Boys,Sporting CP,77,23,2
+Bensiktas,LOSC,25,75,2
+Benfica,Sheriff,78,22,1
+Villareal,Salzburg,41,59,3
+Porto,Man. United,48,52,2
+Young Boys,Juventus,78,22,3
+LOSC,Juventus,71,29,2
+Dynamo,Paris,34,66,1
+Bensiktas,Internazionale,43,57,2
+Dortmund,Malmö,68,32,2
+Sevilla,Man. United,3,97,3
+Villareal,Leipzig,35,65,3
+Salzburg,Barcelona,32,68,3
+Liverpool,Barcelona,41,59,3
+Young Boys,Dortmund,75,25,2
+Shakhtar Donetsk,Club Brugge,88,12,2
+Milan,Dortmund,26,74,1
+LOSC,Dortmund,71,29,2
+Chelsea,Ajax,91,9,2
+Sporting CP,Dortmund,96,4,2
+Paris,Club Brugge,97,3,3
+Dortmund,Zenit,6,94,3
+Bayern,Young Boys,80,20,3
+Ajax,Leipzig,73,27,3
+Liverpool,Zenit,75,25,3
+Benfica,Barcelona,9,91,1
+Dynamo,Atletico,53,47,2
+Ajax,Zenit,11,89,3
+Real Madrid,Atlanta,73,27,1
+Milan,Porto,91,9,2
+Bayern,Salzburg,28,72,3
+Porto,Benfica,77,23,2
+Dortmund,Chelsea,30,70,2
+Chelsea,LOSC,61,39,1
+Shakhtar Donetsk,Paris,36,64,3
+Bayern,Sporting CP,68,32,3
+Wolfsburg,Milan,34,66,3
+Benfica,Chelsea,46,54,1
+Benfica,Man. City,65,35,2
+Porto,Sporting CP,60,40,1
+Man. City,Salzburg,66,34,2
+Milan,Sevilla,11,89,3
+Ajax,Dortmund,50,50,3
+Benfica,Sheriff,29,71,3
+Shakhtar Donetsk,Bayern,55,45,3
+Atletico,Villareal,92,8,1
+Man. City,Atlanta,86,14,1
+Liverpool,Bensiktas,29,71,3
+Sporting CP,Man. United,39,61,3
+Chelsea,Malmö,51,49,2
+Sevilla,Villareal,92,8,2
+Wolfsburg,Man. City,73,27,2
+Juventus,Young Boys,60,40,1
+Atlanta,Barcelona,51,49,3
+Zenit,Man. United,72,28,2
+Benfica,Man. United,23,77,2
+Malmö,Benfica,96,4,1
+Zenit,Shakhtar Donetsk,1,99,3
+Chelsea,Villareal,41,59,2
+Milan,Bensiktas,65,35,2
+Barcelona,LOSC,86,14,2
+Liverpool,Barcelona,2,98,3
+Paris,Porto,76,24,1
+Internazionale,Man. City,100,0,3
+Leipzig,Club Brugge,18,82,1
+Dortmund,Sporting CP,36,64,2
+Salzburg,Villareal,15,85,2
+Club Brugge,Wolfsburg,36,64,1
+Ajax,Sheriff,81,19,2
+Bensiktas,Malmö,64,36,2
+Sheriff,Barcelona,75,25,3
+Shakhtar Donetsk,Ajax,1,99,3
+Juventus,Sporting CP,91,9,2
+Internazionale,Man. United,37,63,2
+Internazionale,Man. United,100,0,3
+Dortmund,LOSC,77,23,2
+Wolfsburg,Barcelona,86,14,2
+LOSC,Sevilla,36,64,3
+Ajax,Bensiktas,51,49,1
+Man. City,Juventus,50,50,3
+LOSC,Internazionale,88,12,2
+Sevilla,Paris,15,85,3
+Dynamo,Ajax,40,60,3
+Porto,Man. City,77,23,1
+Internazionale,LOSC,3,97,1
+Atlanta,Sporting CP,17,83,3
+Internazionale,Atletico,35,65,3
+Dynamo,LOSC,79,21,3
+Club Brugge,Liverpool,68,32,2
+Villareal,Internazionale,41,59,1
+Club Brugge,Zenit,30,70,1
+Porto,Club Brugge,34,66,3
+Sheriff,Liverpool,62,38,3
+Malmö,Villareal,97,3,3
+Villareal,Club Brugge,70,30,3
+Real Madrid,Sevilla,7,93,1
+Bensiktas,Atletico,61,39,1
+Leipzig,LOSC,0,100,1
+Man. City,Porto,66,34,3
+Leipzig,Salzburg,54,46,3
+Shakhtar Donetsk,Ajax,40,60,2
+Man. United,Chelsea,6,94,1
+Shakhtar Donetsk,Internazionale,54,46,2
+Wolfsburg,Paris,58,42,2
+Shakhtar Donetsk,Liverpool,53,47,1
+Liverpool,Villareal,68,32,3
+Sheriff,Club Brugge,71,29,3
+Juventus,Malmö,46,54,3
+Shakhtar Donetsk,Porto,44,56,3
+Young Boys,LOSC,22,78,3
+Bensiktas,Atlanta,67,33,2
+Zenit,Dortmund,65,35,3
+Milan,Sevilla,47,53,1
+Shakhtar Donetsk,Salzburg,42,58,1
+Man. United,Sevilla,78,22,2
+Leipzig,Bayern,18,82,3
+Ajax,Milan,96,4,1
+Real Madrid,Juventus,29,71,2
+LOSC,Benfica,97,3,2
+Man. United,Young Boys,75,25,3
+Malmö,Young Boys,36,64,2
+Atlanta,Zenit,0,100,1
+Man. City,Salzburg,49,51,2
+Atlanta,Sevilla,18,82,1
+Sheriff,Salzburg,83,17,3
+Sporting CP,Juventus,39,61,3
+Real Madrid,Young Boys,28,72,2
+Bayern,Salzburg,12,88,3
+Dynamo,Internazionale,86,14,2
+Shakhtar Donetsk,Young Boys,100,0,2
+Real Madrid,Zenit,96,4,3
+Bensiktas,Man. City,53,47,2
+Malmö,Leipzig,49,51,2
+Man. United,Wolfsburg,50,50,2
+Sporting CP,Wolfsburg,76,24,3
+Juventus,Paris,38,62,1
+Man. United,LOSC,82,18,3
+LOSC,Young Boys,64,36,1
+Man. United,Dynamo,92,8,2
+Chelsea,Sheriff,29,71,3
+Dynamo,Juventus,61,39,1
+Internazionale,Milan,35,65,3
+Atletico,Leipzig,5,95,3
+Barcelona,Club Brugge,43,57,2
+Benfica,Dortmund,97,3,1
+Barcelona,Sevilla,54,46,3
+Internazionale,Sevilla,60,40,1
+Real Madrid,Leipzig,95,5,1
+Sporting CP,Malmö,5,95,1
+Paris,Dynamo,92,8,1
+Man. City,Bensiktas,84,16,1
+Sporting CP,Sheriff,40,60,3
+Real Madrid,Paris,74,26,1
+Club Brugge,Porto,76,24,3
+Ajax,Milan,94,6,3
+Leipzig,Sporting CP,28,72,3
+Atletico,Shakhtar Donetsk,98,2,2
+LOSC,Malmö,83,17,1
+Salzburg,Barcelona,81,19,3
+Paris,Atlanta,77,23,3
+Bayern,Sporting CP,11,89,3
+Sporting CP,Atletico,2,98,2
+Club Brugge,Bayern,15,85,1
+Liverpool,Shakhtar Donetsk,94,6,3
+Salzburg,Dynamo,53,47,1
+Ajax,Club Brugge,98,2,2
+Young Boys,Atlanta,26,74,2
+Dortmund,Salzburg,60,40,2
+Dynamo,Club Brugge,8,92,2
+Man. United,Sheriff,15,85,3
+Dynamo,Sevilla,62,38,3
+Chelsea,Man. City,41,59,2
+Villareal,Bayern,6,94,3
+Juventus,Zenit,82,18,1
+Internazionale,Wolfsburg,66,34,1
+Dortmund,Benfica,90,10,3
+Young Boys,Salzburg,64,36,1
+Porto,Atlanta,7,93,3
+Real Madrid,Sporting CP,32,68,1
+Zenit,Sporting CP,24,76,3
+Real Madrid,Dortmund,85,15,1
+Benfica,Young Boys,28,72,1
+Bayern,Malmö,76,24,3
+Wolfsburg,Man. City,3,97,1
+Paris,Benfica,71,29,1
+Zenit,Leipzig,46,54,2
+Malmö,Chelsea,44,56,1
+Bayern,Young Boys,2,98,3
+Bayern,Chelsea,46,54,2
+Man. United,Barcelona,47,53,1
+Dortmund,Sheriff,48,52,1
+LOSC,Porto,74,26,1
+Malmö,Juventus,33,67,3
+Chelsea,Porto,99,1,1
+Milan,Man. City,26,74,2
+Bensiktas,Club Brugge,88,12,1
+Juventus,Club Brugge,4,96,2
+Liverpool,Sevilla,15,85,1
+Man. United,Salzburg,58,42,2
+Malmö,Porto,79,21,1
+Milan,Club Brugge,96,4,2
+Atletico,Zenit,44,56,1
+Leipzig,Salzburg,81,19,2
+Paris,Man. City,77,23,3
+Sheriff,Paris,11,89,3
+Chelsea,Young Boys,35,65,3
+Man. City,Atletico,52,48,1
+LOSC,Benfica,7,93,1
+Man. United,Atletico,41,59,3
+Young Boys,Liverpool,81,19,2
+Leipzig,Club Brugge,29,71,3
+Dynamo,Internazionale,81,19,1
+Malmö,Sevilla,43,57,3
+Sporting CP,Ajax,91,9,1
+Bayern,Atletico,79,21,1
+Chelsea,Barcelona,82,18,1
+Porto,Malmö,34,66,1
+Liverpool,Salzburg,70,30,3
+Atletico,Sheriff,24,76,2
+Juventus,Barcelona,29,71,1
+Shakhtar Donetsk,Paris,6,94,1
+Porto,Atlanta,5,95,2
+Sporting CP,Sevilla,24,76,3
+Sevilla,Barcelona,63,37,1
+Barcelona,Man. United,66,34,3
+Benfica,Salzburg,20,80,1
+Salzburg,Club Brugge,67,33,1
+Wolfsburg,Chelsea,6,94,3
+Malmö,Sporting CP,94,6,3
+Real Madrid,Chelsea,4,96,1
+Atlanta,Man. United,89,11,1
+Dortmund,Milan,13,87,3
+Chelsea,Man. City,63,37,2
+Wolfsburg,Internazionale,49,51,3
+LOSC,Porto,31,69,2
+Leipzig,Club Brugge,92,8,2
+Villareal,Dortmund,60,40,2
+Man. United,Atletico,22,78,3
+Man. United,Wolfsburg,11,89,3
+Milan,Malmö,57,43,3
+Dortmund,Leipzig,23,77,3
+Dynamo,Internazionale,45,55,3
+Sporting CP,Atlanta,95,5,1
+Barcelona,LOSC,91,9,2
+Juventus,Man. City,11,89,3
+Juventus,Sheriff,62,38,1
+Dynamo,Man. United,46,54,2
+Ajax,Leipzig,39,61,3
+Man. City,Benfica,72,28,3
+Malmö,Dortmund,49,51,3
+Porto,Wolfsburg,90,10,3
+Man. City,Atlanta,21,79,3
+LOSC,Salzburg,43,57,1
+Zenit,Liverpool,92,8,2
+Atlanta,Dortmund,42,58,3
+Leipzig,Benfica,4,96,3
+Man. United,Ajax,19,81,1
+LOSC,Zenit,9,91,3
+Club Brugge,Villareal,84,16,2
+Zenit,Liverpool,76,24,1
+Leipzig,Porto,23,77,2
+Chelsea,Ajax,98,2,3
+LOSC,Porto,95,5,1
+Bayern,Wolfsburg,93,7,2
+Barcelona,Bensiktas,9,91,3
+Juventus,Dortmund,86,14,3
+Wolfsburg,Man. City,1,99,1
+Porto,Paris,95,5,1
+Liverpool,Paris,44,56,3
+Liverpool,Internazionale,65,35,2
+Young Boys,Paris,63,37,2
+Salzburg,Atletico,12,88,1
+Leipzig,Club Brugge,70,30,1
+Internazionale,Zenit,92,8,1
+Ajax,Liverpool,94,6,3
+Shakhtar Donetsk,Ajax,19,81,3
+Chelsea,Atlanta,60,40,1
+Wolfsburg,Milan,71,29,2
+Malmö,Man. City,89,11,3
+Liverpool,Dortmund,17,83,3
+Zenit,Man. City,26,74,3
+Sheriff,Real Madrid,83,17,3
+Atletico,Bensiktas,10,90,2
+Man. City,Internazionale,52,48,3
+Ajax,Malmö,51,49,3
+Club Brugge,Shakhtar Donetsk,61,39,2
+Benfica,Internazionale,68,32,2
+Leipzig,Barcelona,66,34,3
+LOSC,Internazionale,3,97,1
+Barcelona,Paris,44,56,2
+Ajax,Atletico,60,40,2
+Dynamo,Benfica,85,15,3
+Salzburg,Chelsea,38,62,1
+Juventus,Barcelona,35,65,2
+Club Brugge,Malmö,46,54,2
+Benfica,Bensiktas,98,2,1
+Bensiktas,Ajax,54,46,2
+Wolfsburg,Sporting CP,19,81,3
+Benfica,Dortmund,48,52,2
+Wolfsburg,Real Madrid,28,72,2
+Salzburg,Club Brugge,71,29,1
+Atlanta,Man. City,63,37,3
+Wolfsburg,Porto,54,46,1
+Juventus,Dortmund,9,91,3
+Man. United,Sheriff,49,51,3
+Malmö,Sevilla,80,20,3
+Man. United,Wolfsburg,77,23,1
+Bayern,Juventus,62,38,3
+Bensiktas,Young Boys,31,69,1
+Real Madrid,Sheriff,54,46,1
+LOSC,Bensiktas,84,16,1
+Real Madrid,Sporting CP,93,7,3
+Young Boys,Milan,5,95,1
+Zenit,Barcelona,54,46,2
+Man. City,Dynamo,56,44,1
+Atletico,Sporting CP,63,37,2
+Atletico,Barcelona,25,75,2
+Ajax,Chelsea,26,74,1
+LOSC,Sheriff,19,81,2
+Internazionale,Paris,47,53,1
+Leipzig,Sporting CP,58,42,1
+Wolfsburg,Atletico,40,60,2
+Sporting CP,Atlanta,28,72,2
+Man. United,Malmö,12,88,2
+Real Madrid,Juventus,18,82,3
+Young Boys,Sheriff,34,66,1
+Dynamo,LOSC,76,24,1
+Paris,Porto,53,47,1
+Barcelona,Dortmund,94,6,2
+Dynamo,Villareal,10,90,2
+Sporting CP,Barcelona,10,90,1
+Paris,Real Madrid,82,18,1
+Bayern,Club Brugge,11,89,3
+Internazionale,Dortmund,8,92,2
+Salzburg,Man. United,67,33,3
+Sheriff,Porto,63,37,2
+Sporting CP,Bensiktas,43,57,2
+Wolfsburg,Real Madrid,62,38,1
+Milan,Ajax,99,1,3
+Atlanta,Ajax,11,89,3
+Wolfsburg,Dynamo,59,41,1
+Salzburg,Man. United,78,22,2
+Wolfsburg,Malmö,55,45,3
+Man. United,Dynamo,68,32,1
+Porto,Villareal,74,26,1
+Bensiktas,Sporting CP,32,68,2
+Man. United,LOSC,6,94,3
+Atletico,Salzburg,74,26,1
+Shakhtar Donetsk,Sheriff,95,5,1
+Barcelona,Sevilla,77,23,2
+Paris,Man. City,77,23,2
+Dynamo,Shakhtar Donetsk,61,39,1
+Juventus,Milan,65,35,2
+Villareal,Paris,8,92,2
+Barcelona,Malmö,60,40,2
+Paris,Bensiktas,39,61,3
+Zenit,Benfica,24,76,3
+Sevilla,Bayern,40,60,1
+Real Madrid,Bensiktas,35,65,2
+Atletico,Internazionale,87,13,3
+Juventus,Man. United,62,38,1
+Benfica,Malmö,65,35,3
+Leipzig,Porto,50,50,3
+Salzburg,Paris,79,21,1
+Sheriff,Man. City,82,18,3
+Milan,LOSC,86,14,2
+Man. City,Zenit,73,27,2
+Zenit,Paris,23,77,2
+Benfica,Liverpool,41,59,3
+Club Brugge,Malmö,20,80,2
+Paris,Ajax,74,26,3
+Atletico,Wolfsburg,22,78,3
+Atletico,Sheriff,14,86,1
+Zenit,Sevilla,4,96,3
+Malmö,Juventus,82,18,1
+Man. United,Juventus,16,84,1
+Salzburg,Shakhtar Donetsk,70,30,2
+Sevilla,Salzburg,86,14,1
+Paris,Atletico,78,22,3
+Juventus,Internazionale,21,79,2
+Man. United,Bayern,16,84,2
+Wolfsburg,Porto,50,50,1
+Wolfsburg,Malmö,8,92,2
+Barcelona,Milan,11,89,2
+Wolfsburg,Club Brugge,8,92,2
+Internazionale,Benfica,2,98,2
+Bayern,Atlanta,13,87,3
+Sevilla,LOSC,41,59,3
+Salzburg,Bensiktas,22,78,2
+Shakhtar Donetsk,Benfica,82,18,1
+Bayern,Shakhtar Donetsk,36,64,3
+Zenit,Dynamo,14,86,3
+Liverpool,Benfica,11,89,2
+Milan,Benfica,32,68,3
+Real Madrid,Juventus,100,0,3
+Man. City,Atlanta,8,92,2
+Paris,Villareal,44,56,3
+Sevilla,Dortmund,48,52,1
+Real Madrid,Club Brugge,21,79,2
+Sporting CP,Juventus,78,22,2
+Paris,Sheriff,46,54,1
+Club Brugge,LOSC,13,87,3
+Zenit,Man. United,68,32,3
+Young Boys,Chelsea,72,28,2
+Liverpool,Chelsea,60,40,2
+Dynamo,Leipzig,27,73,1
+Ajax,Dynamo,39,61,2
+Juventus,Zenit,18,82,1
+Malmö,Milan,89,11,2
+Dynamo,Zenit,26,74,2
+Dortmund,Barcelona,37,63,3
+Chelsea,Liverpool,34,66,2
+Benfica,Young Boys,86,14,1
+Liverpool,Shakhtar Donetsk,100,0,2
+Barcelona,Bayern,35,65,3
+Atletico,Bayern,2,98,3
+Juventus,Man. United,30,70,1
+Atletico,Young Boys,25,75,2
+Villareal,Sevilla,73,27,3
+Zenit,Milan,25,75,3
+Club Brugge,Benfica,56,44,2
+Villareal,Wolfsburg,88,12,1
+Man. City,Porto,62,38,3
+Salzburg,Man. United,8,92,3
+Internazionale,Juventus,9,91,2
+Internazionale,Dynamo,88,12,3
+Wolfsburg,Club Brugge,86,14,1
+Atlanta,Zenit,84,16,2
+Young Boys,Man. City,67,33,2
+Bayern,Chelsea,94,6,2
+Villareal,Dynamo,34,66,3
+Shakhtar Donetsk,Juventus,44,56,1
+Milan,Ajax,55,45,3
+Sevilla,Atletico,10,90,1
+Liverpool,Chelsea,11,89,2
+Dynamo,Dortmund,90,10,3
+Man. United,Sevilla,12,88,3
+Bayern,Sheriff,45,55,1
+Internazionale,Benfica,49,51,1
+Bensiktas,Porto,95,5,2
+Internazionale,Bensiktas,16,84,2
+LOSC,Malmö,99,1,1
+Benfica,Chelsea,30,70,2
+Ajax,Shakhtar Donetsk,70,30,3
+Club Brugge,Man. City,10,90,2
+Paris,Zenit,34,66,2
+Real Madrid,Milan,48,52,1
+Dynamo,Benfica,71,29,1
+Benfica,LOSC,6,94,3
+Paris,Club Brugge,27,73,3
+Real Madrid,Man. United,94,6,1
+Young Boys,Liverpool,63,37,2
+Bensiktas,Porto,62,38,2
+Porto,Dortmund,18,82,3
+Juventus,Benfica,30,70,2
+LOSC,Liverpool,53,47,2
+Dortmund,Juventus,54,46,2
+Benfica,Zenit,11,89,1
+Bensiktas,Benfica,44,56,3
+Malmö,Chelsea,21,79,1
+Atlanta,Club Brugge,30,70,1
+Barcelona,Atlanta,47,53,1
+Salzburg,Bensiktas,45,55,1
+Juventus,Internazionale,41,59,1
+Ajax,Club Brugge,23,77,3
+Dortmund,Sporting CP,31,69,2
+Juventus,Young Boys,85,15,1
+Sheriff,Bayern,6,94,1
+Dynamo,Porto,71,29,3
+Milan,Porto,54,46,3
+Bensiktas,Milan,67,33,2
+Porto,Paris,21,79,2
+Ajax,Real Madrid,73,27,1
+Young Boys,Wolfsburg,22,78,3
+Man. City,Dortmund,61,39,1
+Juventus,Salzburg,90,10,1
+LOSC,Benfica,95,5,3
+Internazionale,Dynamo,79,21,2
+Dortmund,Villareal,72,28,1
+Bayern,Sporting CP,15,85,1
+Barcelona,Young Boys,63,37,2
+Young Boys,Bensiktas,94,6,2
+Club Brugge,Paris,56,44,1
+Atlanta,Sporting CP,7,93,1
+Dynamo,Man. United,100,0,3
+Zenit,Man. City,74,26,2
+Young Boys,Bensiktas,22,78,3
+Zenit,Chelsea,98,2,1
+Internazionale,Salzburg,72,28,2
+Zenit,Dortmund,63,37,3
+Salzburg,Dortmund,98,2,3
+Man. City,Bensiktas,53,47,1
+Malmö,Shakhtar Donetsk,43,57,3
+Zenit,Chelsea,58,42,2
+Bayern,Milan,10,90,1
+Villareal,Man. City,38,62,1
+Porto,Malmö,92,8,2
+LOSC,Milan,85,15,1
+Villareal,Milan,51,49,1
+Chelsea,Internazionale,88,12,3
+Man. United,Bensiktas,13,87,2
+Barcelona,Malmö,13,87,2
+Zenit,Benfica,95,5,1
+Atlanta,Benfica,65,35,3
+Man. City,Bensiktas,76,24,2
+Real Madrid,Chelsea,60,40,1
+Porto,Malmö,59,41,2
+Paris,Sporting CP,16,84,3
+Barcelona,Malmö,33,67,1
+Sheriff,Bayern,13,87,2
+Dynamo,Benfica,72,28,3
+Dynamo,Malmö,96,4,2
+Bensiktas,Wolfsburg,61,39,2
+Shakhtar Donetsk,Atletico,41,59,1
+Man. United,Paris,76,24,2
+Benfica,Milan,23,77,1
+Milan,Atletico,42,58,2
+Wolfsburg,Internazionale,30,70,2
+Sevilla,Wolfsburg,94,6,2
+Salzburg,Dortmund,68,32,2
+Real Madrid,Malmö,89,11,3
+Zenit,Atlanta,51,49,3
+Liverpool,Chelsea,11,89,1
+Shakhtar Donetsk,Chelsea,97,3,1
+Chelsea,Atlanta,98,2,3
+Salzburg,Man. City,93,7,1
+Real Madrid,Man. United,44,56,1
+Atletico,Bensiktas,59,41,1
+Sporting CP,Malmö,73,27,3
+LOSC,Dortmund,82,18,1
+LOSC,Dynamo,79,21,2
+Porto,Dortmund,42,58,2
+Leipzig,Wolfsburg,53,47,2
+Milan,Salzburg,71,29,2
+Sporting CP,Sheriff,63,37,2
+Bayern,Juventus,2,98,3
+Ajax,Liverpool,76,24,3
+Man. United,Ajax,49,51,1
+Atlanta,Benfica,12,88,3
+Man. City,LOSC,73,27,2
+Dynamo,Salzburg,46,54,1
+Villareal,Chelsea,63,37,3
+Chelsea,Man. City,93,7,1
+Benfica,Club Brugge,95,5,1
+Salzburg,Sporting CP,25,75,1
+Villareal,Salzburg,84,16,1
+Porto,Benfica,88,12,3
+Sheriff,Leipzig,17,83,1
+Sporting CP,Atletico,78,22,3
+Zenit,Liverpool,11,89,1
+Milan,Dortmund,26,74,1
+Club Brugge,Wolfsburg,97,3,2
+Sporting CP,Bayern,91,9,1
+Liverpool,Benfica,5,95,3
+Young Boys,Bensiktas,17,83,1
+Malmö,Dortmund,4,96,2
+LOSC,Malmö,61,39,2
+Chelsea,Benfica,39,61,2
+Malmö,Leipzig,38,62,1
+Sporting CP,Bensiktas,22,78,2
+Chelsea,Wolfsburg,90,10,2
+Salzburg,Ajax,52,48,1
+Benfica,Ajax,80,20,3
+Milan,Shakhtar Donetsk,53,47,3
+Leipzig,Paris,68,32,2
+Chelsea,Real Madrid,88,12,2
+Atletico,Young Boys,21,79,1
+Barcelona,Salzburg,65,35,1
+Sheriff,Sporting CP,81,19,1
+Atlanta,Man. United,54,46,1
+Liverpool,Man. City,20,80,1
+Club Brugge,Sheriff,58,42,1
+Sporting CP,Sheriff,26,74,1
+Sporting CP,Atletico,30,70,1
+Benfica,Malmö,62,38,2
+Milan,Juventus,18,82,3
+Internazionale,Real Madrid,2,98,1
+Ajax,Juventus,61,39,1
+Sevilla,Wolfsburg,36,64,2
+Atlanta,Bensiktas,32,68,1
+Sevilla,Sheriff,87,13,1
+Atlanta,Barcelona,82,18,3
+Juventus,Bensiktas,79,21,3
+Wolfsburg,Juventus,56,44,2
+Chelsea,Bensiktas,45,55,3
+Sevilla,Dortmund,8,92,3
+Sheriff,LOSC,32,68,3
+Salzburg,Real Madrid,8,92,2
+Internazionale,Wolfsburg,23,77,1
+Leipzig,Malmö,58,42,3
+Atletico,Chelsea,95,5,2
+Malmö,Dortmund,7,93,1
+Dortmund,Sheriff,50,50,3
+Liverpool,Juventus,28,72,3
+Liverpool,Benfica,4,96,2
+LOSC,Atlanta,0,100,2
+Porto,Bayern,5,95,1
+Shakhtar Donetsk,Atlanta,89,11,2
+Chelsea,Salzburg,88,12,2
+Sporting CP,Barcelona,2,98,2
+Juventus,Internazionale,77,23,1
+Man. United,Ajax,30,70,1
+Man. United,LOSC,90,10,1
+Zenit,Bensiktas,78,22,2
+Ajax,Club Brugge,20,80,2
+Man. City,Dynamo,63,37,1
+Malmö,Sheriff,17,83,1
+Sevilla,Leipzig,25,75,1
+Bayern,Salzburg,37,63,1
+Paris,Chelsea,41,59,1
+Wolfsburg,Chelsea,84,16,1
+Juventus,Malmö,47,53,2
+Villareal,Paris,96,4,1
+Porto,Bensiktas,98,2,2
+Liverpool,Dynamo,26,74,2
+Shakhtar Donetsk,Ajax,5,95,1
+Malmö,Shakhtar Donetsk,73,27,1
+Shakhtar Donetsk,Sevilla,20,80,1
+Villareal,Benfica,52,48,1
+Internazionale,Sevilla,22,78,1
+Club Brugge,Chelsea,68,32,2
+Bayern,Man. City,59,41,2
+Wolfsburg,Chelsea,81,19,1
+Milan,Club Brugge,10,90,2
+Bensiktas,Sporting CP,84,16,1
+Juventus,Chelsea,7,93,2
+Zenit,Bensiktas,18,82,3
+Milan,Villareal,51,49,2
+Leipzig,Milan,78,22,3
+Milan,Atlanta,74,26,3
+Atletico,Milan,28,72,2
+Sporting CP,Chelsea,88,12,1
+Dynamo,Young Boys,79,21,2
+Shakhtar Donetsk,Wolfsburg,59,41,3
+Sheriff,Ajax,70,30,3
+Atlanta,Sporting CP,33,67,3
+Man. City,Man. United,27,73,1
+LOSC,Club Brugge,10,90,2
+Benfica,Zenit,74,26,1
+Sporting CP,Atlanta,32,68,3
+Juventus,Club Brugge,68,32,2
+Atlanta,Zenit,42,58,1
+Sheriff,Milan,91,9,2
+Ajax,Milan,31,69,3
+Sporting CP,Zenit,23,77,3
+Ajax,Chelsea,8,92,2
+Zenit,Dortmund,45,55,2
+Villareal,Benfica,52,48,3
+Dortmund,Juventus,92,8,2
+LOSC,Barcelona,82,18,2
+Atlanta,Internazionale,73,27,2
+Benfica,Zenit,84,16,1
+Liverpool,Leipzig,52,48,3
+Atletico,Sporting CP,37,63,3
+Club Brugge,Wolfsburg,18,82,1
+Real Madrid,Wolfsburg,14,86,2
+Shakhtar Donetsk,Man. City,30,70,3
+Salzburg,Man. City,20,80,3
+Real Madrid,Man. City,80,20,3
+Villareal,Milan,0,100,1
+Zenit,Porto,2,98,1
+Club Brugge,Shakhtar Donetsk,61,39,2
+Club Brugge,Internazionale,14,86,1
+Liverpool,Internazionale,77,23,1
+Leipzig,Paris,3,97,3
+Internazionale,Bensiktas,54,46,3
+Liverpool,Paris,60,40,2
+Bensiktas,Dortmund,91,9,2
+Atlanta,Sheriff,36,64,2
+Dynamo,Man. United,12,88,2
+Man. City,Sevilla,58,42,3
+Dynamo,Real Madrid,19,81,2
+Porto,Sevilla,94,6,2
+Villareal,Wolfsburg,51,49,2
+Milan,Internazionale,52,48,3
+Bensiktas,Paris,94,6,1
+Bayern,Atletico,61,39,1
+Sheriff,Malmö,25,75,2
+Club Brugge,Man. City,63,37,3
+Atletico,Salzburg,81,19,2
+Chelsea,Real Madrid,46,54,1
+Man. City,LOSC,39,61,3
+Dortmund,Sheriff,83,17,1
+Atlanta,Zenit,58,42,2
+Salzburg,Benfica,58,42,1
+Benfica,Malmö,17,83,3
+Chelsea,Paris,82,18,1
+Bensiktas,Juventus,48,52,1
+Sporting CP,Wolfsburg,99,1,2
+Sevilla,Juventus,42,58,3
+Juventus,Man. United,28,72,3
+Chelsea,Bensiktas,52,48,1
+Shakhtar Donetsk,Man. City,31,69,1
+Malmö,Sporting CP,76,24,1
+Benfica,Wolfsburg,19,81,1
+Porto,Dynamo,12,88,3
+Barcelona,Man. United,58,42,1
+Man. City,Atlanta,26,74,2
+Man. United,Zenit,24,76,2
+Juventus,Real Madrid,49,51,1
+Liverpool,Internazionale,0,100,3
+Chelsea,Villareal,13,87,2
+Chelsea,Sporting CP,78,22,1
+Wolfsburg,Ajax,1,99,3
+Sporting CP,Chelsea,11,89,2
+Milan,Atlanta,87,13,2
+Internazionale,LOSC,72,28,3
+Leipzig,Wolfsburg,37,63,2
+LOSC,Shakhtar Donetsk,31,69,3
+Club Brugge,Zenit,25,75,2
+Villareal,Barcelona,56,44,2
+Real Madrid,Atletico,6,94,1
+Benfica,Sevilla,31,69,3
+Real Madrid,Juventus,37,63,2
+Bensiktas,Club Brugge,77,23,3
+Atlanta,Club Brugge,9,91,1
+Shakhtar Donetsk,Real Madrid,56,44,1
+Young Boys,Man. United,23,77,1
+Porto,Sevilla,47,53,2
+LOSC,Porto,45,55,3
+Porto,Sevilla,95,5,3
+Man. United,Sheriff,42,58,3
+Internazionale,Ajax,16,84,2
+Real Madrid,Villareal,66,34,2
+Club Brugge,Dortmund,56,44,1
+Sevilla,Atlanta,45,55,1
+Malmö,Benfica,31,69,2
+Salzburg,Ajax,40,60,2
+Sporting CP,Atletico,21,79,2
+Bensiktas,Club Brugge,22,78,3
+Juventus,Leipzig,74,26,3
+Man. City,Shakhtar Donetsk,13,87,3
+Real Madrid,Atletico,75,25,2
+Bayern,Sheriff,27,73,3
+Porto,Juventus,83,17,2
+Villareal,Zenit,62,38,3
+Porto,Malmö,100,0,2
+Liverpool,Sheriff,79,21,2
+Leipzig,Barcelona,6,94,2
+Club Brugge,Chelsea,0,100,3
+Internazionale,Club Brugge,28,72,2
+Internazionale,Villareal,71,29,3
+Dynamo,Ajax,83,17,1
+Zenit,Ajax,1,99,2
+Juventus,Atlanta,92,8,2
+Sheriff,Real Madrid,58,42,1
+Chelsea,Sporting CP,7,93,1
+Benfica,Wolfsburg,63,37,1
+Atlanta,Leipzig,90,10,1
+Benfica,Salzburg,34,66,3
+Sevilla,Malmö,88,12,3
+Salzburg,Liverpool,37,63,3
+Chelsea,Milan,45,55,1
+Bayern,Club Brugge,47,53,2
+Juventus,Paris,83,17,1
+Milan,Bensiktas,49,51,3
+Man. United,Dynamo,6,94,2
+Atlanta,Club Brugge,33,67,1
+Barcelona,Bayern,5,95,1
+Bensiktas,Liverpool,27,73,1
+Man. United,Sheriff,60,40,2
+Dortmund,Zenit,88,12,3
+Atletico,Dortmund,5,95,2
+Juventus,Shakhtar Donetsk,48,52,3
+Dynamo,Shakhtar Donetsk,99,1,3
+Villareal,Ajax,37,63,1
+Villareal,Man. United,5,95,2
+Malmö,Juventus,82,18,3
+Villareal,Sevilla,62,38,1
+Dortmund,Juventus,61,39,2
+Leipzig,Juventus,44,56,1
+Wolfsburg,Bayern,88,12,1
+Atletico,Villareal,47,53,1
+Club Brugge,Barcelona,10,90,2
+Salzburg,Liverpool,78,22,1
+Paris,Barcelona,51,49,1
+Real Madrid,Club Brugge,20,80,3
+Sevilla,Leipzig,69,31,1
+Liverpool,Zenit,38,62,1
+Real Madrid,Porto,83,17,2
+Chelsea,Atletico,86,14,3
+Sporting CP,Leipzig,44,56,3
+Sevilla,Benfica,63,37,1
+Internazionale,Bensiktas,89,11,3
+Club Brugge,Dortmund,10,90,2
+Villareal,Malmö,99,1,1
+Atletico,Sheriff,53,47,1
+Villareal,Paris,60,40,1
+Milan,Atlanta,88,12,3
+Zenit,Chelsea,46,54,3
+Internazionale,Atlanta,76,24,2
+Man. United,Malmö,58,42,2
+Shakhtar Donetsk,Real Madrid,68,32,3
+Leipzig,Malmö,74,26,3
+Wolfsburg,Paris,41,59,2
+Benfica,Man. United,15,85,2
+Paris,Real Madrid,67,33,1
+LOSC,Young Boys,10,90,1
+Ajax,Atlanta,45,55,2
+LOSC,Atlanta,29,71,1
+Sheriff,Atletico,65,35,2
+Ajax,Liverpool,58,42,2
+Juventus,Young Boys,45,55,3
+Sporting CP,Porto,26,74,2
+Sporting CP,Club Brugge,52,48,3
+Bensiktas,Juventus,23,77,2
+Juventus,Atletico,21,79,1
+Juventus,Sevilla,19,81,3
+Malmö,Ajax,2,98,1
+Club Brugge,Atletico,4,96,3
+Villareal,Dortmund,26,74,3
+Young Boys,Leipzig,9,91,3
+Internazionale,Dynamo,38,62,2
+Sheriff,Real Madrid,44,56,1
+Atletico,Man. United,2,98,1
+Juventus,Man. United,13,87,3
+Sevilla,Shakhtar Donetsk,65,35,1
+Young Boys,Dynamo,88,12,1
+Zenit,Club Brugge,97,3,2
+Ajax,Dortmund,88,12,1
+Man. City,Ajax,53,47,1
+Dynamo,Bayern,81,19,3
+Chelsea,Dynamo,52,48,3
+Paris,Dynamo,68,32,3
+Dortmund,Club Brugge,27,73,1
+Atletico,Sporting CP,70,30,1
+Sevilla,Atletico,74,26,1
+Real Madrid,Sporting CP,29,71,3
+Internazionale,Paris,74,26,3
+Malmö,Man. United,38,62,3
+Man. City,Chelsea,34,66,1
+Porto,Leipzig,60,40,2
+Villareal,Zenit,67,33,2
+Benfica,Sevilla,20,80,3
+Porto,Ajax,47,53,3
+Benfica,Villareal,2,98,3
+Malmö,Man. United,81,19,2
+Porto,Zenit,72,28,3
+Ajax,Paris,15,85,1
+Leipzig,LOSC,67,33,1
+Barcelona,Club Brugge,49,51,1
+Liverpool,Bensiktas,76,24,2
+Bensiktas,Leipzig,97,3,3
+Sevilla,Internazionale,29,71,2
+Juventus,Zenit,93,7,1
+Milan,Leipzig,91,9,3
+Zenit,Paris,19,81,2
+Real Madrid,Paris,20,80,2
+Young Boys,Real Madrid,3,97,3
+Sevilla,Shakhtar Donetsk,93,7,2
+Young Boys,Salzburg,3,97,3
+Juventus,Shakhtar Donetsk,91,9,3
+Dynamo,Man. City,28,72,3
+Shakhtar Donetsk,Internazionale,76,24,1
+Ajax,Man. United,86,14,3
+Zenit,Club Brugge,50,50,3
+Salzburg,Wolfsburg,38,62,2
+Zenit,Dynamo,78,22,3
+Wolfsburg,Villareal,66,34,2
+Villareal,Internazionale,3,97,2
+Man. United,Internazionale,64,36,3
+Shakhtar Donetsk,Paris,100,0,1
+Young Boys,Internazionale,80,20,2
+Bayern,LOSC,72,28,3
+Villareal,Sheriff,34,66,1
+Sporting CP,Atletico,3,97,2
+Internazionale,Dortmund,39,61,3
+Shakhtar Donetsk,Sheriff,30,70,1
+Salzburg,Leipzig,10,90,1
+Internazionale,Young Boys,18,82,3
+Paris,Man. City,0,100,1
+Dortmund,Villareal,3,97,1
+Villareal,Sevilla,2,98,3
+Ajax,Atletico,53,47,3
+Juventus,Man. United,59,41,1
+Barcelona,Porto,67,33,3
+Sheriff,Internazionale,5,95,2
+Sheriff,Man. City,64,36,3
+Villareal,Salzburg,84,16,2
+Barcelona,Malmö,35,65,3
+Wolfsburg,Atletico,83,17,2
+Atletico,Milan,70,30,3
+Sporting CP,Club Brugge,28,72,3
+Porto,Milan,39,61,3
+Barcelona,Villareal,49,51,1
+Internazionale,Dynamo,53,47,1
+Malmö,Porto,2,98,2
+LOSC,Ajax,13,87,1
+Milan,Leipzig,23,77,3
+Benfica,Villareal,55,45,2
+Atlanta,Sevilla,15,85,1
+Man. United,Benfica,6,94,1
+Barcelona,Club Brugge,45,55,3
+Barcelona,Paris,96,4,2
+Bensiktas,Villareal,46,54,2
+Wolfsburg,Atlanta,15,85,1
+Juventus,Atletico,30,70,3
+Sporting CP,Milan,50,50,1
+Club Brugge,Real Madrid,81,19,2
+Club Brugge,Young Boys,22,78,2
+Bensiktas,Shakhtar Donetsk,4,96,3
+Paris,Liverpool,100,0,3
+Ajax,Man. City,100,0,1
+Young Boys,Paris,52,48,3
+Chelsea,Atlanta,46,54,2
+Atletico,Man. United,84,16,1
+Villareal,Ajax,0,100,1
+Porto,Ajax,61,39,1
+Leipzig,Real Madrid,65,35,2
+LOSC,Malmö,42,58,2
+Juventus,Milan,90,10,1
+Paris,Juventus,19,81,2
+Sheriff,Atlanta,78,22,2
+Chelsea,Dynamo,7,93,1
+Leipzig,Milan,32,68,1
+Dortmund,Dynamo,50,50,3
+Sheriff,Porto,2,98,2
+Shakhtar Donetsk,Atletico,3,97,3
+Real Madrid,Young Boys,57,43,1
+Salzburg,Liverpool,76,24,2
+Ajax,Young Boys,0,100,3
+Bayern,Young Boys,13,87,1
+Man. United,Dynamo,76,24,1
+Dynamo,Sporting CP,66,34,2
+Chelsea,Ajax,48,52,1
+Young Boys,Man. United,46,54,2
+Bensiktas,Man. United,17,83,2
+Shakhtar Donetsk,Salzburg,40,60,1
+Club Brugge,Leipzig,98,2,1
+Real Madrid,Man. City,40,60,2
+Porto,Zenit,35,65,3
+Atletico,Sporting CP,49,51,2
+Zenit,Juventus,66,34,1
+Man. United,Milan,64,36,3
+Chelsea,Barcelona,100,0,2
+Villareal,Liverpool,33,67,1
+Man. City,LOSC,57,43,3
+Zenit,Salzburg,65,35,2
+Leipzig,Barcelona,67,33,2
+Benfica,Milan,46,54,3
+Barcelona,Atletico,79,21,1
+Paris,Salzburg,98,2,1
+LOSC,Dynamo,32,68,2
+Young Boys,LOSC,81,19,1
+Salzburg,Chelsea,89,11,3
+Real Madrid,Bayern,69,31,3
+Malmö,Real Madrid,20,80,2
+Juventus,Young Boys,44,56,1
+Ajax,Atlanta,84,16,2
+Leipzig,Paris,43,57,2
+Dynamo,Sevilla,96,4,1
+Young Boys,Man. City,52,48,2
+Leipzig,Sporting CP,33,67,2
+Chelsea,Atletico,83,17,1
+LOSC,Leipzig,100,0,3
+Malmö,Sevilla,84,16,2
+Malmö,Sheriff,48,52,2
+Atlanta,LOSC,85,15,2
+Sevilla,Chelsea,87,13,1
+LOSC,Wolfsburg,94,6,2
+Young Boys,Sporting CP,65,35,3
+Bensiktas,Paris,65,35,2
+Chelsea,Malmö,47,53,1
+Club Brugge,Wolfsburg,8,92,2
+Man. City,Atletico,71,29,3
+Shakhtar Donetsk,Porto,18,82,2
+Porto,Shakhtar Donetsk,46,54,3
+Real Madrid,Liverpool,65,35,3
+Zenit,Paris,77,23,3
+Paris,Real Madrid,94,6,3
+Man. United,LOSC,37,63,2
+Liverpool,Dynamo,56,44,2
+Paris,Man. City,65,35,2
+Barcelona,Dynamo,44,56,2
+Dynamo,Porto,49,51,3
+Malmö,Man. City,89,11,3
+Salzburg,Leipzig,1,99,1
+Malmö,Salzburg,19,81,1
+LOSC,Milan,28,72,3
+Sevilla,Paris,16,84,2
+Atletico,Juventus,88,12,3
+Ajax,Bensiktas,37,63,3
+Man. United,Shakhtar Donetsk,13,87,1
+Salzburg,Ajax,15,85,3
+Bayern,Sporting CP,66,34,2
+Bayern,Liverpool,32,68,1
+Sheriff,Bayern,90,10,2
+Wolfsburg,Milan,77,23,2
+Sporting CP,Bayern,90,10,1
+Porto,Ajax,31,69,2
+Barcelona,Paris,69,31,1
+Malmö,Porto,63,37,3
+Zenit,LOSC,84,16,3
+LOSC,Liverpool,39,61,1
+Atlanta,Salzburg,5,95,3
+Chelsea,Sporting CP,88,12,1
+Man. City,Porto,78,22,2
+Wolfsburg,Salzburg,67,33,1
+Benfica,Malmö,54,46,1
+Liverpool,Sporting CP,39,61,2
+Sevilla,Barcelona,100,0,1
+Zenit,Club Brugge,99,1,2
+Leipzig,Bayern,86,14,2
+Man. United,Atletico,17,83,1
+LOSC,Paris,76,24,3
+Atlanta,Malmö,2,98,3
+Milan,Liverpool,61,39,3
+Salzburg,Bensiktas,1,99,3
+Internazionale,Shakhtar Donetsk,87,13,3
+Man. United,Leipzig,45,55,2
+Salzburg,Man. United,34,66,3
+Internazionale,Atlanta,10,90,1
+Sporting CP,Bensiktas,70,30,1
+Zenit,Ajax,27,73,3
+Dortmund,Sheriff,95,5,2
+Real Madrid,Sporting CP,19,81,2
+Liverpool,Real Madrid,62,38,1
+Shakhtar Donetsk,Zenit,85,15,3
+Young Boys,Shakhtar Donetsk,93,7,3
+Leipzig,Chelsea,95,5,3
+Porto,Dortmund,62,38,3
+Juventus,Salzburg,98,2,3
+Shakhtar Donetsk,Wolfsburg,88,12,1
+Chelsea,Bensiktas,15,85,1
+Man. City,Wolfsburg,78,22,2
+Dortmund,Sevilla,89,11,3
+Man. City,Chelsea,6,94,1
+Benfica,Paris,42,58,1
+Ajax,Club Brugge,59,41,3
+Benfica,Wolfsburg,10,90,2
+Man. City,Real Madrid,41,59,3
+Man. City,Dortmund,8,92,3
+Salzburg,Dortmund,43,57,2
+Malmö,Benfica,64,36,1
+Paris,Barcelona,95,5,1
+Milan,Dynamo,8,92,2
+Sheriff,Internazionale,57,43,2
+Wolfsburg,Shakhtar Donetsk,79,21,1
+Leipzig,Milan,54,46,1
+Malmö,Sevilla,87,13,1
+Wolfsburg,Atletico,4,96,3
+Man. City,Shakhtar Donetsk,1,99,2
+Liverpool,Bayern,62,38,2
+Atletico,Ajax,16,84,3
+Sheriff,Man. United,91,9,2
+Man. United,Chelsea,12,88,2
+Sporting CP,Man. United,70,30,2
+Club Brugge,Sporting CP,68,32,2
+Dortmund,Zenit,4,96,3
+Atletico,Ajax,81,19,3
+Villareal,Ajax,41,59,3
+Young Boys,Salzburg,94,6,1
+Leipzig,Chelsea,83,17,2
+Dynamo,Dortmund,60,40,1
+Zenit,Dortmund,95,5,3
+Milan,Wolfsburg,99,1,3
+Benfica,Juventus,30,70,2
+Paris,Club Brugge,94,6,2
+Dortmund,Salzburg,76,24,2
+Salzburg,Leipzig,12,88,3
+Club Brugge,Juventus,60,40,1
+Real Madrid,Bensiktas,80,20,3
+Sevilla,Real Madrid,86,14,1
+Malmö,Ajax,23,77,1
+Benfica,Leipzig,5,95,3
+Dynamo,Shakhtar Donetsk,13,87,2
+Paris,Sporting CP,7,93,3
+Liverpool,Villareal,23,77,3
+Internazionale,Zenit,48,52,3
+Liverpool,Salzburg,38,62,1
+Sheriff,LOSC,82,18,3
+Villareal,Juventus,30,70,1
+Shakhtar Donetsk,Man. City,38,62,1
+Internazionale,Real Madrid,51,49,2
+Sevilla,Man. City,38,62,3
+Sevilla,Villareal,62,38,1
+Benfica,Paris,28,72,1
+Leipzig,Ajax,26,74,2
+Juventus,Dynamo,49,51,3
+LOSC,Man. City,68,32,2
+Benfica,Villareal,70,30,1
+Young Boys,Man. United,86,14,2
+Wolfsburg,Man. City,98,2,1
+Paris,Salzburg,70,30,1
+Dynamo,Man. City,77,23,2
+Porto,Sheriff,93,7,1
+Chelsea,Paris,75,25,1
+Club Brugge,Bayern,3,97,2
+Young Boys,Atlanta,70,30,2
+Porto,Liverpool,18,82,2
+Internazionale,Sporting CP,30,70,1
+Atletico,Villareal,48,52,2
+LOSC,Benfica,68,32,3
+Atletico,Malmö,55,45,3
+Atlanta,Milan,14,86,3
+Dortmund,Juventus,21,79,1
+Atletico,Sheriff,32,68,1
+Bayern,Man. City,58,42,3
+Paris,Zenit,59,41,2
+Bensiktas,Barcelona,35,65,1
+Chelsea,Barcelona,46,54,2
+Young Boys,Sheriff,11,89,2
+Leipzig,Paris,41,59,3
+Wolfsburg,Zenit,87,13,3
+Juventus,Benfica,77,23,1
+Salzburg,Internazionale,44,56,1
+Salzburg,Wolfsburg,88,12,1
+Atletico,Salzburg,48,52,2
+Liverpool,Juventus,37,63,1
+Leipzig,Juventus,19,81,1
+Milan,Man. United,83,17,2
+Real Madrid,Atletico,68,32,2
+Milan,Sporting CP,98,2,2
+Zenit,Chelsea,67,33,3
+Leipzig,Bayern,79,21,1
+Benfica,Club Brugge,19,81,1
+Young Boys,Villareal,64,36,2
+Sporting CP,Sheriff,30,70,1
+Villareal,Ajax,7,93,2
+Bensiktas,Ajax,8,92,1
+LOSC,Sporting CP,72,28,2
+Leipzig,Atletico,10,90,1
+Juventus,Salzburg,78,22,1
+Paris,Sporting CP,17,83,3
+Real Madrid,LOSC,89,11,2
+Benfica,Villareal,20,80,2
+Sporting CP,LOSC,88,12,2
+Paris,Villareal,85,15,2
+Dynamo,Villareal,11,89,2
+Barcelona,Young Boys,45,55,3
+Zenit,Malmö,15,85,3
+Porto,Leipzig,27,73,2
+Leipzig,Shakhtar Donetsk,61,39,3
+Villareal,Leipzig,7,93,3
+Leipzig,Man. United,10,90,3
+Dynamo,LOSC,40,60,2
+Benfica,Shakhtar Donetsk,84,16,3
+Dynamo,Atletico,86,14,2
+Benfica,Shakhtar Donetsk,30,70,1
+Chelsea,Sevilla,94,6,2
+Shakhtar Donetsk,Salzburg,91,9,2
+Villareal,Sporting CP,40,60,3
+Leipzig,Ajax,49,51,2
+Dynamo,Real Madrid,45,55,2
+Real Madrid,Dortmund,17,83,1
+Ajax,Man. United,100,0,3
+Club Brugge,Villareal,31,69,2
+Club Brugge,Atletico,60,40,2
+Milan,Villareal,97,3,2
+Wolfsburg,Young Boys,100,0,1
+Young Boys,Dortmund,85,15,2
+Dynamo,Porto,16,84,2
+Wolfsburg,Liverpool,26,74,3
+Man. City,Liverpool,75,25,2
+Atlanta,Ajax,73,27,3
+Benfica,Paris,94,6,2
+Man. City,Sevilla,59,41,2
+Chelsea,Real Madrid,20,80,1
+Atletico,Real Madrid,32,68,3
+Villareal,Dortmund,66,34,2
+Atlanta,Malmö,55,45,2
+Sheriff,Milan,71,29,2
+Sporting CP,Leipzig,24,76,3
+Real Madrid,Dynamo,18,82,2
+Wolfsburg,Paris,29,71,3
+Benfica,Shakhtar Donetsk,29,71,1
+Sporting CP,Dortmund,79,21,2
+Real Madrid,Dortmund,11,89,3
+Bayern,Leipzig,75,25,2
+Barcelona,Internazionale,84,16,2
+Wolfsburg,Atlanta,62,38,2
+Salzburg,Porto,12,88,2
+Atlanta,Shakhtar Donetsk,80,20,1
+Sporting CP,Club Brugge,35,65,3
+Leipzig,Wolfsburg,45,55,1
+Man. City,Barcelona,95,5,2
+Dynamo,Wolfsburg,84,16,2
+Porto,Man. United,70,30,3
+Leipzig,Club Brugge,35,65,3
+Bayern,Sporting CP,58,42,1
+LOSC,Chelsea,17,83,1
+Club Brugge,Salzburg,68,32,2
+Sevilla,Sheriff,1,99,3
+Bensiktas,Paris,66,34,1
+Club Brugge,Dynamo,92,8,3
+LOSC,Man. United,93,7,2
+Man. United,Paris,62,38,3
+Bayern,Zenit,84,16,3
+Sevilla,Real Madrid,7,93,3
+Juventus,Benfica,89,11,3
+Dynamo,Malmö,100,0,1
+Liverpool,Young Boys,35,65,1
+Atletico,Internazionale,16,84,3
+Dynamo,Dortmund,45,55,3
+Internazionale,Villareal,29,71,1
+Internazionale,Chelsea,37,63,1
+Wolfsburg,Paris,48,52,2
+Shakhtar Donetsk,Benfica,33,67,2
+Bensiktas,Liverpool,24,76,3
+Sevilla,Barcelona,73,27,3
+Dynamo,Salzburg,10,90,1
+Sheriff,Paris,48,52,1
+Atletico,Wolfsburg,14,86,2
+Wolfsburg,Benfica,80,20,1
+Milan,Wolfsburg,40,60,3
+Man. City,Real Madrid,24,76,2
+Zenit,Chelsea,56,44,2
+Salzburg,Juventus,93,7,1
+Young Boys,Man. City,48,52,2
+Ajax,Juventus,14,86,2
+Man. United,Atlanta,68,32,2
+Man. City,Juventus,88,12,2
+Ajax,Club Brugge,83,17,1
+Wolfsburg,Salzburg,28,72,3
+Atletico,Malmö,3,97,2
+Internazionale,Benfica,81,19,2
+Barcelona,Ajax,81,19,3
+Juventus,Zenit,15,85,1
+Ajax,Shakhtar Donetsk,47,53,1
+Milan,Barcelona,29,71,3
+Leipzig,Ajax,33,67,2
+Sporting CP,Salzburg,26,74,2
+Atlanta,Leipzig,84,16,1
+Young Boys,Club Brugge,34,66,1
+Dynamo,Milan,52,48,1
+Man. City,LOSC,16,84,1
+Paris,Atletico,85,15,2
+LOSC,Liverpool,82,18,3
+Young Boys,Bayern,22,78,1
+Villareal,Club Brugge,76,24,3
+Man. United,Liverpool,48,52,3
+Malmö,Benfica,78,22,2
+Atlanta,LOSC,7,93,3
+Porto,Milan,13,87,3
+Bensiktas,Atletico,74,26,1
+Young Boys,Ajax,81,19,1
+Atletico,Liverpool,29,71,1
+Dynamo,Bensiktas,59,41,3
+Ajax,Real Madrid,13,87,2
+Chelsea,Ajax,89,11,3
+Leipzig,Bensiktas,73,27,2
+Salzburg,Malmö,78,22,2
+Juventus,Young Boys,19,81,1
+Bensiktas,Sevilla,12,88,2
+Malmö,LOSC,82,18,1
+Atlanta,Man. City,90,10,1
+Sevilla,Bayern,33,67,2
+Wolfsburg,Liverpool,26,74,2
+Barcelona,Benfica,18,82,2
+Man. City,Benfica,6,94,2
+Man. United,Malmö,81,19,1
+Wolfsburg,Liverpool,36,64,3
+Dortmund,Zenit,73,27,2
+Malmö,Sevilla,31,69,2
+Villareal,Salzburg,48,52,2
+Atlanta,Benfica,94,6,2
+Juventus,Man. United,34,66,3
+Wolfsburg,Real Madrid,29,71,1
+Barcelona,Bensiktas,26,74,3
+Dortmund,Sevilla,67,33,3
+Bensiktas,Sheriff,33,67,1
+Sporting CP,Dynamo,27,73,1
+Man. United,Porto,93,7,1
+Barcelona,Liverpool,60,40,2
+Paris,LOSC,96,4,3
+Young Boys,Atletico,73,27,1
+Wolfsburg,Atlanta,23,77,2
+Ajax,Malmö,53,47,3
+Villareal,Shakhtar Donetsk,5,95,1
+Club Brugge,Leipzig,77,23,2
+Malmö,Paris,39,61,3
+LOSC,Chelsea,44,56,2
+Atletico,Milan,12,88,1
+Club Brugge,Young Boys,8,92,1
+Wolfsburg,Atletico,45,55,1
+Man. United,Ajax,59,41,3
+Young Boys,Juventus,54,46,1
+Man. United,Paris,8,92,1
+Leipzig,Man. City,81,19,1
+Shakhtar Donetsk,Salzburg,59,41,1
+Club Brugge,Zenit,69,31,1
+Sevilla,Leipzig,45,55,2
+Porto,Juventus,3,97,1
+Bayern,Man. City,21,79,2
+Man. City,Real Madrid,62,38,3
+Internazionale,Paris,89,11,3
+Real Madrid,Sporting CP,86,14,3
+LOSC,Man. City,56,44,3
+Club Brugge,Atletico,42,58,1
+Bensiktas,Ajax,5,95,1
+Villareal,Liverpool,42,58,2
+Man. United,LOSC,6,94,1
+Sevilla,Dortmund,50,50,2
+Dortmund,Bayern,11,89,3
+Man. United,Malmö,89,11,1
+Shakhtar Donetsk,Paris,72,28,2
+Internazionale,Liverpool,95,5,3
+Sheriff,Dortmund,64,36,2
+Atletico,Leipzig,18,82,1
+Milan,Bayern,85,15,2
+Dynamo,Porto,19,81,3
+Man. City,Club Brugge,86,14,3
+Club Brugge,Bensiktas,54,46,1
+Salzburg,Sevilla,86,14,3
+Atletico,Milan,85,15,1
+Real Madrid,Dortmund,57,43,1
+Chelsea,Paris,92,8,2
+Dynamo,Internazionale,39,61,1
+Man. United,Internazionale,12,88,3
+Man. City,Man. United,39,61,2
+Sevilla,Barcelona,97,3,1
+Juventus,Ajax,60,40,1
+Chelsea,Atletico,54,46,2
+Club Brugge,Internazionale,0,100,1
+Villareal,Milan,90,10,2
+Liverpool,Wolfsburg,43,57,1
+Dynamo,Ajax,59,41,3
+LOSC,Sheriff,25,75,3
+Internazionale,Ajax,27,73,2
+Chelsea,LOSC,100,0,2
+Juventus,Villareal,28,72,1
+Real Madrid,Wolfsburg,49,51,3
+Juventus,Sporting CP,80,20,3
+Juventus,Young Boys,80,20,1
+Villareal,Club Brugge,16,84,2
+Man. United,Juventus,63,37,2
+Barcelona,Milan,75,25,3
+Wolfsburg,Sporting CP,34,66,1
+Dynamo,Real Madrid,67,33,3
+Villareal,Barcelona,28,72,3
+Atlanta,Bayern,76,24,1
+Salzburg,Milan,78,22,1
+Man. United,Young Boys,92,8,3
+Atlanta,Shakhtar Donetsk,7,93,3
+Leipzig,Villareal,18,82,2
+Atlanta,Shakhtar Donetsk,85,15,2
+Internazionale,Young Boys,84,16,3
+Porto,Young Boys,44,56,1
+Milan,Salzburg,89,11,2
+Shakhtar Donetsk,Atlanta,33,67,3
+Sevilla,Man. City,74,26,3
+Zenit,Milan,62,38,1
+Malmö,Sporting CP,12,88,2
+Liverpool,Shakhtar Donetsk,6,94,1
+Atlanta,Leipzig,14,86,1
+Sheriff,Barcelona,51,49,2
+Villareal,Ajax,35,65,2
+Bensiktas,Wolfsburg,71,29,3
+Salzburg,Dynamo,43,57,1
+Paris,Bayern,86,14,3
+Paris,Juventus,94,6,3
+Paris,Benfica,22,78,2
+Juventus,Malmö,97,3,1
+Club Brugge,Young Boys,3,97,3
+Ajax,Porto,0,100,3
+Leipzig,Malmö,59,41,1
+Juventus,Club Brugge,10,90,2
+Sporting CP,Man. United,82,18,3
+Internazionale,Paris,56,44,3
+Juventus,Young Boys,34,66,3
+Zenit,Chelsea,28,72,1
+Dynamo,Young Boys,48,52,2
+Bayern,Internazionale,85,15,3
+Dynamo,Chelsea,33,67,1
+Chelsea,Shakhtar Donetsk,99,1,3
+Leipzig,Paris,36,64,2
+Dortmund,Malmö,47,53,1
+Salzburg,Benfica,43,57,2
+Juventus,Dynamo,2,98,2
+Man. City,Ajax,98,2,1
+Zenit,Real Madrid,5,95,2
+Sporting CP,Benfica,94,6,2
+Club Brugge,Bayern,36,64,1
+Sporting CP,Bayern,45,55,1
+Liverpool,Atletico,45,55,3
+Dynamo,Young Boys,62,38,2
+Club Brugge,Man. City,67,33,1
+Real Madrid,Club Brugge,60,40,2
+Dynamo,Sevilla,23,77,1
+Club Brugge,Ajax,100,0,3
+Atlanta,Dortmund,66,34,2
+Bensiktas,Salzburg,8,92,3
+Ajax,Man. City,63,37,2
+Salzburg,Chelsea,53,47,1
+Wolfsburg,Ajax,66,34,2
+Atletico,Real Madrid,75,25,2
+Bayern,Sheriff,24,76,1
+Barcelona,Real Madrid,76,24,3
+Atletico,Malmö,8,92,1
+Dortmund,Ajax,33,67,1
+Leipzig,Chelsea,6,94,3
+Paris,Dortmund,50,50,2
+Villareal,Dortmund,83,17,1
+Villareal,Atletico,0,100,3
+Porto,Atletico,86,14,1
+Chelsea,Atlanta,31,69,2
+Wolfsburg,LOSC,79,21,2
+Benfica,Porto,10,90,1
+Bensiktas,Internazionale,55,45,2
+Atletico,Villareal,87,13,2
+Dortmund,Atletico,65,35,3
+Liverpool,Malmö,90,10,3
+Porto,Sporting CP,46,54,3
+Atlanta,Man. United,21,79,1
+Ajax,Dortmund,60,40,2
+Atletico,Bensiktas,15,85,2
+Man. United,Liverpool,34,66,1
+Porto,Sevilla,30,70,1
+Sheriff,Chelsea,14,86,1
+Porto,Bensiktas,82,18,2
+Ajax,Club Brugge,36,64,2
+Milan,Villareal,63,37,3
+Chelsea,Man. United,77,23,1
+Club Brugge,Dynamo,64,36,2
+Atletico,Bensiktas,74,26,1
+Milan,Real Madrid,73,27,1
+Sheriff,Dynamo,13,87,2
+Chelsea,Juventus,51,49,2
+Sheriff,Dortmund,46,54,1
+Porto,Wolfsburg,52,48,3
+Man. United,Bayern,47,53,1
+Ajax,Shakhtar Donetsk,13,87,2
+Internazionale,Sevilla,89,11,3
+Internazionale,Salzburg,16,84,1
+Dynamo,Villareal,92,8,1
+Man. City,Club Brugge,99,1,2
+Atlanta,Sevilla,44,56,1
+Zenit,Internazionale,40,60,2
+Young Boys,Wolfsburg,32,68,2
+Salzburg,Milan,64,36,2
+Young Boys,Juventus,77,23,1
+Paris,Shakhtar Donetsk,50,50,1
+Sheriff,Juventus,46,54,3
+Shakhtar Donetsk,Zenit,83,17,1
+LOSC,Dortmund,52,48,1
+Juventus,Dortmund,21,79,3
+Sheriff,Salzburg,18,82,1
+Porto,Real Madrid,73,27,3
+Dortmund,Sporting CP,27,73,2
+Salzburg,Young Boys,79,21,2
+Chelsea,Ajax,43,57,1
+Man. United,Young Boys,65,35,3
+Shakhtar Donetsk,Atletico,37,63,2
+Villareal,Club Brugge,20,80,2
+Dynamo,Real Madrid,75,25,3
+Bensiktas,Club Brugge,81,19,2
+Young Boys,LOSC,63,37,1
+Dynamo,Salzburg,27,73,3
+Dortmund,Sheriff,99,1,3
+Dynamo,Porto,83,17,2
+Liverpool,Paris,70,30,3
+Club Brugge,Liverpool,6,94,1
+Club Brugge,Atletico,66,34,1
+Young Boys,Villareal,57,43,2
+Milan,Salzburg,59,41,1
+Wolfsburg,Barcelona,58,42,3
+Villareal,Liverpool,68,32,2
+Club Brugge,Villareal,28,72,2
+Ajax,Man. City,31,69,3
+Young Boys,Bayern,74,26,1
+Man. City,Atletico,97,3,1
+Zenit,Internazionale,88,12,3
+Wolfsburg,Bensiktas,57,43,1
+Dynamo,Bayern,93,7,3
+Wolfsburg,Sporting CP,62,38,2
+Milan,Chelsea,45,55,3
+Man. City,Ajax,46,54,2
+Liverpool,LOSC,60,40,1
+Bayern,Dortmund,65,35,2
+Dortmund,Benfica,44,56,2
+Internazionale,Salzburg,93,7,2
+Villareal,Sporting CP,13,87,2
+Leipzig,Malmö,90,10,3
+Bensiktas,Club Brugge,95,5,3
+Bayern,Sporting CP,59,41,2
+Sporting CP,Villareal,93,7,3
+Villareal,Zenit,64,36,3
+Juventus,Malmö,18,82,3
+Shakhtar Donetsk,Bensiktas,85,15,1
+Juventus,Leipzig,49,51,3
+Barcelona,Sporting CP,44,56,1
+Atlanta,Leipzig,15,85,3
+Milan,Bayern,40,60,3
+Juventus,Sevilla,41,59,3
+Zenit,Ajax,68,32,1
+Villareal,Dynamo,68,32,3
+Real Madrid,Liverpool,82,18,2
+Shakhtar Donetsk,LOSC,42,58,1
+Real Madrid,Shakhtar Donetsk,33,67,3
+Juventus,Man. United,80,20,1
+Man. United,Dortmund,89,11,2
+Juventus,Young Boys,42,58,3
+Dynamo,Sevilla,100,0,2
+Zenit,Dortmund,59,41,2
+Benfica,Zenit,56,44,1
+Malmö,Ajax,61,39,1
+Club Brugge,Dynamo,34,66,3
+LOSC,Dortmund,61,39,2
+Zenit,Wolfsburg,49,51,2
+Ajax,Chelsea,89,11,1
+Atlanta,Sheriff,78,22,1
+Young Boys,Benfica,100,0,3
+Bensiktas,Salzburg,18,82,2
+Salzburg,Benfica,52,48,1
+Man. United,Internazionale,86,14,2
+Real Madrid,Barcelona,95,5,1
+Club Brugge,Wolfsburg,4,96,1
+Dynamo,Ajax,55,45,3
+Sporting CP,Club Brugge,92,8,3
+Liverpool,Milan,67,33,1
+Leipzig,Milan,14,86,1
+Atletico,Salzburg,66,34,3
+Man. City,Leipzig,31,69,3
+Sheriff,Dortmund,4,96,3
+Bayern,Milan,99,1,3
+Barcelona,Wolfsburg,9,91,2
+Dortmund,Chelsea,72,28,2
+Liverpool,Porto,42,58,2
+Malmö,Milan,67,33,1
+Chelsea,Dortmund,79,21,1
+Man. City,Atletico,54,46,3
+Man. City,Internazionale,77,23,1
+Bayern,Internazionale,46,54,3
+Sevilla,Young Boys,1,99,3
+Atlanta,Atletico,5,95,3
+Sheriff,Shakhtar Donetsk,95,5,1
+Paris,Bensiktas,78,22,1
+Atlanta,Paris,86,14,2
+Juventus,Malmö,15,85,3
+Salzburg,Malmö,72,28,3
+Salzburg,Sheriff,52,48,1
+Young Boys,Atlanta,32,68,3
+Bayern,LOSC,9,91,2
+Zenit,Villareal,85,15,1
+Man. City,LOSC,74,26,3
+Bensiktas,Liverpool,65,35,3
+Young Boys,Barcelona,47,53,1
+Milan,Paris,13,87,2
+Bensiktas,Paris,29,71,3
+Atletico,Real Madrid,75,25,2
+Juventus,Sporting CP,76,24,2
+Shakhtar Donetsk,Malmö,54,46,2
+Porto,Bayern,71,29,3
+Leipzig,Real Madrid,23,77,2
+Man. United,Ajax,22,78,1
+Juventus,Atlanta,22,78,1
+Real Madrid,Sporting CP,63,37,2
+Young Boys,Club Brugge,0,100,2
+Sporting CP,Man. City,72,28,1
+Paris,Sheriff,96,4,2
+Sevilla,Ajax,99,1,2
+Malmö,Barcelona,93,7,2
+Ajax,Porto,0,100,1
+Dortmund,Liverpool,30,70,1
+Dortmund,Villareal,85,15,3
+Real Madrid,Man. United,39,61,3
+Barcelona,Bayern,36,64,3
+Ajax,Villareal,6,94,2
+Dynamo,LOSC,34,66,2
+Leipzig,Bayern,44,56,1
+Club Brugge,Sevilla,11,89,2
+Zenit,Young Boys,95,5,3
+Man. United,Ajax,0,100,3
+Villareal,Paris,43,57,2
+Bayern,Young Boys,15,85,2
+Salzburg,Internazionale,90,10,3
+Atletico,Porto,79,21,2
+Malmö,Zenit,57,43,2
+Shakhtar Donetsk,Wolfsburg,6,94,1
+Dynamo,Malmö,3,97,3
+Benfica,Shakhtar Donetsk,27,73,3
+Sevilla,Juventus,29,71,2
+Liverpool,Barcelona,100,0,1
+Man. City,Atletico,29,71,3
+Villareal,Chelsea,49,51,3
+Malmö,Leipzig,46,54,3
+Real Madrid,Sporting CP,38,62,1
+Sevilla,Man. City,94,6,2
+Man. United,Atletico,20,80,1
+Sevilla,Young Boys,52,48,2
+Bensiktas,Sevilla,38,62,2
+Malmö,Atletico,72,28,3
+Club Brugge,Real Madrid,15,85,2
+Dynamo,Leipzig,43,57,3
+Shakhtar Donetsk,Man. City,78,22,1
+Bayern,Atletico,55,45,1
+Barcelona,Villareal,35,65,2
+Chelsea,Porto,33,67,1
+Man. City,Liverpool,99,1,2
+Leipzig,Malmö,41,59,1
+LOSC,Sporting CP,0,100,2
+Atlanta,Benfica,2,98,2
+Juventus,Sheriff,54,46,3
+Internazionale,Bensiktas,25,75,2
+Sevilla,Villareal,26,74,1
+Malmö,Young Boys,81,19,2
+Ajax,Real Madrid,1,99,2
+Villareal,Benfica,90,10,1
+Zenit,Sporting CP,64,36,2
+Shakhtar Donetsk,Salzburg,19,81,3
+Leipzig,Ajax,33,67,3
+Internazionale,Bayern,35,65,1
+Dynamo,Sevilla,19,81,3
+Man. United,Malmö,98,2,1
+Atletico,Club Brugge,85,15,3
+Porto,Juventus,69,31,2
+Man. United,Porto,88,12,1
+Liverpool,Club Brugge,75,25,2
+Dynamo,Barcelona,63,37,2
+Sevilla,Atletico,91,9,1
+Sporting CP,LOSC,4,96,1
+Villareal,Benfica,68,32,2
+Club Brugge,Chelsea,84,16,2
+Leipzig,Man. United,10,90,2
+Chelsea,Bayern,82,18,2
+Malmö,Dynamo,15,85,3
+Bensiktas,Zenit,96,4,3
+Sporting CP,Porto,99,1,2
+Man. City,Dynamo,61,39,2
+Zenit,Sevilla,46,54,2
+Paris,LOSC,22,78,2
+Zenit,Leipzig,16,84,1
+Porto,Leipzig,31,69,3
+Young Boys,LOSC,31,69,2
+Sheriff,Young Boys,99,1,3
+Dortmund,Salzburg,13,87,1
+Wolfsburg,Internazionale,31,69,2
+Club Brugge,Wolfsburg,100,0,1
+Malmö,Zenit,79,21,3
+Atlanta,Chelsea,20,80,3
+Sheriff,Real Madrid,73,27,2
+Wolfsburg,Paris,61,39,1
+Sevilla,Man. United,8,92,2
+Young Boys,Atlanta,26,74,3
+Ajax,Chelsea,89,11,1
+Chelsea,Sporting CP,30,70,2
+Internazionale,Shakhtar Donetsk,75,25,3
+Sporting CP,Paris,66,34,3
+Paris,Porto,7,93,1
+Man. City,Atlanta,38,62,1
+Villareal,Paris,13,87,1
+Ajax,Bensiktas,55,45,3
+Salzburg,Man. City,63,37,1
+Leipzig,LOSC,9,91,3
+Internazionale,Ajax,98,2,2
+Paris,LOSC,72,28,3
+Salzburg,Barcelona,30,70,2
+Sporting CP,Atlanta,62,38,3
+Juventus,Ajax,27,73,1
+Young Boys,Zenit,3,97,1
+Milan,Internazionale,82,18,3
+Porto,Paris,80,20,1
+Sporting CP,Porto,49,51,1
+Barcelona,Atletico,77,23,1
+Bayern,Sporting CP,10,90,1
+Dynamo,Shakhtar Donetsk,52,48,1
+Sheriff,Milan,5,95,1
+Sporting CP,Man. United,47,53,2
+Man. United,Liverpool,94,6,2
+Ajax,Salzburg,18,82,1
+Zenit,Sheriff,65,35,3
+Bensiktas,Paris,50,50,2
+Atlanta,Real Madrid,9,91,3
+Juventus,Wolfsburg,4,96,3
+Club Brugge,Sevilla,4,96,3
+LOSC,Internazionale,14,86,2
+Zenit,Leipzig,99,1,2
+Porto,LOSC,35,65,2
+Paris,Dortmund,87,13,1
+Young Boys,Juventus,89,11,2
+Wolfsburg,Benfica,95,5,2
+Real Madrid,Chelsea,78,22,3
+Club Brugge,Bayern,79,21,1
+Malmö,Man. United,2,98,2
+Juventus,Porto,36,64,2
+Internazionale,Man. United,23,77,1
+Bensiktas,Dortmund,63,37,2
+Benfica,Atlanta,100,0,3
+LOSC,Bayern,62,38,3
+Liverpool,Chelsea,90,10,3
+Bensiktas,Juventus,53,47,1
+Ajax,Wolfsburg,80,20,3
+Dynamo,Young Boys,33,67,2
+LOSC,Real Madrid,42,58,1
+Leipzig,Young Boys,81,19,2
+Sevilla,Liverpool,78,22,1
+Bayern,Barcelona,16,84,3
+Bensiktas,Sporting CP,49,51,2
+Man. City,Sheriff,92,8,3
+Dynamo,Zenit,30,70,3
+Zenit,Wolfsburg,60,40,2
+Milan,Real Madrid,2,98,2
+Internazionale,Barcelona,92,8,1
+Chelsea,Bayern,4,96,3
+Salzburg,Bayern,64,36,1
+Atletico,Man. City,4,96,1
+Milan,Ajax,26,74,2
+Paris,Benfica,8,92,3
+LOSC,Juventus,93,7,1
+Salzburg,Leipzig,98,2,2
+Milan,Sheriff,8,92,1
+Man. United,Liverpool,48,52,2
+Sevilla,Leipzig,60,40,3
+Dynamo,Juventus,73,27,3
+Juventus,Bayern,29,71,1
+Wolfsburg,Club Brugge,6,94,3
+Benfica,Ajax,32,68,3
+Sevilla,LOSC,83,17,3
+Sporting CP,Chelsea,55,45,3
+Liverpool,Paris,96,4,2
+Sheriff,Man. City,65,35,1
+Zenit,LOSC,2,98,3
+Dortmund,Milan,2,98,1
+Ajax,Real Madrid,7,93,3
+Porto,Bayern,24,76,3
+Sporting CP,Bayern,6,94,1
+Barcelona,Juventus,51,49,2
+Zenit,Bayern,0,100,3
+Atletico,Club Brugge,100,0,3
+Sporting CP,Bayern,44,56,1
+Real Madrid,Bensiktas,77,23,2
+Man. United,Atlanta,35,65,2
+Real Madrid,Malmö,0,100,2
+Dynamo,Juventus,65,35,3
+Chelsea,Club Brugge,6,94,3
+Sevilla,Milan,71,29,2
+Barcelona,Sporting CP,35,65,1
+Porto,Liverpool,76,24,1
+Sporting CP,Ajax,80,20,3
+Zenit,Man. City,99,1,1
+Shakhtar Donetsk,Dortmund,70,30,2
+Man. City,Bayern,63,37,1
+Benfica,Juventus,35,65,3
+Young Boys,Malmö,56,44,3
+Bensiktas,LOSC,65,35,1
+Milan,Chelsea,68,32,2
+Internazionale,LOSC,12,88,2
+Young Boys,Chelsea,36,64,3
+Bayern,Atletico,94,6,1
+Dortmund,Young Boys,52,48,3
+Man. City,Bensiktas,55,45,1
+Zenit,Liverpool,77,23,3
+Zenit,Dortmund,82,18,2
+Man. United,Milan,31,69,2
+Wolfsburg,Atlanta,16,84,1
+Bensiktas,Barcelona,40,60,2
+Barcelona,Milan,68,32,3
+Juventus,Sevilla,92,8,3
+Salzburg,Atletico,5,95,2
+Leipzig,Man. City,25,75,3
+Ajax,Leipzig,8,92,1
+Sporting CP,Leipzig,63,37,1
+Atletico,Liverpool,45,55,3
+Young Boys,Real Madrid,69,31,2
+Bayern,LOSC,74,26,2
+Club Brugge,Zenit,53,47,2
+Benfica,Shakhtar Donetsk,99,1,3
+Ajax,Young Boys,1,99,2
+Sporting CP,Dortmund,50,50,2
+Chelsea,Shakhtar Donetsk,43,57,1
+Dynamo,Bensiktas,86,14,1
+Salzburg,Leipzig,6,94,3
+Paris,Young Boys,39,61,2
+Shakhtar Donetsk,Barcelona,27,73,1
+Dynamo,Sheriff,31,69,2
+Ajax,Real Madrid,3,97,1
+Sevilla,Leipzig,65,35,3
+Dortmund,Ajax,65,35,3
+Man. City,Wolfsburg,28,72,3
+Shakhtar Donetsk,Club Brugge,20,80,3
+Young Boys,Porto,72,28,3
+Atletico,Milan,42,58,2
+Man. City,Sporting CP,63,37,1
+Young Boys,Zenit,66,34,1
+Bayern,Benfica,20,80,3
+Shakhtar Donetsk,Zenit,27,73,2
+Chelsea,Sporting CP,16,84,3
+Villareal,Ajax,10,90,3
+Zenit,Young Boys,32,68,3
+Malmö,Atletico,33,67,1
+Shakhtar Donetsk,Sevilla,11,89,3
+Young Boys,Porto,60,40,3
+Shakhtar Donetsk,Internazionale,38,62,2
+Barcelona,Leipzig,6,94,2
+Man. United,Juventus,91,9,1
+Dortmund,Bayern,3,97,3
+Milan,Bensiktas,97,3,2
+Sporting CP,Real Madrid,65,35,3
+Leipzig,Barcelona,89,11,1
+Wolfsburg,Paris,23,77,1
+Milan,Sheriff,65,35,2
+Real Madrid,Porto,19,81,2
+Milan,Real Madrid,5,95,1
+Young Boys,Liverpool,68,32,1
+Zenit,Salzburg,32,68,2
+Porto,Ajax,53,47,1
+Juventus,Milan,22,78,3
+Barcelona,Bayern,37,63,2
+Dynamo,Real Madrid,69,31,1
+Man. City,Sevilla,7,93,2
+Atletico,Juventus,12,88,3
+Club Brugge,Barcelona,97,3,2
+Atletico,Sevilla,13,87,3
+Benfica,Zenit,85,15,3
+Dynamo,Man. City,94,6,3
+Real Madrid,Ajax,28,72,3
+Ajax,Dynamo,14,86,3
+Real Madrid,Porto,46,54,1
+Leipzig,Malmö,92,8,1
+Salzburg,Wolfsburg,29,71,1
+Malmö,Benfica,36,64,3
+Zenit,Atlanta,19,81,1
+Club Brugge,Porto,73,27,2
+Shakhtar Donetsk,Malmö,92,8,1
+Sevilla,Porto,15,85,3
+Milan,Club Brugge,53,47,3
+Paris,Man. City,56,44,1
+Internazionale,Ajax,55,45,3
+Shakhtar Donetsk,Salzburg,64,36,1
+Young Boys,Juventus,64,36,1
+Salzburg,Malmö,78,22,2
+Malmö,Salzburg,25,75,3
+Wolfsburg,Sevilla,61,39,3
+LOSC,Milan,86,14,1
+Atletico,Sheriff,31,69,3
+Atletico,Dynamo,82,18,3
+Young Boys,Man. City,41,59,2
+Zenit,Sevilla,20,80,2
+Real Madrid,Club Brugge,10,90,2
+Zenit,Sheriff,30,70,2
+Malmö,Salzburg,15,85,3
+Dortmund,Dynamo,39,61,2
+Leipzig,Wolfsburg,74,26,3
+Young Boys,Paris,16,84,2
+Sporting CP,Juventus,14,86,2
+Sevilla,Leipzig,96,4,2
+Man. City,Sevilla,75,25,1
+Sevilla,Benfica,45,55,2
+Bayern,Wolfsburg,88,12,3
+Salzburg,Sporting CP,43,57,2
+Leipzig,Benfica,7,93,1
+Shakhtar Donetsk,Malmö,96,4,1
+LOSC,Barcelona,5,95,3
+Bayern,Paris,40,60,3
+Milan,Salzburg,91,9,2
+Sheriff,Shakhtar Donetsk,35,65,1
+Shakhtar Donetsk,Young Boys,21,79,2
+Sporting CP,Milan,80,20,2
+Atletico,Milan,1,99,2
+Leipzig,Atlanta,42,58,2
+Club Brugge,Sevilla,18,82,3
+Zenit,Shakhtar Donetsk,31,69,1
+Liverpool,Man. United,47,53,3
+LOSC,Liverpool,98,2,1
+Milan,Malmö,10,90,1
+Paris,Internazionale,54,46,1
+Porto,Sevilla,15,85,1
+Dortmund,Juventus,96,4,3
+Malmö,Porto,69,31,3
+Chelsea,Sevilla,68,32,3
+Villareal,Chelsea,30,70,3
+Sevilla,Sheriff,57,43,2
+Sheriff,Chelsea,28,72,3
+Paris,Atlanta,83,17,3
+Dynamo,Sevilla,90,10,3
+Internazionale,Porto,76,24,1
+Dynamo,Man. City,31,69,3
+Atletico,Malmö,83,17,1
+Atletico,Club Brugge,86,14,2
+Internazionale,Bayern,96,4,2
+Man. United,Villareal,50,50,1
+Barcelona,Paris,91,9,2
+Zenit,Porto,89,11,2
+Real Madrid,Barcelona,72,28,2
+LOSC,Dynamo,98,2,2
+Real Madrid,Barcelona,63,37,2
+Internazionale,Man. City,17,83,1
+Atletico,Liverpool,61,39,2
+Bayern,Wolfsburg,60,40,1
+Man. United,Dynamo,36,64,2
+Real Madrid,Zenit,27,73,1
+Sevilla,Porto,33,67,3
+Villareal,Young Boys,79,21,1
+Sheriff,Sevilla,66,34,2
+Paris,Club Brugge,70,30,1
+Benfica,Sporting CP,41,59,1
+Sheriff,Barcelona,57,43,2
+Porto,Shakhtar Donetsk,36,64,3
+Wolfsburg,Malmö,2,98,2
+LOSC,Chelsea,61,39,2
+Internazionale,Villareal,37,63,1
+Dynamo,Bayern,42,58,2
+Barcelona,Shakhtar Donetsk,3,97,2
+Sporting CP,Sevilla,57,43,3
+LOSC,Young Boys,18,82,3
+Shakhtar Donetsk,Barcelona,27,73,1
+Real Madrid,Sporting CP,79,21,1
+Sheriff,Zenit,38,62,1
+Atlanta,Leipzig,85,15,1
+Man. United,Benfica,4,96,3
+Dortmund,LOSC,42,58,3
+Porto,Sevilla,89,11,1
+Ajax,Club Brugge,47,53,1
+Paris,Zenit,14,86,2
+Zenit,Leipzig,9,91,1
+Salzburg,Leipzig,12,88,3
+Sevilla,Sporting CP,73,27,1
+Porto,Dortmund,14,86,3
+Benfica,Zenit,87,13,2
+Chelsea,Villareal,52,48,2
+Bensiktas,Shakhtar Donetsk,51,49,2
+Man. City,Sporting CP,15,85,3
+Bensiktas,Juventus,0,100,3
+Villareal,Milan,79,21,3
+Sevilla,Liverpool,63,37,2
+Zenit,Dortmund,0,100,3
+Sevilla,Dynamo,83,17,1
+Chelsea,Man. United,92,8,3
+Juventus,LOSC,7,93,2
+Leipzig,Sheriff,16,84,1
+Juventus,Porto,49,51,2
+Atlanta,Man. United,0,100,1
+Zenit,Wolfsburg,34,66,3
+Villareal,Dortmund,55,45,3
+Sevilla,Juventus,21,79,2
+Malmö,Liverpool,26,74,3
+Juventus,Zenit,19,81,3
+Paris,Ajax,96,4,1
+Wolfsburg,Real Madrid,64,36,1
+Dynamo,Malmö,19,81,2
+Malmö,Wolfsburg,55,45,1
+Dynamo,Barcelona,93,7,1
+Young Boys,Atletico,9,91,1
+Benfica,Milan,24,76,2
+Ajax,Sporting CP,46,54,1
+Salzburg,Chelsea,29,71,3
+Zenit,LOSC,19,81,3
+Club Brugge,Atletico,88,12,3
+Ajax,Young Boys,25,75,2
+Real Madrid,Young Boys,78,22,2
+Sheriff,Atletico,81,19,3
+Paris,Porto,69,31,1
+Salzburg,Internazionale,17,83,1
+Man. City,Sporting CP,36,64,1
+Man. United,Sevilla,58,42,3
+Juventus,Sevilla,28,72,1
+Barcelona,Ajax,42,58,1
+Malmö,Man. United,38,62,1
+Ajax,Benfica,4,96,2
+Atletico,Juventus,21,79,1
+Bayern,Atlanta,72,28,3
+LOSC,Liverpool,65,35,2
+Liverpool,Real Madrid,31,69,2
+Paris,Leipzig,33,67,3
+Juventus,Benfica,89,11,1
+Villareal,Man. United,63,37,1
+Leipzig,Barcelona,9,91,1
+Barcelona,Ajax,80,20,2
+Dynamo,Shakhtar Donetsk,96,4,3
+Sheriff,Bayern,95,5,2
+Shakhtar Donetsk,Real Madrid,12,88,1
+Bayern,Sporting CP,21,79,2
+Zenit,Dortmund,79,21,1
+Wolfsburg,Paris,2,98,3
+Benfica,Club Brugge,14,86,3
+Shakhtar Donetsk,Villareal,74,26,1
+Atlanta,Man. City,2,98,3
+Club Brugge,Dortmund,22,78,1
+Salzburg,Paris,38,62,3
+Villareal,Club Brugge,32,68,2
+Atlanta,Bensiktas,81,19,1
+Dortmund,Barcelona,56,44,3
+Atletico,Internazionale,28,72,2
+Dortmund,Chelsea,55,45,1
+Club Brugge,Ajax,28,72,1
+Bayern,Man. City,77,23,2
+Bensiktas,Sevilla,45,55,3
+Man. United,Dortmund,60,40,1
+Sheriff,Leipzig,45,55,3
+Ajax,Sevilla,63,37,3
+Leipzig,Porto,0,100,2
+Sheriff,Milan,41,59,2
+Shakhtar Donetsk,Liverpool,72,28,1
+Shakhtar Donetsk,Bayern,84,16,1
+Salzburg,Young Boys,17,83,2
+Chelsea,Bayern,84,16,2
+Villareal,Sevilla,83,17,2
+Shakhtar Donetsk,Liverpool,47,53,1
+Porto,Man. United,4,96,1
+Man. United,Zenit,80,20,3
+Juventus,Benfica,66,34,3
+Juventus,Atletico,30,70,3
+Liverpool,Paris,58,42,2
+Ajax,Juventus,98,2,3
+Ajax,Barcelona,52,48,2
+Liverpool,Atlanta,99,1,3
+Atletico,Malmö,46,54,1
+Man. City,Paris,59,41,1
+Malmö,Barcelona,47,53,2
+Shakhtar Donetsk,Atletico,36,64,3
+Bensiktas,Club Brugge,75,25,3
+Zenit,Salzburg,69,31,3
+Sevilla,Dortmund,86,14,2
+Villareal,Real Madrid,77,23,3
+Man. United,Real Madrid,31,69,3
+Paris,Liverpool,28,72,1
+Sporting CP,Club Brugge,30,70,2
+Real Madrid,Bensiktas,16,84,2
+LOSC,Leipzig,1,99,1
+Milan,Wolfsburg,22,78,2
+Shakhtar Donetsk,Man. City,25,75,1
+LOSC,Milan,50,50,1
+Malmö,Benfica,27,73,1
+Milan,Sevilla,92,8,1
+Sporting CP,Milan,92,8,2
+Man. United,Real Madrid,63,37,1
+Internazionale,Atlanta,85,15,3
+Leipzig,Liverpool,87,13,2
+Club Brugge,Bensiktas,66,34,3
+Milan,Zenit,76,24,2
+Atlanta,Sevilla,46,54,3
+Club Brugge,Juventus,80,20,1
+Juventus,Shakhtar Donetsk,32,68,3
+Club Brugge,Villareal,86,14,2
+Wolfsburg,Young Boys,29,71,1
+LOSC,Salzburg,84,16,3
+Internazionale,Porto,23,77,1
+Young Boys,Man. City,22,78,3
+Young Boys,Chelsea,66,34,1
+Young Boys,Paris,18,82,3
+Dynamo,Man. City,77,23,3
+Ajax,Bayern,20,80,2
+Club Brugge,Paris,38,62,3
+Salzburg,Porto,49,51,1
+Porto,Zenit,2,98,2
+Paris,Villareal,11,89,3
+Atletico,Paris,33,67,3
+Milan,LOSC,41,59,2
+Barcelona,Zenit,94,6,2
+Dortmund,Villareal,3,97,3
+Leipzig,Zenit,6,94,2
+Young Boys,Barcelona,18,82,1
+Man. City,Sheriff,19,81,3
+Sevilla,Dortmund,18,82,2
+Barcelona,Leipzig,41,59,3
+Juventus,Dynamo,40,60,3
+Real Madrid,Benfica,97,3,3
+Salzburg,Atlanta,32,68,3
+Villareal,Dortmund,66,34,1
+Juventus,Sevilla,95,5,3
+LOSC,Wolfsburg,60,40,3
+Sporting CP,Atletico,82,18,2
+Young Boys,Zenit,3,97,3
+Dortmund,Bayern,11,89,2
+Barcelona,Zenit,22,78,2
+Man. United,Real Madrid,89,11,1
+Chelsea,Salzburg,73,27,2
+Sheriff,Atlanta,33,67,1
+Milan,Real Madrid,9,91,2
+Benfica,Real Madrid,80,20,2
+Sevilla,LOSC,34,66,2
+Young Boys,Benfica,55,45,2
+Malmö,Barcelona,90,10,3
+Man. United,Wolfsburg,32,68,3
+Internazionale,Sevilla,52,48,1
+Sheriff,Juventus,55,45,2
+Ajax,Barcelona,88,12,2
+Club Brugge,Atlanta,15,85,1
+Wolfsburg,Leipzig,13,87,1
+Sevilla,Chelsea,73,27,3
+Bayern,Leipzig,63,37,1
+Real Madrid,Sheriff,62,38,1
+Internazionale,Ajax,5,95,2
+Villareal,Man. City,47,53,3
+Salzburg,Chelsea,14,86,2
+Internazionale,Villareal,69,31,3
+Young Boys,Bayern,33,67,2
+Bayern,Man. United,34,66,1
+Benfica,Chelsea,12,88,3
+Barcelona,Liverpool,34,66,3
+Bensiktas,Salzburg,68,32,2
+Man. City,Dynamo,69,31,2
+Real Madrid,Man. City,76,24,1
+Atlanta,Villareal,15,85,1
+Bensiktas,Benfica,33,67,1
+Shakhtar Donetsk,Salzburg,21,79,1
+Man. City,Milan,82,18,3
+Porto,Leipzig,25,75,3
+Sporting CP,Sevilla,3,97,2
+Bensiktas,Liverpool,80,20,2
+Dynamo,Internazionale,23,77,1
+Man. United,Salzburg,38,62,3
+Man. United,Benfica,30,70,1
+Shakhtar Donetsk,Juventus,94,6,1
+Villareal,Dynamo,15,85,2
+Club Brugge,Benfica,12,88,2
+Sheriff,Dortmund,65,35,2
+Man. United,Dynamo,13,87,3
+Villareal,Leipzig,76,24,1
+Dortmund,Bensiktas,10,90,2
+Man. United,Wolfsburg,58,42,3
+Dortmund,Club Brugge,91,9,2
+Atlanta,Dynamo,60,40,2
+Zenit,Malmö,17,83,1
+Zenit,Real Madrid,8,92,1
+Dortmund,Liverpool,86,14,3
+Real Madrid,Sporting CP,61,39,1
+Man. City,Atletico,44,56,2
+Man. City,Paris,40,60,2
+Dynamo,Malmö,46,54,1
+Ajax,Dynamo,13,87,1
+Man. United,Barcelona,86,14,3
+Shakhtar Donetsk,Internazionale,37,63,3
+Wolfsburg,Salzburg,80,20,3
+Chelsea,Milan,50,50,3
+Bayern,Club Brugge,45,55,1
+Villareal,Young Boys,25,75,3
+Internazionale,Barcelona,50,50,2
+Chelsea,Real Madrid,7,93,3
+Dynamo,Salzburg,35,65,2
+Villareal,Ajax,46,54,2
+Salzburg,Leipzig,26,74,3
+Wolfsburg,Salzburg,69,31,2
+Chelsea,LOSC,45,55,2
+Man. City,Leipzig,8,92,1
+Young Boys,Barcelona,37,63,2
+Juventus,Leipzig,42,58,2
+Sevilla,Bayern,64,36,3
+Atletico,Malmö,100,0,1
+Porto,Club Brugge,20,80,1
+Liverpool,Man. City,47,53,1
+Dortmund,Barcelona,39,61,1
+Club Brugge,Dortmund,93,7,2
+Malmö,Atletico,8,92,2
+LOSC,Juventus,81,19,1
+Benfica,Salzburg,83,17,2
+Ajax,Sporting CP,9,91,2
+Dynamo,LOSC,65,35,3
+Sporting CP,Barcelona,61,39,3
+Man. City,Chelsea,14,86,1
+Porto,Paris,97,3,2
+Atletico,Bayern,4,96,2
+Zenit,Atlanta,13,87,3
+Sheriff,Bayern,12,88,3
+Benfica,Barcelona,9,91,3
+Villareal,Paris,92,8,2
+Internazionale,Zenit,20,80,3
+Malmö,Villareal,77,23,3
+Chelsea,Man. City,25,75,1
+LOSC,Internazionale,4,96,2
+Salzburg,Dynamo,57,43,2
+Malmö,Juventus,86,14,1
+Barcelona,Paris,64,36,3
+LOSC,Liverpool,0,100,1
+Young Boys,Malmö,4,96,1
+Man. United,Milan,64,36,2
+Villareal,Salzburg,32,68,1
+Atlanta,Milan,73,27,2
+Young Boys,Wolfsburg,52,48,3
+Ajax,Sevilla,89,11,1
+Wolfsburg,Internazionale,74,26,2
+Porto,Sheriff,84,16,2
+Paris,Leipzig,49,51,1
+Barcelona,Young Boys,85,15,2
+Benfica,Sheriff,97,3,3
+Dortmund,Zenit,67,33,3
+Salzburg,Club Brugge,20,80,3
+Man. City,Leipzig,95,5,1
+Malmö,Ajax,41,59,2
+Benfica,Sporting CP,88,12,2
+Chelsea,Man. City,49,51,2
+Atlanta,Benfica,73,27,2
+Paris,Liverpool,51,49,1
+Atlanta,Milan,73,27,3
+Internazionale,Porto,62,38,3
+Paris,Atletico,70,30,1
+Man. United,Liverpool,94,6,2
+Internazionale,Benfica,58,42,1
+Atletico,Shakhtar Donetsk,85,15,2
+Club Brugge,Young Boys,50,50,1
+Zenit,Real Madrid,14,86,1
+Club Brugge,Atlanta,40,60,1
+Leipzig,Ajax,3,97,1
+Juventus,Liverpool,82,18,2
+Bensiktas,Zenit,19,81,1
+Internazionale,Bensiktas,41,59,3
+Wolfsburg,Malmö,6,94,1
+Benfica,Malmö,20,80,1
+LOSC,Liverpool,46,54,3
+Shakhtar Donetsk,Real Madrid,80,20,3
+Shakhtar Donetsk,Atlanta,16,84,1
+Young Boys,Dortmund,51,49,2
+Sevilla,Zenit,9,91,1
+Malmö,Wolfsburg,66,34,3
+Internazionale,LOSC,31,69,3
+Dortmund,Milan,23,77,2
+Real Madrid,Shakhtar Donetsk,7,93,1
+Real Madrid,Juventus,59,41,2
+Dortmund,Leipzig,50,50,3
+Bayern,Dynamo,48,52,2
+Sheriff,Villareal,90,10,2
+Paris,Wolfsburg,40,60,1
+Paris,Ajax,46,54,3
+Leipzig,Benfica,67,33,1
+Juventus,Man. United,41,59,2
+Milan,Sevilla,42,58,2
+Man. City,Dynamo,85,15,1
+Atletico,Milan,15,85,3
+LOSC,Atlanta,38,62,2
+Benfica,Real Madrid,70,30,3
+Villareal,Internazionale,58,42,1
+Dortmund,Bensiktas,99,1,1
+Benfica,Liverpool,37,63,1
+Paris,Atletico,58,42,3
+Barcelona,Wolfsburg,26,74,1
+Sporting CP,Man. City,80,20,1
+Porto,Dortmund,97,3,1
+Porto,Zenit,18,82,1
+Bensiktas,LOSC,27,73,3
+Atlanta,Man. United,66,34,3
+Bensiktas,Malmö,14,86,1
+Internazionale,Man. City,7,93,2
+Atlanta,Leipzig,23,77,1
+Real Madrid,Zenit,56,44,1
+Villareal,Chelsea,31,69,1
+Villareal,Man. United,70,30,3
+Bayern,Juventus,0,100,1
+Villareal,Man. City,20,80,3
+Porto,LOSC,26,74,3
+Bayern,Salzburg,11,89,3
+Sheriff,Wolfsburg,78,22,3
+Ajax,Sheriff,0,100,2
+Atlanta,Chelsea,34,66,3
+Leipzig,Milan,78,22,3
+Liverpool,Bayern,35,65,2
+Sevilla,Villareal,25,75,2
+Villareal,Juventus,2,98,2
+Ajax,Bensiktas,4,96,3
+Dynamo,Real Madrid,39,61,2
+LOSC,Man. United,10,90,1
+Paris,Club Brugge,96,4,2
+Liverpool,Young Boys,15,85,3
+Ajax,Man. City,69,31,1
+Sporting CP,LOSC,47,53,3
+Sevilla,Ajax,81,19,2
+Shakhtar Donetsk,Dynamo,78,22,2
+Sheriff,Sporting CP,81,19,2
+Man. City,Barcelona,80,20,1
+Milan,Leipzig,82,18,1
+Villareal,Sheriff,56,44,1
+Dortmund,Internazionale,22,78,1
+Dynamo,LOSC,42,58,2
+Barcelona,Bensiktas,77,23,1
+Sporting CP,Porto,5,95,2
+Man. City,Chelsea,0,100,1
+Club Brugge,Paris,87,13,2
+Paris,Internazionale,52,48,3
+Man. City,Atlanta,9,91,1
+Bayern,Zenit,100,0,3
+Wolfsburg,Atletico,71,29,1
+Barcelona,Wolfsburg,17,83,1
+Benfica,Chelsea,56,44,3
+Barcelona,Bayern,55,45,2
+Juventus,Young Boys,100,0,1
+Juventus,Leipzig,29,71,2
+Salzburg,Atlanta,41,59,1
+Salzburg,Barcelona,92,8,3
+Man. City,Chelsea,87,13,3
+Wolfsburg,Sevilla,24,76,1
+Dynamo,Sevilla,72,28,2
+Sevilla,Villareal,42,58,2
+Benfica,Shakhtar Donetsk,45,55,3
+Chelsea,Atletico,79,21,1
+Paris,Malmö,67,33,3
+Shakhtar Donetsk,Young Boys,7,93,3
+Internazionale,Sevilla,80,20,3
+Benfica,Shakhtar Donetsk,20,80,2
+Zenit,Juventus,85,15,1
+Internazionale,Atlanta,89,11,1
+Club Brugge,Salzburg,1,99,2
+Man. City,Milan,74,26,2
+Sporting CP,Bensiktas,40,60,1
+Paris,Shakhtar Donetsk,24,76,1
+Barcelona,Bensiktas,5,95,2
+Atlanta,Dynamo,53,47,3
+Chelsea,Real Madrid,96,4,2
+Dynamo,Porto,90,10,2
+Ajax,Internazionale,20,80,3
+Man. City,Club Brugge,31,69,2
+Atlanta,Paris,52,48,2
+Atlanta,Ajax,8,92,1
+Porto,Shakhtar Donetsk,4,96,3
+Dynamo,Barcelona,2,98,2
+Salzburg,Sporting CP,66,34,1
+Benfica,Dortmund,98,2,3
+Club Brugge,Juventus,99,1,3
+LOSC,Benfica,58,42,3
+Barcelona,Bensiktas,92,8,2
+Milan,Zenit,37,63,1
+LOSC,Man. City,80,20,2
+Atletico,Zenit,92,8,3
+Villareal,Young Boys,16,84,1
+Chelsea,Barcelona,14,86,1
+Leipzig,Malmö,54,46,3
+Porto,Zenit,6,94,3
+Bensiktas,Internazionale,17,83,3
+Dortmund,Chelsea,88,12,1
+Liverpool,Shakhtar Donetsk,35,65,2
+Salzburg,Milan,26,74,3
+Bensiktas,Internazionale,13,87,2
+Paris,Real Madrid,41,59,1
+Real Madrid,Chelsea,59,41,3
+Dortmund,Sporting CP,36,64,1
+Atletico,Young Boys,43,57,2
+Dortmund,Atlanta,76,24,1
+Chelsea,Benfica,100,0,1
+Zenit,Wolfsburg,63,37,3
+Internazionale,Benfica,55,45,3
+Man. City,Young Boys,15,85,2
+Leipzig,Zenit,19,81,3
+Barcelona,Young Boys,39,61,1
+Ajax,LOSC,61,39,1
+Chelsea,Liverpool,46,54,1
+Juventus,Benfica,34,66,3
+Porto,Wolfsburg,40,60,2
+Real Madrid,Ajax,36,64,3
+Internazionale,Sevilla,56,44,1
+Malmö,Juventus,1,99,3
+Club Brugge,Shakhtar Donetsk,73,27,3
+Ajax,Sporting CP,78,22,2
+Salzburg,Sporting CP,96,4,1
+Barcelona,Paris,58,42,2
+Zenit,Dortmund,45,55,1
+Sporting CP,Malmö,3,97,1
+Man. City,Benfica,53,47,3
+Man. City,Liverpool,49,51,1
+Malmö,Chelsea,44,56,3
+Internazionale,Dynamo,38,62,2
+Sheriff,Atlanta,40,60,3
+Club Brugge,Shakhtar Donetsk,0,100,2
+Benfica,Milan,74,26,2
+Young Boys,Atlanta,87,13,2
+Liverpool,Malmö,46,54,2
+Atlanta,LOSC,74,26,1
+Chelsea,Wolfsburg,86,14,3
+Porto,Young Boys,30,70,1
+Sheriff,Leipzig,16,84,2
+Shakhtar Donetsk,Bayern,44,56,1
+Sevilla,Ajax,0,100,3
+Sporting CP,LOSC,42,58,3
+Real Madrid,Leipzig,11,89,2
+Dynamo,Juventus,50,50,3
+Paris,Atletico,58,42,3
+Real Madrid,Ajax,0,100,2
+Bayern,Sporting CP,66,34,2
+Ajax,Bensiktas,63,37,2
+Atletico,Ajax,48,52,2
+Juventus,Liverpool,82,18,1
+LOSC,Internazionale,43,57,2
+Zenit,Barcelona,62,38,3
+Dortmund,Bayern,93,7,3
+Club Brugge,Leipzig,47,53,3
+Sheriff,Bayern,19,81,2
+Man. United,Internazionale,19,81,2
+Benfica,Sevilla,60,40,2
+Real Madrid,Bensiktas,66,34,2
+Porto,Sporting CP,48,52,1
+Dynamo,Man. City,60,40,1
+Dortmund,Internazionale,6,94,3
+Porto,Paris,49,51,2
+Man. City,Malmö,78,22,3
+Salzburg,Benfica,79,21,3
+Wolfsburg,Zenit,86,14,2
+Villareal,Man. United,59,41,3
+Atletico,Sheriff,93,7,1
+Benfica,Milan,41,59,3
+Leipzig,LOSC,39,61,3
+Club Brugge,Salzburg,75,25,3
+Wolfsburg,Club Brugge,23,77,1
+Villareal,Liverpool,30,70,1
+Man. United,Man. City,39,61,1
+Sheriff,Dynamo,13,87,3
+Chelsea,Barcelona,74,26,2
+Internazionale,Bensiktas,40,60,3
+Bensiktas,Benfica,66,34,1
+Benfica,Chelsea,32,68,3
+Sevilla,Man. City,89,11,2
+Paris,Villareal,53,47,3
+Man. United,Atletico,90,10,2
+Sheriff,Bensiktas,3,97,2
+Real Madrid,Sporting CP,46,54,1
+Porto,Ajax,4,96,1
+Wolfsburg,Dynamo,29,71,1
+Bensiktas,Club Brugge,68,32,2
+Wolfsburg,Juventus,64,36,1
+Zenit,Club Brugge,67,33,1
+Club Brugge,Benfica,12,88,3
+Paris,Bayern,26,74,2
+Porto,Atletico,65,35,1
+Paris,Man. City,43,57,2
+Zenit,Liverpool,18,82,1
+Shakhtar Donetsk,Bayern,75,25,3
+Ajax,Man. United,80,20,3
+Benfica,Atlanta,72,28,2
+Sporting CP,Bensiktas,48,52,3
+Zenit,Young Boys,24,76,3
+Atlanta,Dynamo,64,36,3
+Leipzig,Sporting CP,86,14,2
+Dynamo,Leipzig,32,68,1
+Sporting CP,Shakhtar Donetsk,39,61,3
+Atlanta,Milan,78,22,2
+Sheriff,Sporting CP,11,89,2
+Atlanta,Sheriff,99,1,1
+Man. City,Sevilla,31,69,2
+Ajax,Villareal,31,69,2
+Villareal,Bayern,79,21,1
+Villareal,Ajax,26,74,2
+Malmö,Man. United,30,70,1
+Leipzig,Young Boys,14,86,2
+Young Boys,Villareal,70,30,3
+Wolfsburg,Salzburg,42,58,1
+Man. City,Paris,96,4,2
+Wolfsburg,Sheriff,13,87,3
+Dortmund,Malmö,50,50,3
+Malmö,Zenit,69,31,2
+Wolfsburg,Atlanta,70,30,3
+Man. City,Wolfsburg,37,63,1
+Benfica,Villareal,37,63,3
+Internazionale,Atlanta,18,82,2
+Dynamo,Bayern,11,89,1
+Sporting CP,Real Madrid,42,58,1
+Salzburg,Zenit,54,46,3
+Atletico,Ajax,47,53,1
+Porto,Barcelona,32,68,3
+Villareal,Man. City,83,17,3
+Sheriff,Dynamo,34,66,1
+Leipzig,Villareal,71,29,3
+Salzburg,Bensiktas,64,36,3
+Sevilla,Man. City,29,71,1
+Sheriff,Real Madrid,13,87,2
+Barcelona,Liverpool,17,83,2
+Sevilla,Atletico,47,53,2
+LOSC,Man. City,87,13,1
+Club Brugge,Bayern,57,43,3
+Atletico,Porto,65,35,1
+Liverpool,Malmö,11,89,2
+Barcelona,Sevilla,14,86,3
+Man. City,Sheriff,74,26,1
+LOSC,Dortmund,81,19,3
+Barcelona,Real Madrid,57,43,3
+Dortmund,Chelsea,54,46,3
+Liverpool,Young Boys,59,41,2
+Leipzig,Man. United,45,55,3
+Atletico,Leipzig,51,49,3
+Ajax,Milan,27,73,1
+Porto,Dynamo,32,68,1
+Man. City,Sheriff,4,96,2
+Atletico,Shakhtar Donetsk,93,7,2
+LOSC,Malmö,56,44,2
+Man. City,Barcelona,54,46,1
+Benfica,Atlanta,94,6,2
+Chelsea,Leipzig,7,93,1
+Atletico,Shakhtar Donetsk,90,10,3
+LOSC,Atlanta,64,36,3
+Chelsea,Bensiktas,48,52,3
+Sheriff,Bayern,54,46,2
+Salzburg,Milan,5,95,2
+Salzburg,Wolfsburg,92,8,3
+Leipzig,Ajax,44,56,2
+Juventus,Sheriff,2,98,3
+Sheriff,Dortmund,22,78,2
+Dynamo,Young Boys,67,33,2
+Porto,Atlanta,82,18,1
+Zenit,Villareal,24,76,2
+Dynamo,Shakhtar Donetsk,56,44,3
+Malmö,Sheriff,56,44,1
+Milan,Shakhtar Donetsk,44,56,1
+Atlanta,Shakhtar Donetsk,25,75,3
+Benfica,Barcelona,24,76,3
+Zenit,Barcelona,93,7,1
+Liverpool,Bensiktas,21,79,2
+Porto,Liverpool,38,62,1
+Barcelona,Sporting CP,38,62,3
+Chelsea,Zenit,28,72,3
+Zenit,Atletico,85,15,2
+Zenit,Chelsea,93,7,3
+Leipzig,Internazionale,18,82,1
+Real Madrid,Villareal,1,99,3
+Porto,Atletico,84,16,1
+Ajax,Sevilla,81,19,3
+Bensiktas,Salzburg,28,72,2
+Sporting CP,Sheriff,61,39,2
+Milan,Porto,94,6,3
+Club Brugge,Atletico,97,3,3
+Benfica,Dortmund,93,7,1
+Internazionale,Porto,40,60,3
+Shakhtar Donetsk,Real Madrid,2,98,3
+Juventus,Sheriff,15,85,2
+Sporting CP,Liverpool,28,72,3
+Chelsea,Sheriff,59,41,1
+Dortmund,Villareal,100,0,3
+Atlanta,Club Brugge,28,72,2
+Internazionale,Sheriff,45,55,2
+Salzburg,Paris,38,62,2
+Villareal,Salzburg,82,18,3
+Real Madrid,Leipzig,0,100,1
+Malmö,Sheriff,35,65,1
+Bensiktas,Sporting CP,80,20,3
+Bayern,Sevilla,90,10,1
+Internazionale,Barcelona,16,84,2
+Dynamo,Sevilla,10,90,2
+Ajax,Man. City,36,64,2
+Juventus,Atletico,66,34,1
+Villareal,Liverpool,49,51,3
+Benfica,Paris,62,38,2
+Club Brugge,Salzburg,69,31,3
+Young Boys,Barcelona,37,63,1
+Atlanta,Atletico,94,6,2
+Real Madrid,Man. United,75,25,2
+Sheriff,Chelsea,44,56,3
+Sevilla,Benfica,21,79,3
+Internazionale,Sporting CP,45,55,1
+Bensiktas,Bayern,53,47,2
+Chelsea,Man. City,35,65,2
+Sheriff,LOSC,13,87,3
+Milan,Salzburg,33,67,1
+Bayern,LOSC,11,89,2
+Club Brugge,Ajax,79,21,1
+Atletico,Wolfsburg,38,62,3
+Chelsea,Ajax,3,97,3
+Porto,Barcelona,4,96,3
+Dortmund,Benfica,19,81,2
+Atlanta,Leipzig,84,16,1
+Sheriff,Porto,43,57,3
+Milan,Club Brugge,78,22,3
+Liverpool,Club Brugge,27,73,3
+Paris,LOSC,60,40,3
+Wolfsburg,Real Madrid,99,1,3
+LOSC,Atlanta,61,39,2
+Juventus,Real Madrid,88,12,1
+Ajax,Atletico,19,81,2
+Dortmund,Dynamo,11,89,3
+Porto,Wolfsburg,76,24,1
+Juventus,Club Brugge,81,19,2
+Bayern,Barcelona,86,14,1
+Club Brugge,Dortmund,16,84,2
+Man. City,Bayern,22,78,1
+Atletico,Liverpool,34,66,3
+Leipzig,Malmö,72,28,2
+Leipzig,Bayern,22,78,2
+Man. City,Paris,4,96,3
+Real Madrid,Milan,56,44,2
+Club Brugge,Paris,60,40,2
+Salzburg,Young Boys,76,24,1
+LOSC,Porto,92,8,2
+Salzburg,Wolfsburg,69,31,1
+Zenit,Ajax,83,17,1
+Zenit,Real Madrid,45,55,1
+Atlanta,Real Madrid,33,67,3
+Chelsea,Milan,84,16,2
+Atlanta,Villareal,22,78,3
+Sheriff,Chelsea,49,51,3
+Ajax,Atlanta,46,54,2
+Man. United,Man. City,11,89,2
+Dortmund,Paris,94,6,1
+Milan,Sheriff,39,61,3
+Juventus,Salzburg,13,87,3
+Villareal,Leipzig,46,54,3
+Milan,Man. City,85,15,1
+Sporting CP,Dynamo,28,72,3
+Leipzig,Milan,87,13,2
+Zenit,Dynamo,66,34,3
+Zenit,Villareal,23,77,2
+Paris,Bayern,63,37,2
+Club Brugge,Shakhtar Donetsk,97,3,1
+Sporting CP,Bensiktas,96,4,1
+Man. City,Young Boys,26,74,2
+Dynamo,Shakhtar Donetsk,19,81,3
+Man. City,Benfica,59,41,3
+Barcelona,Milan,13,87,1
+Wolfsburg,Ajax,27,73,2
+Juventus,Villareal,96,4,2
+Shakhtar Donetsk,Atletico,58,42,2
+Club Brugge,Sheriff,22,78,3
+Young Boys,Bayern,19,81,1
+Porto,Liverpool,9,91,1
+Paris,Barcelona,25,75,1
+Milan,Sevilla,73,27,1
+Sheriff,Bensiktas,11,89,2
+Man. United,Sheriff,4,96,1
+LOSC,Man. United,75,25,3
+Zenit,Sheriff,16,84,3
+Liverpool,Bensiktas,66,34,1
+Bensiktas,Porto,3,97,3
+Young Boys,Porto,78,22,1
+Real Madrid,Shakhtar Donetsk,93,7,1
+Atletico,Man. United,77,23,2
+Dynamo,Milan,20,80,2
+Zenit,Dynamo,13,87,3
+Bensiktas,Atletico,32,68,3
+Atlanta,Bensiktas,51,49,2
+Milan,LOSC,46,54,3
+Chelsea,Liverpool,11,89,2
+Wolfsburg,Ajax,87,13,3
+Shakhtar Donetsk,Internazionale,58,42,2
+Shakhtar Donetsk,Liverpool,41,59,2
+Porto,Chelsea,35,65,3
+Salzburg,Villareal,97,3,3
+Bayern,Zenit,40,60,3
+Milan,Shakhtar Donetsk,64,36,1
+Bensiktas,Paris,85,15,3
+Paris,Wolfsburg,21,79,3
+Atlanta,LOSC,88,12,1
+LOSC,Sevilla,85,15,1
+Dortmund,Villareal,11,89,3
+Leipzig,Wolfsburg,46,54,1
+Malmö,Ajax,50,50,1
+Man. United,Real Madrid,34,66,1
+LOSC,Sheriff,87,13,1
+Club Brugge,Villareal,86,14,3
+Sporting CP,Real Madrid,51,49,2
+Club Brugge,Villareal,74,26,2
+Juventus,Benfica,58,42,1
+Leipzig,Milan,33,67,2
+Liverpool,Man. United,77,23,2
+Sheriff,Barcelona,81,19,2
+Bayern,Porto,53,47,3
+Shakhtar Donetsk,Bayern,18,82,1
+Atlanta,Villareal,83,17,2
+Dortmund,Sevilla,94,6,1
+Ajax,Club Brugge,41,59,3
+Benfica,Milan,59,41,1
+Man. City,Man. United,91,9,3
+Zenit,Shakhtar Donetsk,20,80,1
+Young Boys,Malmö,95,5,2
+Man. United,Juventus,100,0,3
+Dortmund,Bensiktas,100,0,2
+Ajax,Young Boys,37,63,3
+Zenit,Sporting CP,11,89,2
+Juventus,Wolfsburg,89,11,3
+Man. United,Club Brugge,84,16,3
+Man. City,Salzburg,86,14,2
+LOSC,Atletico,60,40,1
+Club Brugge,Malmö,75,25,1
+Ajax,Sevilla,88,12,1
+Atlanta,Man. City,7,93,1
+Liverpool,Man. United,82,18,1
+Villareal,Wolfsburg,76,24,2
+Zenit,Dynamo,37,63,3
+Milan,Zenit,82,18,2
+Young Boys,Sevilla,18,82,3
+Zenit,Barcelona,45,55,2
+Ajax,Benfica,84,16,2
+Zenit,Sporting CP,24,76,1
+Atletico,Club Brugge,31,69,3
+Internazionale,Man. United,0,100,3
+Club Brugge,Zenit,13,87,2
+Atlanta,Ajax,20,80,1
+Chelsea,Barcelona,53,47,2
+Porto,Bensiktas,14,86,3
+Sevilla,Porto,39,61,2
+Dynamo,Club Brugge,12,88,3
+Villareal,Dynamo,79,21,3
+Young Boys,Zenit,36,64,1
+Sporting CP,Internazionale,70,30,1
+Chelsea,Bayern,45,55,3
+Leipzig,Zenit,2,98,3
+Barcelona,Villareal,77,23,1
+Dynamo,Real Madrid,51,49,1
+Sevilla,Shakhtar Donetsk,2,98,3
+Club Brugge,Man. United,53,47,3
+Young Boys,Dortmund,24,76,3
+Young Boys,Zenit,48,52,2
+LOSC,Shakhtar Donetsk,61,39,2
+Real Madrid,Liverpool,11,89,1
+Dynamo,Leipzig,20,80,3
+Juventus,Atlanta,66,34,1
+Wolfsburg,Man. City,11,89,3
+Young Boys,Man. City,73,27,1
+Liverpool,Bensiktas,69,31,3
+Man. City,LOSC,54,46,2
+Man. United,Liverpool,31,69,2
+Milan,Atletico,65,35,3
+Young Boys,Porto,51,49,2
+Man. United,Porto,54,46,2
+Shakhtar Donetsk,Benfica,46,54,1
+Salzburg,Chelsea,88,12,1
+Leipzig,Atlanta,73,27,3
+Paris,Liverpool,56,44,3
+Villareal,Salzburg,95,5,1
+Man. City,Benfica,74,26,3
+Juventus,Salzburg,14,86,3
+Chelsea,Villareal,18,82,2
+Chelsea,Villareal,79,21,3
+Salzburg,Villareal,63,37,2
+Sheriff,Salzburg,99,1,3
+Porto,Malmö,56,44,1
+Bayern,Sporting CP,68,32,3
+Chelsea,Liverpool,12,88,3
+Club Brugge,Man. City,47,53,3
+Real Madrid,Villareal,90,10,2
+Club Brugge,Milan,2,98,2
+Internazionale,Young Boys,77,23,1
+Barcelona,Benfica,77,23,1
+Sevilla,Barcelona,74,26,3
+Atlanta,Milan,70,30,2
+Atletico,Wolfsburg,68,32,1
+Man. City,Wolfsburg,27,73,2
+Zenit,Benfica,77,23,2
+Internazionale,Bayern,99,1,2
+Bensiktas,Villareal,64,36,1
+Dortmund,Internazionale,35,65,2
+Wolfsburg,Dynamo,15,85,3
+Juventus,Porto,35,65,1
+Club Brugge,Barcelona,67,33,2
+Wolfsburg,Benfica,82,18,1
+Paris,Real Madrid,93,7,2
+Villareal,Man. United,86,14,2
+Salzburg,LOSC,8,92,2
+Milan,Liverpool,29,71,1
+Man. City,Malmö,49,51,2
+Atlanta,Benfica,71,29,3
+Shakhtar Donetsk,Juventus,23,77,3
+Milan,Paris,99,1,2
+Man. United,Dortmund,41,59,3
+Real Madrid,Liverpool,44,56,2
+Salzburg,Club Brugge,8,92,1
+Man. United,Dynamo,99,1,1
+Real Madrid,Malmö,64,36,1
+Malmö,Liverpool,92,8,3
+Juventus,Leipzig,47,53,3
+Shakhtar Donetsk,Sheriff,14,86,1
+Young Boys,Club Brugge,39,61,1
+Dynamo,Leipzig,72,28,3
+Milan,Shakhtar Donetsk,38,62,1
+Milan,Dynamo,89,11,3
+Man. City,Club Brugge,51,49,2
+Man. City,Real Madrid,10,90,3
+Atlanta,Wolfsburg,50,50,2
+Porto,Young Boys,22,78,1
+Zenit,Ajax,99,1,3
+Dortmund,Man. United,82,18,1
+Ajax,Sporting CP,72,28,1
+Leipzig,Benfica,19,81,2
+Bayern,Zenit,52,48,3
+Internazionale,Sevilla,90,10,3
+Man. United,Bensiktas,56,44,3
+Malmö,Bensiktas,57,43,3
+Atlanta,Ajax,88,12,3
+Wolfsburg,Bensiktas,18,82,3
+Porto,Man. United,18,82,2
+Atlanta,Internazionale,3,97,2
+Real Madrid,Man. United,62,38,2
+Dortmund,Paris,2,98,3
+Juventus,Real Madrid,9,91,3
+Club Brugge,Man. United,28,72,3
+Man. City,Ajax,63,37,2
+Shakhtar Donetsk,Benfica,91,9,2
+Man. United,Bensiktas,94,6,2
+Milan,Malmö,38,62,2
+Chelsea,Leipzig,67,33,1
+Villareal,Bensiktas,18,82,3
+Leipzig,Malmö,36,64,3
+Milan,Real Madrid,25,75,1
+Wolfsburg,Man. United,38,62,2
+Dynamo,Bensiktas,59,41,3
+Wolfsburg,Liverpool,85,15,3
+Club Brugge,Real Madrid,50,50,3
+Internazionale,Real Madrid,16,84,3
+Salzburg,Man. City,85,15,2
+Salzburg,Bensiktas,95,5,2
+Bayern,Liverpool,34,66,3
+Wolfsburg,Zenit,52,48,2
+Atletico,Juventus,34,66,3
+Leipzig,Paris,19,81,3
+Chelsea,Juventus,4,96,3
+Juventus,Sheriff,72,28,3
+LOSC,Salzburg,24,76,2
+Barcelona,Dortmund,22,78,3
+Bayern,Bensiktas,75,25,2
+Bayern,Atletico,61,39,2
+Ajax,Porto,3,97,2
+LOSC,Dortmund,72,28,1
+Dynamo,Club Brugge,96,4,1
+Benfica,Internazionale,24,76,1
+Chelsea,Atlanta,96,4,3
+Liverpool,Internazionale,26,74,1
+Paris,Atlanta,48,52,3
+Atlanta,Dortmund,77,23,1
+Real Madrid,Paris,28,72,3
+Club Brugge,Liverpool,12,88,3
+Villareal,Ajax,77,23,2
+Barcelona,Club Brugge,13,87,1
+Wolfsburg,Barcelona,5,95,3
+Barcelona,Leipzig,66,34,3
+Dortmund,Sheriff,38,62,1
+Barcelona,Man. United,61,39,2
+Sporting CP,LOSC,78,22,1
+Atletico,Sheriff,32,68,1
+Sporting CP,Zenit,83,17,3
+Bensiktas,Juventus,90,10,3
+Sheriff,Barcelona,85,15,3
+Shakhtar Donetsk,Barcelona,38,62,3
+Real Madrid,Shakhtar Donetsk,56,44,1
+Club Brugge,Juventus,20,80,1
+Villareal,Zenit,31,69,2
+Benfica,Dynamo,88,12,2
+Villareal,Paris,1,99,3
+Leipzig,Salzburg,87,13,3
+Real Madrid,Villareal,40,60,1
+Young Boys,Bayern,97,3,1
+Man. City,Barcelona,32,68,1
+Internazionale,Real Madrid,77,23,1
+Man. City,Bensiktas,42,58,3
+Porto,Real Madrid,91,9,3
+Leipzig,Sevilla,78,22,1
+Internazionale,Bayern,99,1,1
+Zenit,Paris,58,42,1
+Porto,Atlanta,4,96,2
+Atletico,Paris,74,26,1
+Bensiktas,Villareal,51,49,1
+Liverpool,LOSC,72,28,2
+Dynamo,Man. City,94,6,3
+Barcelona,Zenit,69,31,1
+Leipzig,Dortmund,1,99,3
+Atletico,Bensiktas,91,9,3
+Real Madrid,Club Brugge,32,68,3
+Man. United,Sevilla,55,45,2
+Internazionale,Malmö,97,3,3
+Salzburg,Paris,57,43,3
+Villareal,Club Brugge,80,20,1
+Porto,Man. United,41,59,1
+Club Brugge,Benfica,29,71,3
+Chelsea,Dortmund,69,31,1
+Bayern,LOSC,75,25,1
+Benfica,Atletico,57,43,2
+Leipzig,LOSC,45,55,2
+Liverpool,Atlanta,91,9,2
+Wolfsburg,LOSC,37,63,3
+Ajax,Leipzig,96,4,2
+Benfica,Milan,94,6,1
+Juventus,Leipzig,64,36,1
+Sevilla,Chelsea,66,34,3
+Bensiktas,Dortmund,50,50,2
+Leipzig,Salzburg,76,24,3
+Ajax,Real Madrid,18,82,1
+Bensiktas,Wolfsburg,8,92,3
+LOSC,Sporting CP,64,36,3
+Man. City,Internazionale,59,41,2
+Club Brugge,Chelsea,23,77,3
+Sevilla,Dortmund,55,45,2
+Real Madrid,Wolfsburg,57,43,1
+Dortmund,Liverpool,0,100,1
+Real Madrid,Man. United,80,20,1
+Salzburg,Dortmund,77,23,3
+Porto,Juventus,40,60,3
+Bensiktas,Sevilla,1,99,2
+Sporting CP,Atletico,38,62,3
+Bensiktas,Salzburg,29,71,3
+Atlanta,Atletico,54,46,2
+Man. City,Liverpool,14,86,2
+Wolfsburg,Sporting CP,8,92,1
+Paris,Wolfsburg,23,77,1
+Liverpool,Club Brugge,27,73,2
+Wolfsburg,Villareal,32,68,1
+Bayern,Juventus,28,72,3
+Real Madrid,Leipzig,6,94,3
+LOSC,Malmö,19,81,1
+Ajax,Milan,0,100,1
+Milan,Chelsea,55,45,1
+Salzburg,Malmö,94,6,3
+Club Brugge,Internazionale,23,77,3
+Liverpool,Villareal,43,57,2
+Sheriff,Salzburg,36,64,3
+Atlanta,Barcelona,18,82,1
+Leipzig,Chelsea,11,89,2
+Ajax,LOSC,24,76,1
+Sporting CP,Real Madrid,94,6,3
+Porto,Barcelona,47,53,2
+Dortmund,Sevilla,60,40,1
+Dortmund,Liverpool,89,11,2
+Man. United,Young Boys,91,9,2
+Zenit,Dortmund,98,2,1
+Malmö,Liverpool,39,61,3
+Sevilla,Bayern,11,89,1
+Bensiktas,Ajax,33,67,3
+Barcelona,Dynamo,2,98,3
+Sevilla,Club Brugge,77,23,3
+Liverpool,Zenit,66,34,3
+Liverpool,Ajax,67,33,1
+Wolfsburg,Atlanta,16,84,3
+Zenit,Sheriff,64,36,3
+LOSC,Sevilla,66,34,3
+Atlanta,Salzburg,46,54,1
+Milan,Real Madrid,79,21,2
+Juventus,Sevilla,9,91,3
+Man. United,Sporting CP,36,64,3
+Real Madrid,Villareal,88,12,3
+Atlanta,Zenit,50,50,1
+Ajax,Sporting CP,75,25,3
+Man. United,Wolfsburg,43,57,1
+Dynamo,Bayern,74,26,1
+Club Brugge,Milan,29,71,3
+Salzburg,Wolfsburg,3,97,1
+Malmö,Atletico,28,72,2
+Man. City,Villareal,31,69,1
+LOSC,Dynamo,83,17,3
+Dynamo,Barcelona,85,15,3
+Zenit,Milan,66,34,2
+Atlanta,Ajax,7,93,3
+Dynamo,Wolfsburg,33,67,2
+Chelsea,Salzburg,54,46,3
+Paris,Zenit,33,67,1
+Chelsea,Real Madrid,28,72,2
+Shakhtar Donetsk,Dynamo,20,80,3
+Internazionale,Salzburg,32,68,1
+Bensiktas,Dynamo,73,27,1
+Leipzig,Internazionale,86,14,3
+Leipzig,Villareal,85,15,2
+Dortmund,Wolfsburg,62,38,2
+Real Madrid,Leipzig,57,43,2
+Liverpool,Bayern,79,21,1
+Benfica,Malmö,82,18,2
+Real Madrid,Barcelona,42,58,2
+Atlanta,Shakhtar Donetsk,19,81,1
+Porto,Chelsea,63,37,2
+Porto,Liverpool,31,69,3
+Salzburg,Dortmund,7,93,3
+Real Madrid,Salzburg,12,88,2
+Paris,Barcelona,65,35,3
+Man. United,Villareal,46,54,1
+Internazionale,Man. United,12,88,1
+Shakhtar Donetsk,Paris,37,63,1
+Liverpool,Atletico,29,71,3
+Club Brugge,Internazionale,86,14,2
+Wolfsburg,Leipzig,31,69,3
+Bayern,Salzburg,87,13,2
+Shakhtar Donetsk,Liverpool,46,54,3
+Leipzig,Wolfsburg,24,76,2
+Leipzig,Man. United,78,22,2
+Internazionale,Young Boys,9,91,2
+Atletico,Salzburg,22,78,1
+Benfica,Shakhtar Donetsk,5,95,2
+Bensiktas,Dortmund,46,54,2
+LOSC,Leipzig,17,83,1
+Shakhtar Donetsk,Real Madrid,52,48,1
+Juventus,Sevilla,14,86,1
+Young Boys,Club Brugge,6,94,1
+Wolfsburg,Barcelona,46,54,3
+Salzburg,Wolfsburg,93,7,3
+Milan,Bayern,4,96,3
+Milan,Sevilla,46,54,2
+Atletico,Man. United,38,62,2
+Sporting CP,Shakhtar Donetsk,61,39,3
+Young Boys,Paris,59,41,2
+Malmö,Dynamo,17,83,1
+Paris,Porto,3,97,1
+Benfica,Atletico,10,90,3
+Internazionale,Paris,43,57,2
+Bayern,Leipzig,95,5,3
+Juventus,Liverpool,20,80,1
+Bayern,Liverpool,43,57,2
+Bensiktas,Man. City,93,7,2
+Benfica,Sheriff,55,45,1
+Milan,Barcelona,54,46,2
+Dortmund,LOSC,43,57,3
+Zenit,Real Madrid,34,66,2
+Sheriff,Benfica,70,30,2
+Zenit,Sheriff,55,45,3
+Liverpool,Man. City,7,93,1
+Atletico,Paris,90,10,3
+Club Brugge,Porto,0,100,1
+Club Brugge,Bayern,87,13,2
+Club Brugge,Malmö,56,44,3
+Bayern,Sheriff,0,100,2
+Sevilla,Man. United,64,36,1
+Man. City,Man. United,6,94,1
+Benfica,Ajax,30,70,3
+Villareal,Internazionale,65,35,3
+Club Brugge,Young Boys,8,92,1
+Atletico,Young Boys,48,52,2
+Man. City,Sevilla,54,46,3
+Dortmund,Man. United,30,70,3
+Ajax,Porto,39,61,3
+Benfica,Atletico,24,76,2
+Young Boys,Dortmund,29,71,3
+Milan,Shakhtar Donetsk,81,19,3
+Real Madrid,Salzburg,82,18,1
+LOSC,Man. United,19,81,2
+Bensiktas,Salzburg,45,55,2
+Paris,Villareal,0,100,1
+Liverpool,Salzburg,26,74,3
+Ajax,Man. City,58,42,3
+Milan,Malmö,93,7,1
+Villareal,Man. City,94,6,2
+Young Boys,Malmö,98,2,3
+Milan,Sheriff,32,68,3
+Zenit,Dynamo,5,95,2
+Shakhtar Donetsk,LOSC,50,50,1
+Real Madrid,Ajax,35,65,3
+Man. City,Villareal,80,20,2
+Porto,Man. United,51,49,2
+Sporting CP,Young Boys,37,63,1
+Man. City,Shakhtar Donetsk,59,41,1
+Milan,Man. United,10,90,2
+Internazionale,Sporting CP,56,44,3
+Real Madrid,Wolfsburg,85,15,3
+Dortmund,Salzburg,29,71,1
+Leipzig,Young Boys,45,55,1
+Leipzig,Internazionale,87,13,3
+Dortmund,Internazionale,21,79,2
+Barcelona,Porto,42,58,3
+Atlanta,Juventus,79,21,3
+Man. City,Milan,32,68,1
+Juventus,Sporting CP,7,93,1
+LOSC,Ajax,65,35,2
+Paris,Man. United,84,16,1
+Sheriff,Man. City,21,79,2
+Internazionale,Dynamo,27,73,1
+Liverpool,Man. City,54,46,3
+Benfica,Shakhtar Donetsk,65,35,1
+Shakhtar Donetsk,Zenit,71,29,1
+Atletico,Barcelona,6,94,2
+Sporting CP,Wolfsburg,6,94,2
+Young Boys,Porto,23,77,2
+Atlanta,Juventus,16,84,3
+Porto,Zenit,12,88,1
+Benfica,Sevilla,65,35,3
+Sporting CP,Man. United,41,59,3
+Chelsea,Club Brugge,93,7,3
+Ajax,Paris,92,8,3
+Ajax,Man. United,79,21,3
+Milan,Young Boys,75,25,2
+Barcelona,Zenit,47,53,3
+Man. City,Villareal,26,74,1
+Dortmund,Salzburg,92,8,3
+Sporting CP,Atletico,7,93,1
+Sheriff,Benfica,100,0,2
+Paris,Villareal,61,39,3
+Dortmund,Sevilla,68,32,2
+Club Brugge,Salzburg,26,74,1
+Man. United,Liverpool,43,57,3
+Paris,Leipzig,59,41,3
+Atlanta,Porto,70,30,1
+Atletico,Leipzig,72,28,1
+Sevilla,LOSC,51,49,3
+Club Brugge,Man. City,87,13,3
+Internazionale,Liverpool,97,3,2
+Real Madrid,Porto,3,97,1
+Milan,Sevilla,21,79,1
+Zenit,Bayern,3,97,2
+Barcelona,Zenit,22,78,3
+Barcelona,Shakhtar Donetsk,14,86,3
+Sevilla,Man. United,56,44,2
+Dortmund,Shakhtar Donetsk,87,13,1
+Benfica,Atletico,30,70,2
+Real Madrid,Internazionale,77,23,2
+Barcelona,Sevilla,48,52,2
+Club Brugge,Sporting CP,23,77,1
+Bayern,Wolfsburg,86,14,3
+Internazionale,Atlanta,3,97,3
+Milan,Salzburg,20,80,1
+Shakhtar Donetsk,Villareal,78,22,1
+Juventus,Villareal,0,100,1
+Liverpool,Man. City,13,87,1
+LOSC,Chelsea,96,4,2
+Milan,Dynamo,93,7,2
+Bayern,Juventus,5,95,2
+Wolfsburg,Sheriff,78,22,3
+LOSC,Malmö,10,90,2
+Sheriff,Milan,43,57,2
+Wolfsburg,Paris,90,10,1
+LOSC,Paris,81,19,3
+Villareal,Liverpool,81,19,2
+Porto,Milan,75,25,3
+Paris,Malmö,45,55,2
+Atlanta,Milan,95,5,1
+Paris,Wolfsburg,52,48,1
+Dortmund,Man. City,18,82,3
+Atletico,Malmö,27,73,1
+Sevilla,Internazionale,24,76,3
+Real Madrid,Club Brugge,96,4,1
+Paris,Leipzig,51,49,1
+Real Madrid,Porto,24,76,1
+Leipzig,Malmö,94,6,2
+Club Brugge,Atlanta,90,10,2
+Real Madrid,Porto,20,80,3
+Ajax,Villareal,41,59,3
+Salzburg,Chelsea,44,56,1
+Atletico,Man. United,14,86,1
+Bayern,Club Brugge,85,15,3
+Villareal,Ajax,27,73,3
+Ajax,Shakhtar Donetsk,80,20,2
+Sporting CP,Bensiktas,78,22,3
+Man. United,Atletico,5,95,2
+Dynamo,Barcelona,76,24,3
+Atletico,Villareal,78,22,3
+Young Boys,Juventus,56,44,2
+Villareal,Dortmund,33,67,3
+Club Brugge,Villareal,33,67,2
+Barcelona,Atletico,14,86,1
+Man. City,Chelsea,70,30,2
+Zenit,Barcelona,40,60,3
+Internazionale,Young Boys,48,52,3
+Benfica,Malmö,96,4,2
+Bensiktas,Atletico,51,49,3
+Sevilla,Wolfsburg,95,5,3
+Porto,Wolfsburg,50,50,2
+Club Brugge,Villareal,71,29,2
+Milan,Real Madrid,26,74,3
+Sevilla,Zenit,9,91,3
+Dortmund,Shakhtar Donetsk,87,13,3
+Barcelona,Paris,74,26,1
+Juventus,Benfica,51,49,2
+Dynamo,Wolfsburg,49,51,1
+Dynamo,Bensiktas,28,72,2
+Paris,Sporting CP,80,20,3
+Ajax,Atletico,34,66,2
+Club Brugge,Young Boys,84,16,1
+Bayern,Zenit,7,93,1
+Paris,Club Brugge,82,18,3
+Club Brugge,Juventus,77,23,3
+Shakhtar Donetsk,Ajax,23,77,3
+Man. United,Wolfsburg,54,46,1
+Atlanta,Dortmund,1,99,3
+Sheriff,Bayern,73,27,1
+Dortmund,Sheriff,76,24,2
+Liverpool,Ajax,62,38,3
+Club Brugge,Wolfsburg,15,85,2
+Leipzig,Wolfsburg,70,30,3
+Bayern,Dynamo,65,35,1
+Porto,Liverpool,100,0,3
+Bensiktas,Man. United,53,47,2
+Chelsea,Zenit,4,96,3
+Paris,Milan,76,24,3
+Bensiktas,Paris,0,100,1
+Sevilla,Atletico,0,100,1
+Barcelona,Porto,32,68,2
+Wolfsburg,Malmö,56,44,2
+Paris,Juventus,65,35,3
+Shakhtar Donetsk,Man. United,24,76,3
+Salzburg,Porto,13,87,2
+Ajax,Barcelona,95,5,2
+Barcelona,Zenit,39,61,3
+Man. United,Atletico,13,87,3
+Dortmund,Sporting CP,92,8,1
+Sporting CP,Sevilla,74,26,2
+Bayern,LOSC,87,13,2
+Club Brugge,Milan,23,77,3
+Sporting CP,Chelsea,43,57,1
+Dynamo,Villareal,66,34,3
+LOSC,Benfica,41,59,3
+Sevilla,Man. United,79,21,3
+Juventus,Sporting CP,53,47,1
+Dortmund,Malmö,61,39,2
+Zenit,Sevilla,32,68,2
+Malmö,Dortmund,9,91,1
+Paris,Atletico,44,56,1
+Salzburg,Atlanta,12,88,3
+Leipzig,Atlanta,82,18,2
+Porto,Barcelona,12,88,1
+Dortmund,Benfica,17,83,1
+Juventus,Real Madrid,53,47,2
+Benfica,Atlanta,55,45,3
+Young Boys,Milan,87,13,3
+Chelsea,Leipzig,75,25,3
+Milan,Liverpool,39,61,1
+Sevilla,Sporting CP,31,69,3
+Sevilla,Salzburg,27,73,2
+LOSC,Porto,7,93,2
+Man. United,Benfica,21,79,3
+Bensiktas,Sheriff,55,45,3
+Bayern,Atletico,73,27,2
+Dynamo,Malmö,12,88,1
+Milan,Paris,94,6,1
+Paris,Dynamo,26,74,3
+Sporting CP,LOSC,54,46,1
+Ajax,Man. United,50,50,1
+Real Madrid,Leipzig,43,57,3
+Bensiktas,Chelsea,99,1,1
+Chelsea,Atlanta,38,62,3
+Young Boys,Man. United,71,29,3
+Shakhtar Donetsk,Benfica,30,70,2
+Shakhtar Donetsk,Atletico,19,81,3
+Dortmund,Atletico,84,16,2
+Sporting CP,Man. United,53,47,1
+Sheriff,Young Boys,47,53,2
+Leipzig,Malmö,23,77,2
+Chelsea,Atlanta,55,45,3
+Bayern,Club Brugge,0,100,1
+Benfica,Sporting CP,25,75,3
+Young Boys,Atletico,53,47,3
+Villareal,Ajax,34,66,2
+Chelsea,Wolfsburg,95,5,3
+Bayern,Leipzig,44,56,1
+Club Brugge,Barcelona,83,17,1
+Salzburg,Wolfsburg,51,49,1
+Leipzig,Benfica,49,51,2
+Porto,Bayern,43,57,2
+Real Madrid,Chelsea,22,78,2
+Barcelona,Milan,62,38,2
+Ajax,Benfica,75,25,2
+Salzburg,Leipzig,39,61,1
+Chelsea,Sheriff,98,2,2
+Leipzig,Porto,95,5,2
+Barcelona,Internazionale,42,58,3
+Bayern,Juventus,98,2,1
+Malmö,Villareal,38,62,1
+Paris,Sevilla,30,70,1
+Atletico,Club Brugge,74,26,3
+LOSC,Man. United,90,10,1
+LOSC,Villareal,60,40,3
+Young Boys,Real Madrid,9,91,1
+Dortmund,Sporting CP,42,58,3
+Sheriff,Wolfsburg,69,31,2
+Salzburg,Paris,65,35,2
+LOSC,Dynamo,22,78,2
+Man. City,Internazionale,97,3,1
+Shakhtar Donetsk,LOSC,80,20,1
+Young Boys,Internazionale,67,33,3
+Bayern,Zenit,51,49,1
+Man. City,Sevilla,67,33,3
+Sheriff,Leipzig,68,32,2
+LOSC,Atletico,56,44,2
+Liverpool,Bensiktas,1,99,1
+Wolfsburg,Milan,39,61,2
+Man. City,Benfica,9,91,3
+Young Boys,Porto,75,25,1
+Dortmund,Salzburg,81,19,3
+Zenit,Bensiktas,94,6,1
+Porto,Zenit,53,47,2
+Zenit,Dortmund,89,11,2
+Young Boys,Man. City,10,90,2
+Leipzig,Shakhtar Donetsk,71,29,2
+Milan,Sevilla,69,31,1
+Real Madrid,Bensiktas,43,57,1
+Chelsea,LOSC,36,64,2
+Atletico,Sheriff,50,50,2
+Juventus,Bayern,28,72,2
+Young Boys,Juventus,93,7,2
+Young Boys,Man. City,55,45,2
+Porto,Bayern,1,99,3
+Liverpool,Atletico,22,78,1
+LOSC,Shakhtar Donetsk,6,94,1
+Dortmund,Chelsea,73,27,3
+Atlanta,Salzburg,32,68,3
+Bayern,Juventus,84,16,3
+Dynamo,Ajax,21,79,2
+Ajax,Dortmund,79,21,3
+Bensiktas,Chelsea,7,93,3
+Ajax,Villareal,55,45,1
+Bayern,Sporting CP,63,37,2
+Atlanta,Man. City,58,42,2
+Liverpool,Juventus,9,91,3
+Sevilla,Villareal,17,83,3
+Milan,Man. United,32,68,1
+Bayern,Man. United,12,88,2
+Paris,Chelsea,19,81,1
+Porto,Dynamo,59,41,3
+Real Madrid,Ajax,65,35,3
+Man. United,Atlanta,5,95,2
+Internazionale,Dortmund,69,31,3
+Juventus,Malmö,94,6,3
+Man. United,Man. City,43,57,3
+Liverpool,Man. City,39,61,3
+Man. City,Malmö,18,82,1
+Atlanta,LOSC,36,64,2
+Barcelona,Dortmund,31,69,3
+Benfica,Atlanta,4,96,3
+Barcelona,Man. United,27,73,2
+Club Brugge,Zenit,73,27,2
+Atletico,Juventus,77,23,2
+Internazionale,Villareal,55,45,3
+Juventus,Bayern,7,93,3
+Zenit,Leipzig,63,37,2
+Shakhtar Donetsk,Young Boys,93,7,3
+Bayern,Club Brugge,72,28,3
+Man. United,Porto,75,25,1
+Barcelona,Ajax,59,41,1
+Man. United,Leipzig,91,9,3
+Chelsea,Sheriff,46,54,2
+Atlanta,Young Boys,14,86,1
+Sevilla,Bensiktas,85,15,2
+Barcelona,Salzburg,88,12,1
+LOSC,Club Brugge,44,56,1
+Shakhtar Donetsk,Atlanta,4,96,2
+Dynamo,Man. City,16,84,3
+Juventus,Salzburg,66,34,1
+Real Madrid,Chelsea,80,20,1
+Paris,Barcelona,30,70,1
+Atlanta,Wolfsburg,64,36,2
+Man. City,Dortmund,86,14,2
+Sporting CP,Malmö,96,4,1
+Dortmund,Club Brugge,53,47,3
+Atlanta,Sheriff,3,97,3
+Leipzig,Club Brugge,21,79,2
+Bayern,Man. United,87,13,3
+Leipzig,Liverpool,43,57,2
+Man. United,Chelsea,48,52,3
+Dynamo,Benfica,4,96,3
+Porto,LOSC,44,56,1
+LOSC,Dynamo,3,97,2
+Atlanta,Porto,27,73,2
+Zenit,Shakhtar Donetsk,28,72,3
+Man. City,Sheriff,11,89,3
+Club Brugge,Liverpool,21,79,3
+Benfica,Chelsea,6,94,1
+Paris,Liverpool,30,70,3
+Malmö,Internazionale,30,70,3
+Salzburg,Internazionale,71,29,3
+Leipzig,Young Boys,17,83,3
+Internazionale,Porto,30,70,2
+Bensiktas,Salzburg,85,15,2
+LOSC,Benfica,31,69,1
+Liverpool,LOSC,5,95,1
+Sevilla,Barcelona,85,15,3
+Barcelona,Ajax,42,58,2
+Benfica,Malmö,66,34,2
+Wolfsburg,Bensiktas,10,90,2
+Salzburg,Atlanta,84,16,3
+Salzburg,Internazionale,65,35,3
+Paris,Real Madrid,2,98,2
+Ajax,Wolfsburg,10,90,2
+Real Madrid,Villareal,100,0,2
+Sheriff,Sevilla,69,31,2
+Malmö,Juventus,13,87,1
+Leipzig,Internazionale,65,35,2
+Club Brugge,Shakhtar Donetsk,18,82,2
+Sheriff,Zenit,96,4,1
+Juventus,Dortmund,35,65,1
+Dynamo,Man. City,25,75,2
+Internazionale,Dortmund,56,44,2
+Porto,Chelsea,40,60,1
+Sporting CP,Internazionale,48,52,1
+Juventus,Barcelona,22,78,1
+Dynamo,Atletico,14,86,3
+Atlanta,Sheriff,74,26,3
+Sporting CP,Atletico,23,77,3
+Internazionale,Atlanta,88,12,3
+Atlanta,Milan,26,74,2
+Atletico,Paris,62,38,3
+Club Brugge,Man. City,20,80,2
+Barcelona,Bensiktas,65,35,2
+Internazionale,Sporting CP,39,61,3
+Milan,Sheriff,77,23,2
+Paris,Sheriff,52,48,3
+Villareal,Man. City,52,48,2
+Leipzig,Milan,95,5,3
+Shakhtar Donetsk,Atletico,75,25,3
+Ajax,Shakhtar Donetsk,60,40,2
+Sheriff,Ajax,79,21,3
+Zenit,Juventus,100,0,2
+Milan,Malmö,63,37,3
+Liverpool,Club Brugge,8,92,1
+Dynamo,Juventus,1,99,2
+Club Brugge,Dortmund,6,94,1
+Shakhtar Donetsk,Malmö,6,94,1
+Paris,LOSC,94,6,1
+Zenit,LOSC,39,61,1
+Zenit,Liverpool,24,76,1
+Sevilla,Sporting CP,37,63,1
+Sheriff,Liverpool,7,93,2
+Ajax,Zenit,43,57,1
+Dortmund,Leipzig,67,33,1
+Zenit,Bayern,73,27,2
+Benfica,Zenit,90,10,2
+Sheriff,Dynamo,26,74,2
+Dortmund,Shakhtar Donetsk,81,19,2
+Young Boys,Leipzig,20,80,2
+Leipzig,LOSC,33,67,1
+Atlanta,Sporting CP,71,29,3
+Atletico,Porto,31,69,1
+Sheriff,Liverpool,20,80,3
+Wolfsburg,Dortmund,36,64,3
+Sheriff,Young Boys,34,66,1
+Malmö,Salzburg,66,34,2
+Benfica,Barcelona,48,52,2
+Wolfsburg,Bayern,86,14,3
+Milan,Sporting CP,15,85,3
+Sevilla,Barcelona,75,25,1
+Sporting CP,Leipzig,12,88,2
+Sheriff,Shakhtar Donetsk,48,52,1
+Atletico,Atlanta,25,75,2
+Porto,Man. City,45,55,2
+Benfica,Shakhtar Donetsk,5,95,2
+Man. City,Sheriff,98,2,1
+Sevilla,Ajax,14,86,2
+Sheriff,Ajax,75,25,2
+Atletico,Young Boys,87,13,1
+Man. City,Liverpool,49,51,2
+Sporting CP,Milan,76,24,1
+Shakhtar Donetsk,Salzburg,1,99,2
+Young Boys,Bayern,32,68,1
+Club Brugge,Sheriff,67,33,1
+Villareal,Porto,96,4,2
+Bayern,Real Madrid,24,76,3
+Barcelona,Atletico,23,77,2
+Sevilla,Porto,69,31,3
+Porto,Bensiktas,4,96,2
+Young Boys,Leipzig,40,60,1
+Young Boys,Man. City,91,9,2
+Porto,Dortmund,61,39,1
+Juventus,Villareal,23,77,3
+Porto,Club Brugge,11,89,3
+Porto,Malmö,98,2,3
+Villareal,Milan,76,24,1
+Real Madrid,Barcelona,9,91,2
+Ajax,Man. City,70,30,3
+Porto,Dynamo,58,42,3
+Benfica,LOSC,9,91,2
+Dortmund,LOSC,29,71,3
+Benfica,Real Madrid,14,86,3
+Sevilla,Wolfsburg,3,97,1
+Ajax,Porto,95,5,3
+Shakhtar Donetsk,Real Madrid,38,62,1
+Club Brugge,Malmö,47,53,1
+Bensiktas,Sevilla,74,26,2
+Bayern,Milan,28,72,3
+Malmö,Sporting CP,72,28,2
+Man. United,Juventus,88,12,1
+Internazionale,Paris,72,28,3
+Salzburg,Villareal,2,98,1
+Villareal,Man. United,35,65,3
+Dynamo,Atlanta,55,45,3
+Club Brugge,Porto,12,88,1
+LOSC,Barcelona,1,99,2
+Internazionale,Dortmund,13,87,1
+Chelsea,Wolfsburg,63,37,3
+Paris,Ajax,23,77,2
+Atlanta,Liverpool,61,39,1
+Internazionale,Atlanta,15,85,2
+Young Boys,LOSC,53,47,2
+Barcelona,Benfica,25,75,1
+Benfica,Malmö,83,17,3
+Bayern,Porto,55,45,2
+Atletico,Villareal,44,56,1
+Malmö,Paris,64,36,2
+Chelsea,Zenit,60,40,3
+Liverpool,LOSC,33,67,3
+Benfica,Barcelona,87,13,1
+Benfica,Salzburg,82,18,3
+Zenit,Barcelona,46,54,3
+Leipzig,Barcelona,97,3,3
+Juventus,Shakhtar Donetsk,4,96,1
+Dynamo,Man. City,1,99,2
+Shakhtar Donetsk,Barcelona,37,63,1
+Salzburg,Villareal,84,16,2
+Wolfsburg,Juventus,68,32,3
+Club Brugge,Bensiktas,17,83,2
+Club Brugge,Atletico,61,39,3
+Young Boys,Zenit,98,2,2
+Shakhtar Donetsk,Sheriff,83,17,2
+Sheriff,Bayern,80,20,2
+Benfica,Real Madrid,89,11,1
+Dortmund,Sporting CP,21,79,3
+Porto,Liverpool,21,79,3
+Shakhtar Donetsk,Atletico,77,23,2
+Sevilla,Club Brugge,12,88,3
+Sheriff,Bayern,29,71,1
+Benfica,Wolfsburg,23,77,3
+Dortmund,Liverpool,35,65,1
+Zenit,Internazionale,52,48,1
+Juventus,Ajax,40,60,3
+Young Boys,Malmö,68,32,2
+Man. United,Atlanta,18,82,2
+Zenit,Shakhtar Donetsk,86,14,2
+Paris,Juventus,49,51,1
+Real Madrid,Sevilla,95,5,2
+Dynamo,Young Boys,82,18,2
+Sporting CP,Atletico,19,81,2
+Leipzig,Dortmund,68,32,3
+Porto,Bensiktas,93,7,1
+Benfica,Dortmund,68,32,2
+Internazionale,Man. United,88,12,2
+Wolfsburg,Bensiktas,24,76,2
+Leipzig,Wolfsburg,14,86,2
+Zenit,Salzburg,65,35,1
+Chelsea,Zenit,54,46,1
+Juventus,Bayern,51,49,3
+Villareal,Atlanta,5,95,3
+Young Boys,Shakhtar Donetsk,95,5,3
+Paris,Sporting CP,45,55,3
+Bensiktas,Shakhtar Donetsk,9,91,2
+Salzburg,Paris,0,100,3
+Bensiktas,Man. City,34,66,2
+Leipzig,Barcelona,9,91,2
+Atlanta,Malmö,35,65,2
+Chelsea,Juventus,100,0,3
+Club Brugge,Porto,17,83,1
+Liverpool,Juventus,41,59,1
+Dynamo,Malmö,5,95,1
+Sevilla,Leipzig,54,46,3
+Atletico,Milan,65,35,2
+Shakhtar Donetsk,Malmö,82,18,2
+Benfica,Wolfsburg,51,49,1
+Villareal,Internazionale,38,62,1
+Porto,Chelsea,59,41,2
+LOSC,Young Boys,87,13,1
+Bensiktas,Malmö,99,1,1
+Atlanta,Ajax,5,95,1
+Sheriff,Salzburg,33,67,1
+Benfica,Sporting CP,40,60,3
+Man. United,Man. City,34,66,2
+Shakhtar Donetsk,Barcelona,27,73,2
+Real Madrid,Man. United,53,47,1
+Dortmund,Internazionale,65,35,2
+Porto,Internazionale,62,38,2
+Milan,Porto,0,100,2
+Shakhtar Donetsk,Atletico,14,86,1
+Sporting CP,Benfica,71,29,3
+Zenit,LOSC,49,51,2
+Milan,Shakhtar Donetsk,4,96,2
+Bensiktas,Zenit,31,69,1
+Juventus,Villareal,90,10,3
+Wolfsburg,Real Madrid,48,52,1
+Paris,Benfica,14,86,3
+Man. United,Young Boys,79,21,3
+Salzburg,Malmö,34,66,3
+Young Boys,Milan,78,22,2
+Villareal,Club Brugge,77,23,2
+Liverpool,Atletico,29,71,3
+Real Madrid,Benfica,71,29,3
+Sheriff,Zenit,24,76,1
+Salzburg,Malmö,90,10,1
+Bensiktas,Milan,80,20,3
+Man. United,Chelsea,76,24,3
+Paris,Salzburg,81,19,3
+Barcelona,Liverpool,39,61,1
+Sporting CP,Dortmund,48,52,1
+Bayern,Villareal,42,58,1
+Ajax,Dortmund,53,47,3
+Malmö,Man. City,93,7,2
+Ajax,Bensiktas,53,47,2
+Internazionale,Dortmund,49,51,3
+Malmö,Porto,4,96,2
+Paris,Dortmund,70,30,1
+Malmö,Milan,65,35,2
+Dynamo,Sporting CP,79,21,3
+Milan,Bayern,98,2,3
+LOSC,Villareal,8,92,3
+Atlanta,Juventus,12,88,1
+Dortmund,Salzburg,82,18,2
+Young Boys,Porto,17,83,3
+Ajax,Porto,50,50,2
+Man. City,Internazionale,89,11,3
+Benfica,LOSC,65,35,3
+Dynamo,Atletico,81,19,3
+Atletico,Porto,70,30,1
+Leipzig,Milan,25,75,3
+Milan,Paris,42,58,2
+Barcelona,Malmö,60,40,3
+Malmö,Paris,100,0,2
+Porto,Dynamo,85,15,3
+Dynamo,Atletico,34,66,3
+Salzburg,Barcelona,9,91,2
+Bayern,Real Madrid,82,18,2
+Villareal,Sevilla,10,90,3
+Chelsea,Barcelona,67,33,1
+Dynamo,Leipzig,21,79,3
+Atlanta,Sporting CP,86,14,1
+Real Madrid,Man. City,31,69,1
+Sheriff,Man. United,16,84,1
+Chelsea,Club Brugge,23,77,2
+Club Brugge,Villareal,37,63,2
+Atlanta,Liverpool,22,78,3
+Sheriff,Bensiktas,37,63,2
+Sheriff,Barcelona,30,70,1
+Man. City,Man. United,7,93,3
+Juventus,LOSC,92,8,2
+Internazionale,Milan,5,95,2
+Juventus,Club Brugge,98,2,2
+Malmö,Internazionale,67,33,2
+Real Madrid,Internazionale,65,35,3
+Atletico,Milan,5,95,1
+Shakhtar Donetsk,Bayern,24,76,3
+Villareal,Salzburg,80,20,3
+Man. United,Paris,35,65,2
+Atlanta,Ajax,67,33,2
+Sheriff,Atlanta,54,46,2
+Sheriff,LOSC,12,88,1
+Shakhtar Donetsk,Man. United,60,40,2
+Club Brugge,Atletico,22,78,2
+Internazionale,Sporting CP,57,43,3
+Sporting CP,Bensiktas,43,57,3
+Internazionale,Malmö,91,9,2
+Young Boys,Ajax,88,12,1
+Zenit,Sheriff,71,29,3
+Ajax,Young Boys,63,37,3
+Man. City,Paris,60,40,2
+Villareal,Milan,55,45,3
+Dynamo,Young Boys,89,11,3
+Young Boys,Internazionale,90,10,3
+Bensiktas,Shakhtar Donetsk,33,67,3
+Bayern,Internazionale,88,12,3
+Villareal,Dynamo,84,16,2
+Milan,Leipzig,97,3,1
+Bayern,Leipzig,3,97,1
+Zenit,Milan,35,65,2
+LOSC,Liverpool,76,24,3
+LOSC,Bayern,36,64,1
+Benfica,Atletico,22,78,1
+Zenit,Salzburg,54,46,1
+Benfica,Salzburg,57,43,2
+Chelsea,Leipzig,8,92,1
+Atlanta,Young Boys,99,1,1
+Atletico,Juventus,19,81,1
+Man. City,Atlanta,59,41,2
+Villareal,Dortmund,28,72,1
+Villareal,Atlanta,54,46,1
+Milan,Sevilla,33,67,2
+Real Madrid,LOSC,91,9,3
+Young Boys,Barcelona,59,41,2
+Porto,Shakhtar Donetsk,69,31,3
+LOSC,Dortmund,68,32,3
+Shakhtar Donetsk,Dynamo,62,38,2
+Liverpool,Chelsea,56,44,1
+Internazionale,Man. United,17,83,1
+Sporting CP,Porto,88,12,1
+Salzburg,Shakhtar Donetsk,52,48,1
+Villareal,Man. City,37,63,1
+Shakhtar Donetsk,Liverpool,93,7,3
+Sheriff,Club Brugge,25,75,3
+Man. United,Internazionale,14,86,1
+Benfica,Dynamo,33,67,2
+Atletico,Barcelona,1,99,1
+Barcelona,Atletico,32,68,2
+Club Brugge,Shakhtar Donetsk,47,53,1
+Villareal,Sheriff,49,51,2
+Shakhtar Donetsk,Zenit,17,83,1
+Chelsea,Liverpool,10,90,3
+Malmö,Zenit,17,83,1
+Ajax,Barcelona,30,70,3
+Benfica,Wolfsburg,47,53,2
+Young Boys,Man. City,40,60,2
+Milan,Barcelona,30,70,3
+Leipzig,Sevilla,75,25,3
+Benfica,Milan,4,96,3
+Shakhtar Donetsk,Real Madrid,6,94,2
+Zenit,Internazionale,57,43,2
+Paris,Juventus,24,76,3
+Porto,Paris,84,16,1
+Man. United,Porto,48,52,2
+Salzburg,Dortmund,7,93,1
+Bayern,Shakhtar Donetsk,48,52,1
+Liverpool,Villareal,39,61,2
+Real Madrid,Ajax,67,33,3
+Man. City,Young Boys,38,62,3
+Salzburg,Dynamo,86,14,1
+Club Brugge,Salzburg,88,12,2
+Bayern,Club Brugge,52,48,3
+Dynamo,Sevilla,87,13,2
+Bensiktas,Sevilla,66,34,3
+Dynamo,Club Brugge,54,46,3
+Salzburg,Dortmund,47,53,2
+Man. United,LOSC,84,16,3
+Sheriff,Wolfsburg,52,48,2
+Young Boys,Chelsea,36,64,2
+Bensiktas,Young Boys,75,25,1
+Sheriff,LOSC,89,11,2
+Real Madrid,LOSC,25,75,1
+Juventus,Shakhtar Donetsk,45,55,1
+Malmö,Dortmund,88,12,2
+Man. City,Atletico,3,97,2
+Salzburg,Shakhtar Donetsk,58,42,1
+Atlanta,Malmö,5,95,3
+Chelsea,Liverpool,77,23,1
+Sheriff,Benfica,8,92,1
+Salzburg,Internazionale,92,8,1
+Dortmund,Paris,73,27,3
+Malmö,Barcelona,16,84,1
+Zenit,Shakhtar Donetsk,40,60,3
+Barcelona,Liverpool,49,51,3
+Porto,Man. City,6,94,3
+Sevilla,Wolfsburg,43,57,1
+Leipzig,Juventus,16,84,3
+Young Boys,Milan,89,11,3
+Juventus,Real Madrid,58,42,3
+Milan,Salzburg,52,48,1
+Man. United,Milan,92,8,1
+Liverpool,Atletico,7,93,2
+Villareal,Salzburg,91,9,1
+Salzburg,Dortmund,64,36,3
+Sporting CP,Man. United,13,87,3
+Real Madrid,Leipzig,0,100,1
+Liverpool,Sporting CP,39,61,1
+Villareal,Barcelona,17,83,2
+Barcelona,Paris,69,31,1
+Dynamo,Man. City,92,8,2
+Sporting CP,Porto,42,58,3
+Dynamo,Wolfsburg,2,98,1
+Atlanta,Shakhtar Donetsk,33,67,2
+Man. City,Ajax,92,8,1
+Paris,Man. City,31,69,3
+Benfica,Shakhtar Donetsk,84,16,3
+Liverpool,Young Boys,37,63,3
+Dynamo,Porto,54,46,3
+Milan,Internazionale,20,80,2
+Salzburg,Shakhtar Donetsk,45,55,3
+Bensiktas,Leipzig,32,68,2
+Atletico,Villareal,23,77,3
+Porto,LOSC,55,45,2
+Dortmund,Atlanta,57,43,2
+Sporting CP,LOSC,100,0,3
+Real Madrid,Leipzig,47,53,2
+Leipzig,Milan,80,20,2
+Salzburg,Barcelona,98,2,3
+Man. City,Barcelona,45,55,3
+Sporting CP,Wolfsburg,35,65,1
+Ajax,Club Brugge,7,93,3
+Internazionale,Porto,25,75,3
+Sheriff,Milan,51,49,3
+Man. United,Porto,86,14,1
+Juventus,LOSC,26,74,1
+Malmö,Paris,76,24,1
+Ajax,Sevilla,71,29,1
+Atletico,Villareal,17,83,3
+Dynamo,Atletico,91,9,1
+Club Brugge,Zenit,10,90,1
+Juventus,Club Brugge,9,91,3
+Dynamo,Milan,19,81,2
+Real Madrid,Internazionale,33,67,3
+Leipzig,Porto,39,61,1
+Real Madrid,Atletico,89,11,2
+Internazionale,Club Brugge,36,64,3
+Paris,Barcelona,80,20,1
+Benfica,Shakhtar Donetsk,17,83,2
+Dynamo,Bayern,43,57,1
+Benfica,LOSC,13,87,2
+Villareal,Benfica,56,44,2
+Sheriff,Atletico,9,91,3
+Zenit,Barcelona,44,56,1
+Atletico,LOSC,32,68,1
+Malmö,Dortmund,62,38,3
+Juventus,Bayern,44,56,3
+Chelsea,Club Brugge,7,93,2
+Sheriff,Dynamo,67,33,1
+Atletico,Liverpool,40,60,1
+Liverpool,Chelsea,81,19,2
+Bensiktas,Villareal,100,0,2
+Atletico,Paris,58,42,2
+Atletico,Liverpool,56,44,3
+Wolfsburg,Man. United,38,62,3
+LOSC,Benfica,31,69,1
+Benfica,Internazionale,74,26,2
+Malmö,LOSC,68,32,1
+Atlanta,Real Madrid,15,85,3
+Paris,Sheriff,76,24,1
+Dynamo,Bayern,99,1,1
+Man. City,Man. United,96,4,1
+Barcelona,Bayern,24,76,3
+Man. United,Villareal,69,31,2
+Chelsea,Juventus,22,78,2
+Milan,Benfica,69,31,1
+Atletico,Malmö,26,74,3
+Internazionale,Atletico,73,27,3
+Juventus,Bayern,7,93,1
+Real Madrid,Malmö,10,90,3
+Dortmund,Club Brugge,8,92,1
+Porto,Milan,47,53,1
+Milan,Paris,69,31,2
+Barcelona,Dynamo,100,0,1
+Porto,Ajax,8,92,2
+Benfica,Zenit,22,78,3
+Sheriff,Barcelona,1,99,2
+Bensiktas,Ajax,96,4,1
+Sheriff,Man. United,44,56,3
+Bensiktas,Bayern,35,65,2
+Man. United,Man. City,80,20,2
+Club Brugge,Young Boys,79,21,2
+Sevilla,LOSC,73,27,3
+Club Brugge,Paris,68,32,3
+Chelsea,Sporting CP,24,76,1
+Bensiktas,Ajax,47,53,2
+Internazionale,Real Madrid,27,73,2
+Dynamo,Ajax,50,50,3
+Wolfsburg,Juventus,79,21,1
+Atletico,Club Brugge,42,58,1
+Porto,Paris,1,99,1
+Liverpool,Porto,38,62,2
+Real Madrid,Juventus,29,71,2
+Club Brugge,Ajax,52,48,2
+Dortmund,Milan,42,58,2
+Liverpool,Salzburg,39,61,1
+Ajax,Sporting CP,3,97,3
+Internazionale,Paris,39,61,3
+Zenit,Wolfsburg,71,29,2
+Juventus,Benfica,11,89,1
+Chelsea,Dortmund,28,72,2
+Benfica,Juventus,86,14,2
+Chelsea,Dortmund,50,50,2
+Paris,Salzburg,25,75,3
+Barcelona,Chelsea,97,3,1
+Dynamo,Benfica,33,67,3
+Real Madrid,Juventus,40,60,2
+Ajax,Sporting CP,33,67,3
+Atletico,Young Boys,43,57,1
+Bensiktas,Sevilla,34,66,2
+LOSC,Juventus,29,71,2
+Bensiktas,Villareal,84,16,2
+Sevilla,Paris,98,2,2
+Liverpool,Porto,82,18,3
+Malmö,Sevilla,11,89,1
+Benfica,Atlanta,13,87,2
+Villareal,Man. City,65,35,1
+Malmö,Sheriff,99,1,3
+Sevilla,Malmö,31,69,3
+Dortmund,Leipzig,93,7,2
+Dynamo,Salzburg,45,55,3
+Juventus,Leipzig,85,15,2
+Sporting CP,Malmö,85,15,2
+Internazionale,Villareal,5,95,2
+Dynamo,Paris,55,45,2
+Zenit,Milan,50,50,3
+Malmö,Milan,72,28,1
+Liverpool,Atletico,81,19,3
+Malmö,Bayern,45,55,1
+Man. United,Sporting CP,68,32,1
+Internazionale,Zenit,10,90,3
+Atletico,Dortmund,15,85,3
+LOSC,Ajax,38,62,1
+Bayern,Wolfsburg,65,35,2
+Benfica,Man. United,7,93,1
+Bayern,Porto,95,5,2
+Zenit,Villareal,72,28,2
+Ajax,Zenit,22,78,2
+Villareal,Sheriff,92,8,1
+Dynamo,Bensiktas,71,29,2
+Dynamo,Milan,49,51,1
+Barcelona,Bensiktas,29,71,1
+Sevilla,Real Madrid,53,47,2
+Sheriff,Bensiktas,84,16,2
+Chelsea,LOSC,25,75,1
+Wolfsburg,Malmö,25,75,3
+Juventus,Porto,79,21,1
+Sporting CP,Malmö,63,37,1
+Atlanta,Real Madrid,87,13,2
+Internazionale,Club Brugge,80,20,2
+Milan,Dynamo,98,2,2
+Sevilla,Man. United,75,25,1
+Zenit,Bayern,90,10,3
+Villareal,Atlanta,19,81,2
+Liverpool,Wolfsburg,37,63,3
+Bensiktas,Salzburg,71,29,2
+Wolfsburg,Leipzig,50,50,3
+Benfica,Atlanta,96,4,2
+Benfica,Milan,48,52,3
+Juventus,Liverpool,23,77,1
+Milan,Atletico,49,51,1
+Bensiktas,Liverpool,12,88,2
+Porto,Chelsea,53,47,2
+Bensiktas,Porto,32,68,2
+Sheriff,Villareal,95,5,2
+Ajax,Paris,67,33,2
+Milan,Villareal,83,17,2
+Salzburg,Sevilla,90,10,3
+Man. City,Sporting CP,16,84,3
+Shakhtar Donetsk,Wolfsburg,17,83,3
+Sporting CP,Club Brugge,13,87,3
+Man. United,Sheriff,78,22,3
+Man. United,Sevilla,71,29,1
+Villareal,Juventus,69,31,3
+Paris,Shakhtar Donetsk,72,28,3
+Dortmund,Man. United,48,52,1
+Liverpool,Malmö,22,78,1
+Sheriff,Benfica,64,36,2
+Wolfsburg,Sevilla,66,34,1
+Club Brugge,Atlanta,77,23,2
+Zenit,Wolfsburg,49,51,1
+Young Boys,LOSC,65,35,1
+Bayern,Paris,39,61,3
+Liverpool,Internazionale,10,90,3
+Salzburg,Dynamo,97,3,1
+Young Boys,Barcelona,85,15,2
+Wolfsburg,Shakhtar Donetsk,45,55,1
+Bensiktas,Young Boys,49,51,1
+Shakhtar Donetsk,Atlanta,73,27,2
+Bensiktas,Villareal,42,58,1
+LOSC,Man. City,86,14,3
+LOSC,Sporting CP,89,11,3
+Young Boys,Atletico,72,28,1
+Man. City,Club Brugge,83,17,3
+Wolfsburg,Chelsea,23,77,3
+Bayern,Dortmund,56,44,3
+Man. City,Sheriff,63,37,1
+Dynamo,Sheriff,19,81,3
+Dortmund,Atletico,53,47,1
+Atletico,Milan,2,98,1
+Atlanta,Villareal,73,27,3
+Sevilla,Bayern,38,62,3
+Zenit,Sheriff,81,19,1
+Barcelona,Porto,12,88,1
+Barcelona,Benfica,27,73,3
+Real Madrid,Sevilla,6,94,3
+Juventus,Benfica,53,47,2
+Ajax,Porto,63,37,1
+Man. United,Porto,39,61,3
+Ajax,Milan,22,78,3
+Man. United,Sporting CP,56,44,2
+Liverpool,Young Boys,59,41,3
+Sevilla,Dortmund,31,69,2
+Sporting CP,Sheriff,36,64,1
+Ajax,Sevilla,89,11,1
+Chelsea,Atletico,3,97,3
+Malmö,Sporting CP,1,99,1
+Barcelona,Young Boys,50,50,1
+Bensiktas,Real Madrid,68,32,3
+Dortmund,Man. United,94,6,1
+Zenit,Wolfsburg,83,17,2
+Ajax,Sheriff,89,11,2
+Zenit,Porto,69,31,3
+Benfica,Shakhtar Donetsk,63,37,2
+Young Boys,Salzburg,4,96,2
+Sheriff,Villareal,70,30,2
+Villareal,Dortmund,30,70,3
+Bayern,Club Brugge,32,68,1
+Atlanta,Young Boys,62,38,3
+Ajax,Atlanta,29,71,3
+Man. City,Sporting CP,19,81,3
+Ajax,Young Boys,64,36,2
+Young Boys,Zenit,70,30,1
+Chelsea,Paris,43,57,2
+Leipzig,Bayern,61,39,2
+Bensiktas,Atletico,77,23,1
+Juventus,Internazionale,92,8,1
+Sheriff,Man. United,5,95,1
+Man. City,LOSC,17,83,2
+Real Madrid,Milan,20,80,1
+Dynamo,Atletico,68,32,1
+Sevilla,Young Boys,44,56,2
+Porto,Wolfsburg,20,80,1
+Internazionale,Benfica,14,86,2
+Wolfsburg,Sevilla,59,41,1
+Ajax,Zenit,41,59,2
+Porto,Salzburg,97,3,3
+Juventus,Salzburg,57,43,3
+Atlanta,Leipzig,60,40,2
+Man. United,Leipzig,39,61,2
+Paris,Sheriff,51,49,1
+Club Brugge,Liverpool,56,44,1
+Leipzig,Juventus,62,38,1
+Dortmund,Young Boys,75,25,3
+Wolfsburg,Dynamo,94,6,1
+Man. United,LOSC,43,57,3
+Porto,Benfica,96,4,2
+Bayern,Benfica,32,68,2
+Juventus,Shakhtar Donetsk,4,96,2
+Dortmund,Atlanta,44,56,3
+Internazionale,Porto,31,69,2
+Benfica,Wolfsburg,93,7,3
+Club Brugge,Paris,99,1,2
+Barcelona,Bensiktas,4,96,1
+Bensiktas,Club Brugge,61,39,2
+Paris,Salzburg,72,28,2
+Salzburg,Atlanta,17,83,2
+LOSC,Sevilla,83,17,3
+Internazionale,Leipzig,15,85,2
+Dynamo,Bensiktas,35,65,1
+Shakhtar Donetsk,Villareal,92,8,1
+Villareal,Zenit,84,16,3
+Sporting CP,Real Madrid,30,70,3
+Dortmund,Dynamo,30,70,2
+Milan,Malmö,18,82,2
+Juventus,Milan,24,76,3
+Sheriff,Bensiktas,3,97,2
+Benfica,Dynamo,18,82,2
+Salzburg,Liverpool,40,60,1
+Shakhtar Donetsk,Sevilla,3,97,1
+Juventus,Leipzig,47,53,3
+Liverpool,Sevilla,78,22,2
+Sevilla,Man. City,30,70,3
+Bensiktas,Man. City,80,20,3
+Atletico,Paris,66,34,1
+Internazionale,Real Madrid,11,89,3
+Internazionale,Ajax,14,86,1
+Salzburg,Shakhtar Donetsk,95,5,1
+Barcelona,Villareal,87,13,1
+Man. United,Villareal,58,42,2
+Wolfsburg,Young Boys,33,67,3
+Sporting CP,Dortmund,55,45,1
+Dynamo,Zenit,26,74,3
+Man. United,Chelsea,74,26,1
+Paris,LOSC,34,66,2
+Juventus,Paris,18,82,1
+Shakhtar Donetsk,Porto,66,34,2
+Dortmund,Porto,69,31,2
+Bensiktas,Zenit,63,37,2
+Paris,Benfica,52,48,3
+Sheriff,Paris,98,2,3
+Paris,Atletico,72,28,1
+Zenit,Man. United,24,76,1
+Malmö,Club Brugge,18,82,3
+Dortmund,Dynamo,93,7,3
+Sevilla,Dortmund,98,2,2
+Club Brugge,Chelsea,6,94,1
+Atletico,Ajax,34,66,3
+Porto,Real Madrid,10,90,2
+Salzburg,Young Boys,29,71,1
+Bensiktas,Sheriff,17,83,2
+Wolfsburg,Zenit,37,63,2
+Man. United,Porto,20,80,3
+Atlanta,Benfica,27,73,1
+Wolfsburg,Leipzig,0,100,3
+Sporting CP,Young Boys,44,56,3
+Wolfsburg,Juventus,90,10,1
+Atletico,Sporting CP,95,5,2
+Ajax,Young Boys,33,67,2
+Sporting CP,Young Boys,76,24,3
+Liverpool,Sevilla,19,81,1
+Atletico,Salzburg,48,52,1
+Ajax,Benfica,72,28,2
+Wolfsburg,Real Madrid,56,44,3
+Sporting CP,Malmö,70,30,1
+Bayern,Shakhtar Donetsk,41,59,1
+Bensiktas,Zenit,18,82,1
+Young Boys,Juventus,37,63,3
+Milan,Young Boys,29,71,2
+Man. City,Bayern,86,14,3
+Atletico,Dortmund,49,51,2
+Club Brugge,Man. City,99,1,3
+Liverpool,Malmö,15,85,1
+Dortmund,Sporting CP,43,57,3
+Benfica,Porto,86,14,2
+Porto,Leipzig,9,91,2
+Wolfsburg,Sporting CP,24,76,3
+Barcelona,Chelsea,10,90,3
+Wolfsburg,Porto,32,68,1
+Juventus,Atlanta,39,61,1
+Barcelona,Young Boys,51,49,2
+Internazionale,Sevilla,76,24,2
+Club Brugge,Shakhtar Donetsk,28,72,2
+Sevilla,Dortmund,83,17,2
+LOSC,Man. City,25,75,3
+Milan,Chelsea,39,61,1
+Club Brugge,Porto,68,32,1
+Barcelona,Man. United,64,36,2
+Benfica,Wolfsburg,46,54,2
+Dortmund,Villareal,98,2,1
+Barcelona,Sheriff,24,76,1
+Paris,Sporting CP,49,51,1
+Club Brugge,Porto,79,21,1
+Young Boys,Internazionale,55,45,2
+Dortmund,Juventus,12,88,2
+Dortmund,Dynamo,78,22,3
+Internazionale,Barcelona,22,78,1
+Atletico,LOSC,93,7,1
+Liverpool,Man. United,59,41,3
+Barcelona,Internazionale,22,78,3
+Sheriff,Wolfsburg,85,15,3
+Salzburg,Sporting CP,37,63,2
+Juventus,Paris,49,51,3
+Wolfsburg,Chelsea,61,39,1
+Villareal,Internazionale,30,70,1
+Bensiktas,Barcelona,81,19,1
+Sevilla,LOSC,92,8,2
+Wolfsburg,Zenit,60,40,3
+Sheriff,Sevilla,48,52,2
+Real Madrid,Ajax,27,73,1
+Villareal,Juventus,39,61,1
+Sheriff,Shakhtar Donetsk,99,1,3
+Young Boys,Bayern,52,48,1
+Internazionale,Sporting CP,46,54,2
+Paris,Young Boys,72,28,2
+Bayern,Real Madrid,42,58,3
+Shakhtar Donetsk,Sporting CP,33,67,1
+Bayern,Zenit,76,24,2
+Chelsea,Malmö,60,40,2
+Club Brugge,Bayern,63,37,3
+Milan,Salzburg,13,87,3
+Liverpool,Dortmund,64,36,1
+Sevilla,Paris,57,43,2
+Malmö,Chelsea,35,65,3
+Benfica,LOSC,88,12,1
+Bensiktas,Zenit,25,75,2
+Villareal,Juventus,23,77,1
+Juventus,Sheriff,73,27,2
+Shakhtar Donetsk,Sheriff,89,11,2
+LOSC,Ajax,66,34,3
+Man. City,Atletico,90,10,1
+Porto,Atletico,32,68,2
+Man. City,Atlanta,95,5,2
+Paris,Sporting CP,24,76,1
+Wolfsburg,Zenit,48,52,1
+Villareal,Bayern,39,61,2
+Dortmund,Sheriff,85,15,3
+Paris,Ajax,78,22,2
+Paris,Man. United,27,73,1
+Juventus,Dortmund,41,59,2
+Club Brugge,Ajax,65,35,3
+Milan,Leipzig,40,60,2
+Dortmund,Bensiktas,91,9,1
+Salzburg,Sheriff,12,88,3
+Dynamo,Villareal,4,96,3
+Dynamo,Dortmund,54,46,3
+Barcelona,Sheriff,19,81,2
+Benfica,Shakhtar Donetsk,19,81,1
+Bensiktas,Sporting CP,50,50,3
+LOSC,Villareal,68,32,2
+Bensiktas,Atlanta,98,2,1
+Club Brugge,Salzburg,48,52,3
+Atletico,Barcelona,100,0,1
+Chelsea,Malmö,70,30,1
+Juventus,Salzburg,48,52,3
+Juventus,Club Brugge,73,27,2
+Benfica,LOSC,17,83,3
+Paris,Real Madrid,81,19,1
+Shakhtar Donetsk,Paris,20,80,1
+Real Madrid,Villareal,21,79,1
+Sheriff,Real Madrid,7,93,2
+Salzburg,Dynamo,78,22,3
+Man. United,Dortmund,35,65,2
+Atlanta,Zenit,84,16,3
+Barcelona,Ajax,67,33,2
+LOSC,Zenit,10,90,3
+Atletico,Porto,61,39,2
+Leipzig,Dynamo,23,77,3
+LOSC,Shakhtar Donetsk,80,20,3
+Dortmund,Barcelona,37,63,2
+Sporting CP,LOSC,39,61,3
+Salzburg,Liverpool,49,51,2
+Ajax,Chelsea,81,19,3
+Milan,Wolfsburg,78,22,2
+Man. United,Paris,81,19,1
+LOSC,Wolfsburg,0,100,2
+Chelsea,Villareal,49,51,2
+Bayern,Atlanta,45,55,2
+Zenit,Milan,60,40,2
+LOSC,Sheriff,60,40,1
+Man. City,Juventus,65,35,3
+LOSC,Ajax,86,14,2
+Young Boys,Leipzig,83,17,1
+Atlanta,Young Boys,94,6,3
+Milan,Malmö,30,70,3
+Wolfsburg,Paris,19,81,1
+Real Madrid,Milan,25,75,2
+LOSC,Dynamo,92,8,1
+Club Brugge,Paris,92,8,1
+LOSC,Internazionale,96,4,3
+Salzburg,Dynamo,13,87,3
+Barcelona,Bayern,0,100,1
+Benfica,Malmö,80,20,2
+Dortmund,Benfica,70,30,1
+Juventus,LOSC,5,95,2
+Benfica,Dortmund,54,46,1
+Milan,Man. City,65,35,3
+Wolfsburg,Young Boys,52,48,2
+LOSC,Milan,20,80,2
+Porto,Man. City,61,39,1
+Ajax,Dortmund,95,5,2
+Ajax,Juventus,97,3,1
+Club Brugge,Zenit,64,36,3
+Paris,Juventus,2,98,3
+Club Brugge,LOSC,85,15,3
+Chelsea,Shakhtar Donetsk,41,59,1
+Dortmund,Dynamo,82,18,1
+Paris,Dynamo,77,23,1
+Sevilla,Zenit,29,71,1
+Dynamo,Leipzig,31,69,2
+Salzburg,Dynamo,98,2,1
+Dortmund,Club Brugge,68,32,3
+Dortmund,Bensiktas,33,67,2
+Dortmund,Zenit,82,18,3
+Wolfsburg,Paris,43,57,3
+Leipzig,Villareal,12,88,1
+Club Brugge,Leipzig,27,73,2
+Leipzig,Bensiktas,0,100,3
+Dynamo,Sevilla,92,8,2
+Sevilla,Sporting CP,67,33,3
+Dortmund,Sevilla,56,44,1
+Dynamo,Club Brugge,32,68,1
+Dortmund,Sheriff,51,49,1
+Atletico,Sevilla,25,75,2
+Ajax,Wolfsburg,88,12,3
+Barcelona,Liverpool,77,23,3
+Milan,Dynamo,75,25,2
+Ajax,Barcelona,56,44,2
+Man. City,Sevilla,55,45,2
+Ajax,Wolfsburg,72,28,2
+Zenit,Paris,54,46,2
+Salzburg,Man. United,38,62,3
+Club Brugge,Dortmund,13,87,1
+Sheriff,Wolfsburg,7,93,2
+Man. City,Dynamo,76,24,1
+Dynamo,Real Madrid,57,43,1
+Malmö,Salzburg,14,86,3
+Barcelona,Dortmund,28,72,2
+Internazionale,Liverpool,21,79,3
+Villareal,Chelsea,62,38,1
+Sheriff,Wolfsburg,4,96,3
+Salzburg,Real Madrid,98,2,1

@@ -40,7 +40,7 @@ class ApuestaService:
 class CuotaStrategy(ABC):
     def calcular_cuota(self, caracter_part): #donde las caracter son [0]=Equipo local [1]=Equipo visitante [2]=Cuota local [3]=Cuota visitante
         #from modelo_entr import model
-        from sklearn.externals import joblib
+        import joblib
         #o de la siguiente manera
         model= joblib.load("modelo_entrenado.pkl")
         """Calcular probabilidad"""

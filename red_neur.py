@@ -9,13 +9,13 @@ df = pd.read_csv("partidos_historicos.csv")
 
 # Codificar variables categóricas
 encoder = LabelEncoder()
-df["equipo_local"] = encoder.fit_transform(df["equipo_local"])
-df["equipo_visitante"] = encoder.fit_transform(df["equipo_visitante"])
-df["resultado"] = encoder.fit_transform(df["resultado"])
+df["Equipo_Local"] = encoder.fit_transform(df["Equipo_Local"])
+df["Equipo_Visitante"] = encoder.fit_transform(df["Equipo_Visitante"])
+df["Resultado"] = encoder.fit_transform(df["Resultado"])
 
 # Dividir los datos en conjuntos de entrenamiento y prueba
-X = df[["equipo_local", "equipo_visitante", "cuota_local", "cuota_visitante"]]
-y = df["resultado"]
+X = df[["Equipo_Local", "Equipo_Visitante", "Cuota_Local", "Cuota_Visitante"]]
+y = df["Resultado"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 model = Sequential()
